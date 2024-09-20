@@ -16,6 +16,7 @@ def hardstringtoint(text):
     if "(" in text:
         text = text.replace("(",'-')
         text = text.replace(')','')
+    text = text.replace("$",'')
     return(int(text))
 
 
@@ -29,7 +30,7 @@ def netincomevar(read):
         text = read.pages[i].extract_text()
         # print(i)
         if "ENTERGY CORPORATION AND SUBSIDIARIES\nMANAGEMENT" in text and "S FINANCIAL DISCUSSION AND ANALYSIS" in text:
-            print(f'found it on page {i}')
+            # print(f'found it on page {i}')
             num = i
             break
     
@@ -50,7 +51,7 @@ def netincomevar(read):
                     quarter += j
                     if j == 'C':
                         quarter = quarter[:len(quarter)-2]
-                        print(quarter)
+                        # print(quarter)
                         out['Quarter'] = quarter
 
             if bool(re.search(r'\d+,\d+', key)):
@@ -62,7 +63,7 @@ def netincomevar(read):
                         # print(name)
                         key = key.replace(name,'')
                         key = key.replace('—','0')
-                        print(key)
+                        # print(key)
                         key = key.split()
                         
                         # print(key)
@@ -78,12 +79,13 @@ def netincomevar(read):
 
             key = ''
 
-    print(out)
+    # print(out)
     return out
 
 
 def tojson(path): #"main" function, writes the results from helper function to a json file
     write = path[:len(path)-4]
+    # write = os.path.splitext(os.path.basename(path))[0]
     print(write)
     read = PdfReader(path)
     
@@ -98,6 +100,30 @@ def tojson(path): #"main" function, writes the results from helper function to a
 
 
 start = time.time()
-tojson('etr-20240331.pdf')
+# tojson('etr-20240331.pdf')
 # tojson('etr-20240630.pdf')
 print(f'Task completed in {time.time()-start} seconds')
+
+
+def iterate_directory(directory_path):
+    parent_directory = os.path.dirname(directory_path)
+    output_dir = os.path.join(parent_directory, "output")
+    print(output_dir)
+    print()
+    # Iterate over all the files in the directory
+    for root, dirs, files in os.walk(directory_path):
+        for file in files:
+            # Construct the full path of the file
+            file_path = os.path.join(root, file)
+            # file_path = directory_path
+            if ".json" in file_path:
+                continue
+            # Pass the file name to the function
+            tojson(file_path)
+
+# Specify the directory path
+directory = "../data/10QsEntergy"
+
+# Call the function to start iterating over the files
+iterate_directory(directory)
+

@@ -1,0 +1,66 @@
+{
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "Operating revenues  ": {
+            "Utility": 16229,
+            "Parent & Other": -18819,
+            "Entergy": 29
+        },
+        "resale  ": {
+            "Utility": -5438,
+            "Parent & Other": 6932,
+            "Entergy": 27
+        },
+        "Purchased power  ": {
+            "Utility": -68727,
+            "Parent & Other": -2419,
+            "Entergy": -27
+        },
+        "Other regulatory charges (credits)  ": {
+            "Utility": -169826,
+            "Parent & Other": 0,
+            "Entergy": 0
+        },
+        "Other operation and maintenance  ": {
+            "Utility": 21823,
+            "Parent & Other": -11904,
+            "Entergy": -8152
+        },
+        "Asset write-offs, impairments, and related charges  \u2014 ": {
+            "Utility": -52524,
+            "Parent & Other": 0,
+            "Entergy": -52524
+        },
+        "Taxes other than income taxes  ": {
+            "Utility": 6951,
+            "Parent & Other": -2088,
+            "Entergy": -2
+        },
+        "Depreciation and amortization  ": {
+            "Utility": 13338,
+            "Parent & Other": -674,
+            "Entergy": 347
+        },
+        "Other income  ": {
+            "Utility": 13068,
+            "Parent & Other": 23524,
+            "Entergy": -3388
+        },
+        "Interest expense  ": {
+            "Utility": 5877,
+            "Parent & Other": 416,
+            "Entergy": 362
+        },
+        "Other expenses  ": {
+            "Utility": 7467,
+            "Parent & Other": 15157,
+            "Entergy": 0
+        },
+        "Income taxes  ": {
+            "Utility": 261474,
+            "Parent & Other": 20854,
+            "Entergy": -274
+        }
+    },
+    "Quarter": "2nd Quarter 2019"
+}
