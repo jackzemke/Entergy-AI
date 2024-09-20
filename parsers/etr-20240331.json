@@ -1,0 +1,66 @@
+{
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "Operating revenues ": {
+            "Utility": -175819,
+            "Parent & Other": -10612,
+            "Entergy": -186431
+        },
+        "Fuel, fuel-related expenses, and gas purchased for resale ": {
+            "Utility": -284046,
+            "Parent & Other": 2279,
+            "Entergy": -281767
+        },
+        "Purchased power ": {
+            "Utility": 226,
+            "Parent & Other": -10372,
+            "Entergy": -10146
+        },
+        "Other regulatory charges (credits) - net ": {
+            "Utility": 85673,
+            "Parent & Other": 0,
+            "Entergy": 85673
+        },
+        "Other operation and maintenance ": {
+            "Utility": 60922,
+            "Parent & Other": -5417,
+            "Entergy": 55505
+        },
+        "Asset write-offs, impairments, and related charges ": {
+            "Utility": 131775,
+            "Parent & Other": 0,
+            "Entergy": 131775
+        },
+        "Taxes other than income taxes ": {
+            "Utility": 7371,
+            "Parent & Other": -379,
+            "Entergy": 6992
+        },
+        "Depreciation and amortization ": {
+            "Utility": 45745,
+            "Parent & Other": 0,
+            "Entergy": 45745
+        },
+        "Other income (deductions) ": {
+            "Utility": 135803,
+            "Parent & Other": -26008,
+            "Entergy": 109795
+        },
+        "Interest expense ": {
+            "Utility": 9913,
+            "Parent & Other": 11549,
+            "Entergy": 21462
+        },
+        "Other expenses ": {
+            "Utility": 3918,
+            "Parent & Other": 1,
+            "Entergy": 3919
+        },
+        "Income taxes ": {
+            "Utility": 100674,
+            "Parent & Other": -705,
+            "Entergy": 99969
+        }
+    },
+    "Quarter": "First Quarter 2024"
+}
