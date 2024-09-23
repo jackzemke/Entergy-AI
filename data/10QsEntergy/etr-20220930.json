@@ -1,0 +1,84 @@
+{
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "Corporation ": {
+            "Utility": 672368,
+            "Entergy Wholesale Commodities": -19292,
+            "Parent & Other": -92487,
+            "Entergy": 560589
+        },
+        "Operating revenues ": {
+            "Utility": 965376,
+            "Entergy Wholesale Commodities": -100266,
+            "Parent & Other": -27,
+            "Entergy": 865083
+        },
+        "Fuel, fuel-related expenses, and gas purchased for resale ": {
+            "Utility": 623649,
+            "Entergy Wholesale Commodities": 5380,
+            "Parent & Other": -3,
+            "Entergy": 629026
+        },
+        "Purchased power ": {
+            "Utility": 101408,
+            "Entergy Wholesale Commodities": 2323,
+            "Parent & Other": 3,
+            "Entergy": 103734
+        },
+        "Other regulatory charges (credits) - net ": {
+            "Utility": -111607,
+            "Entergy Wholesale Commodities": 0,
+            "Parent & Other": 0,
+            "Entergy": -111607
+        },
+        "Other operation and maintenance ": {
+            "Utility": 132029,
+            "Entergy Wholesale Commodities": -40994,
+            "Parent & Other": 1515,
+            "Entergy": 92550
+        },
+        "Taxes other than income taxes ": {
+            "Utility": 8938,
+            "Entergy Wholesale Commodities": -1257,
+            "Parent & Other": 28,
+            "Entergy": 7709
+        },
+        "Depreciation and amortization ": {
+            "Utility": 39246,
+            "Entergy Wholesale Commodities": -7298,
+            "Parent & Other": -405,
+            "Entergy": 31543
+        },
+        "Other income (deductions) ": {
+            "Utility": -35648,
+            "Entergy Wholesale Commodities": -2819,
+            "Parent & Other": -24279,
+            "Entergy": -62746
+        },
+        "Interest expense ": {
+            "Utility": 14589,
+            "Entergy Wholesale Commodities": -1042,
+            "Parent & Other": 4413,
+            "Entergy": 17960
+        },
+        "Other expenses ": {
+            "Utility": 10097,
+            "Entergy Wholesale Commodities": -24800,
+            "Parent & Other": 0,
+            "Entergy": -14703
+        },
+        "Income taxes ": {
+            "Utility": 18616,
+            "Entergy Wholesale Commodities": 9416,
+            "Parent & Other": -2202,
+            "Entergy": 25830
+        },
+        "noncontrolling interest ": {
+            "Utility": -9239,
+            "Entergy Wholesale Commodities": 0,
+            "Parent & Other": -48,
+            "Entergy": -9287
+        }
+    },
+    "Quarter": "Third Quarter 2022"
+}

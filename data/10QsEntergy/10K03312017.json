@@ -3,53 +3,63 @@
         "Scale": "Thousands of Dollars",
         "charges/credits)  ": {
             "Utility": 29119,
-            "Parent & Other": 27906,
-            "Entergy": -2
+            "Entergy Wholesale Commodities": 27906,
+            "Parent & Other": -2,
+            "Entergy": 57023
         },
         "Other operation and maintenance  ": {
             "Utility": 53442,
-            "Parent & Other": 81437,
-            "Entergy": 752
+            "Entergy Wholesale Commodities": 81437,
+            "Parent & Other": 752,
+            "Entergy": 135631
         },
-        "Asset write-offs, impairments, and related charges  \u2014 ": {
-            "Utility": 204430,
+        "Asset write-offs, impairments, and related charges  ": {
+            "Utility": 0,
+            "Entergy Wholesale Commodities": 204430,
             "Parent & Other": 0,
             "Entergy": 204430
         },
         "Taxes other than income taxes  ": {
             "Utility": 7602,
-            "Parent & Other": -1320,
-            "Entergy": 293
+            "Entergy Wholesale Commodities": -1320,
+            "Parent & Other": 293,
+            "Entergy": 6575
         },
         "Depreciation and amortization  ": {
             "Utility": 16450,
-            "Parent & Other": -3514,
-            "Entergy": 56
+            "Entergy Wholesale Commodities": -3514,
+            "Parent & Other": 56,
+            "Entergy": 12992
         },
-        "Gain on sale of assets  \u2014 ": {
-            "Utility": 16270,
+        "Gain on sale of assets  ": {
+            "Utility": 0,
+            "Entergy Wholesale Commodities": 16270,
             "Parent & Other": 0,
             "Entergy": 16270
         },
         "Other income  ": {
             "Utility": 9440,
-            "Parent & Other": 30459,
-            "Entergy": 61
+            "Entergy Wholesale Commodities": 30459,
+            "Parent & Other": 61,
+            "Entergy": 39960
         },
         "Interest expense  ": {
             "Utility": -3974,
-            "Parent & Other": 338,
-            "Entergy": 1554
+            "Entergy Wholesale Commodities": 338,
+            "Parent & Other": 1554,
+            "Entergy": -2082
         },
         "Other expenses  ": {
             "Utility": 6411,
-            "Parent & Other": 30668,
-            "Entergy": 1
+            "Entergy Wholesale Commodities": 30668,
+            "Parent & Other": 1,
+            "Entergy": 37080
         },
         "Income taxes  ": {
             "Utility": -9344,
-            "Parent & Other": -130651,
-            "Entergy": 7813
+            "Entergy Wholesale Commodities": -130651,
+            "Parent & Other": 7813,
+            "Entergy": -132182
         }
     },
     "Quarter": "First Quarter 2017"

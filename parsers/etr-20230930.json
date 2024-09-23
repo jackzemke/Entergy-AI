@@ -1,0 +1,77 @@
+{
+    "2022 Net Income (Loss) Attributable to Entergy Corporation": {
+        "Utility": 672368,
+        "Parent &Other (a)": -111779,
+        "Entergy": 560589
+    },
+    "Operating revenues": {
+        "Utility": -597376,
+        "Parent &Other (a)": -25717,
+        "Entergy": -623093
+    },
+    "Fuel, fuel-related expenses, and gas purchased for resale": {
+        "Utility": -643951,
+        "Parent &Other (a)": -15369,
+        "Entergy": -659320
+    },
+    "Purchased power": {
+        "Utility": -98305,
+        "Parent &Other (a)": -7385,
+        "Entergy": -105690
+    },
+    "Other regulatory charges (credits) - net": {
+        "Utility": -40206,
+        "Parent &Other (a)": 0,
+        "Entergy": -40206
+    },
+    "Other operation and maintenance": {
+        "Utility": -32682,
+        "Parent &Other (a)": -8700,
+        "Entergy": -41382
+    },
+    "Asset write-offs, impairments, and related charges (credits)": {
+        "Utility": 78434,
+        "Parent &Other (a)": -40213,
+        "Entergy": 38221
+    },
+    "Taxes other than income taxes": {
+        "Utility": 8088,
+        "Parent &Other (a)": -490,
+        "Entergy": 7598
+    },
+    "Depreciation and amortization": {
+        "Utility": -13261,
+        "Parent &Other (a)": -154,
+        "Entergy": -13415
+    },
+    "Other income (deductions)": {
+        "Utility": 10785,
+        "Parent &Other (a)": -14765,
+        "Entergy": -3980
+    },
+    "Interest expense": {
+        "Utility": 18096,
+        "Parent &Other (a)": 9885,
+        "Entergy": 27981
+    },
+    "Other expenses": {
+        "Utility": 2421,
+        "Parent &Other (a)": 2,
+        "Entergy": 2423
+    },
+    "Income taxes": {
+        "Utility": 47901,
+        "Parent &Other (a)": -5016,
+        "Entergy": 42885
+    },
+    "Preferred dividend requirements of subsidiaries and noncontrolling interests": {
+        "Utility": 7666,
+        "Parent &Other (a)": 0,
+        "Entergy": 7666
+    },
+    "2023 Net Income (Loss) Attributable to Entergy Corporation": {
+        "Utility": 751576,
+        "Parent &Other (a)": -84821,
+        "Entergy": 666755
+    }
+}

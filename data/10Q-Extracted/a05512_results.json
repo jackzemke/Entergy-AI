@@ -1,0 +1,52 @@
+{
+    "3rd Qtr 2011 Consolidated Net Income": {
+        "EntergyWholesaleCommodities": 528459,
+        "Parent &Other (1)": 130862,
+        "Entergy": -26252
+    },
+    "Net revenue (operating revenue less fuelexpense, purchased power, and otherregulatory charges/credits)": {
+        "EntergyWholesaleCommodities": 189220,
+        "Parent &Other (1)": -46721,
+        "Entergy": -2626
+    },
+    "Other operation and maintenance expenses": {
+        "EntergyWholesaleCommodities": 40964,
+        "Parent &Other (1)": 16059,
+        "Entergy": -602
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": -2248,
+        "Parent &Other (1)": -617,
+        "Entergy": -130
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 13902,
+        "Parent &Other (1)": -15664,
+        "Entergy": -79
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": -5287,
+        "Parent &Other (1)": -2847,
+        "Entergy": -365
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 9485,
+        "Parent &Other (1)": -2227,
+        "Entergy": 12951
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 3442,
+        "Parent &Other (1)": -5097,
+        "Entergy": -1655
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 346341,
+        "Parent &Other (1)": -29926,
+        "Entergy": 35219
+    },
+    "3rd Qtr 2012 Consolidated Net Income": {
+        "EntergyWholesaleCommodities": 300506,
+        "Parent &Other (1)": 118766,
+        "Entergy": -76602
+    }
+}

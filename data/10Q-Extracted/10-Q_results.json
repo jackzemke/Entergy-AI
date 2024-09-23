@@ -1,0 +1,57 @@
+{
+    "3rd Quarter 2014 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 315263,
+        "Parent &Other (a)": -32678,
+        "Entergy": -47669
+    },
+    "Net revenue (operating revenue less fuel expense, purchased power, and other regulatory charges/credits)": {
+        "EntergyWholesaleCommodities": 104500,
+        "Parent &Other (a)": -74775,
+        "Entergy": -180
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": 46707,
+        "Parent &Other (a)": -37314,
+        "Entergy": 1053
+    },
+    "Asset write-offs, impairments, and related charges": {
+        "EntergyWholesaleCommodities": -60857,
+        "Parent &Other (a)": 1539226,
+        "Entergy": 1478369
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": 8081,
+        "Parent &Other (a)": -9689,
+        "Entergy": 7
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 14347,
+        "Parent &Other (a)": -11208,
+        "Entergy": -377
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": -15752,
+        "Parent &Other (a)": -1049,
+        "Entergy": 339
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 2532,
+        "Parent &Other (a)": 3444,
+        "Entergy": 2266
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 2179,
+        "Parent &Other (a)": -4735,
+        "Entergy": -2556
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 26757,
+        "Parent &Other (a)": -556816,
+        "Entergy": 629
+    },
+    "3rd Quarter 2015 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 364265,
+        "Parent &Other (a)": -1031410,
+        "Entergy": -51088
+    }
+}

@@ -49,16 +49,20 @@ def netincomevar(read):
     
     page = read.pages[num]
     text = page.extract_text()
-    # print(text)
+    print(text)
     
     out = {}
     out['Net Income Variance'] = {}
     key = ''
+    save = ''
 
     for i in range(len(text)):
+        # key += save
+        # save = ''
         key += text[i]
         # print(key)
         if text[i] == '\n':
+            # key += save
             # print(key)
 
             if "Quarter" in key:
@@ -104,15 +108,26 @@ def netincomevar(read):
                 # print(key)
                 print()
 
+            # save = ''
+            if ("Net Income" in key and "Attributable to Entergy" in key) and not bool(re.search(r'\d+,\d+', key)):
+                save = key.replace('\n','')
+                print(f'{save}: save')
+            
             if bool(re.search(r'\d+,\d+', key)):
                 name = ''
+                # if save != '':
+                #     key += save
+                #     key += ' '
+                #     save = ''
                 index = 0
-                # print(f'key: {key}')
+                print(f'key: {key}')
                 for j in key:
                     if (is_number_or_parenthesis_number(key,index) or is_hyphen(key,index)) and "Net Income" not in key:
+                        print(f'Name: {name}')
+                        print(key)
                         key = key.replace(name,'')
+                        print(key)
                         key = key.replace('—','0')
-                        # print(key)
                         key = key.split()
                         name = name.replace('$','')
                         
@@ -128,6 +143,10 @@ def netincomevar(read):
                     name += j
                     index += 1
 
+            if '(a) Parent & Other includes eliminations, which are primarily intersegment activity.' in key:
+                print(out)
+                return out
+
             key = ''
 
     print(out)
@@ -135,6 +154,7 @@ def netincomevar(read):
 
 
 def tojson(path): #"main" function, writes the results from helper function to a json file
+    # print(path)
     write = path[:len(path)-4]
     # write = os.path.splitext(os.path.basename(path))[0]
     print(write)
@@ -152,7 +172,7 @@ def tojson(path): #"main" function, writes the results from helper function to a
 
 start = time.time()
 # tojson('etr-20240331.pdf')
-# tojson('../data/10QsEntergy/etr-20230630.pdf')
+tojson('../data/10QsEntergy/10k03312020.pdf')
 print(f'Task completed in {time.time()-start} seconds')
 
 
@@ -179,5 +199,5 @@ def iterate_directory(directory_path):
 directory = "../data/10QsEntergy"
 
 # Call the function to start iterating over the files
-iterate_directory(directory)
+# iterate_directory(directory)
 

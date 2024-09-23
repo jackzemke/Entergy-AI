@@ -1,0 +1,52 @@
+{
+    "2nd Quarter 2017 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 246382,
+        "Parent &Other (a)": 223886,
+        "Entergy": -56900
+    },
+    "Net revenue (operating revenue less fuel expense, purchased power, and other regulatory charges/credits)": {
+        "EntergyWholesaleCommodities": -179032,
+        "Parent &Other (a)": 22121,
+        "Entergy": -2
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": 31127,
+        "Parent &Other (a)": 8895,
+        "Entergy": 5114
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": 1796,
+        "Parent &Other (a)": 3465,
+        "Entergy": 22
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 13564,
+        "Parent &Other (a)": -13350,
+        "Entergy": -57
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": -11092,
+        "Parent &Other (a)": -3715,
+        "Entergy": -1151
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 5208,
+        "Parent &Other (a)": 2410,
+        "Entergy": 7174
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": -2656,
+        "Parent &Other (a)": -2963,
+        "Entergy": -5619
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": -371175,
+        "Parent &Other (a)": 424800,
+        "Entergy": 2891
+    },
+    "2nd Quarter 2018 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 378394,
+        "Parent &Other (a)": -56337,
+        "Entergy": -73197
+    }
+}

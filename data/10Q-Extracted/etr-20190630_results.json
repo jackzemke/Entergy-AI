@@ -1,0 +1,62 @@
+{
+    "2nd Quarter 2018 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 378394,
+        "Parent &Other (a)": -56337,
+        "Entergy": -73197
+    },
+    "Operating revenues": {
+        "EntergyWholesaleCommodities": 16229,
+        "Parent &Other (a)": -18819,
+        "Entergy": 29
+    },
+    "Fuel, fuel-related expenses, and gas purchased for resale": {
+        "EntergyWholesaleCommodities": -5438,
+        "Parent &Other (a)": 6932,
+        "Entergy": 27
+    },
+    "Purchased power": {
+        "EntergyWholesaleCommodities": -68727,
+        "Parent &Other (a)": -2419,
+        "Entergy": -27
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": 21823,
+        "Parent &Other (a)": -11904,
+        "Entergy": -8152
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": 6951,
+        "Parent &Other (a)": -2088,
+        "Entergy": -2
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 13338,
+        "Parent &Other (a)": -674,
+        "Entergy": 347
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": 13068,
+        "Parent &Other (a)": 23524,
+        "Entergy": -3388
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 5877,
+        "Parent &Other (a)": 416,
+        "Entergy": 362
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 7467,
+        "Parent &Other (a)": 15157,
+        "Entergy": 22624
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 261474,
+        "Parent &Other (a)": 20854,
+        "Entergy": -274
+    },
+    "2nd Quarter 2019 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 334752,
+        "Parent &Other (a)": -25382,
+        "Entergy": -68837
+    }
+}
