@@ -2,9 +2,13 @@ import os
 import json
 from bs4 import BeautifulSoup
 import time
+from colorama import init, Fore
+
 
 filings_dir = '../data/10QHTML/'
 output_dir = '../data/10Q-Extracted/'
+init(autoreset = True) #Set autoreset to True else style configurations would be forwarded to the next print statement
+
 
 def hardstringtoint(text):
     # print(f"Original text: {text}")
@@ -135,7 +139,9 @@ def parse_filing(file_path):
 
                 # Ensure the row_data length matches the headers
                 if len(row_data) < len(headers):
-                    print(f"Warning: Mismatch between row_data and headers length for {row_key}")
+                    print(Fore.RED + f"Warning: Mismatch between row_data and headers length for {row_key}")
+                    print(f"Data: {row_data}")
+                    print(f"Headers: {headers}")
                     continue
 
                 # Correctly map row_data to headers
@@ -164,8 +170,10 @@ def save_to_json(data, filename, target_dir):
 
 
 # Main processing loop
+bigstart = time.time()
 for filename in os.listdir(filings_dir):
     if filename.endswith(".html") or filename.endswith(".htm"):
+        smallstart = time.time()
         file_path = os.path.join(filings_dir, filename)
 
         # Parse the HTML/HTM file and extract the table
@@ -176,6 +184,7 @@ for filename in os.listdir(filings_dir):
             save_to_json(extracted_table, json_filename, output_dir)  # Specify the target directory here
         else:
             print(f"Results of Operations table not found in {filename}")
+        print(Fore.GREEN + f"File {filename} processed in {round(time.time()-smallstart,6)} seconds")
 
-print("Data extraction complete.")
+print(Fore.YELLOW + f"Data extraction completed in {round(time.time()-bigstart,4)} seconds.")
 
