@@ -1,0 +1,52 @@
+{
+    "3rd Quarter 2015 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 364265,
+        "Parent &Other (a)": -1031410,
+        "Entergy": -51088
+    },
+    "Net revenue (operating revenue less fuel expense, purchased power, and other regulatory charges/credits)": {
+        "EntergyWholesaleCommodities": 108816,
+        "Parent &Other (a)": -13327,
+        "Entergy": -9
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": -40808,
+        "Parent &Other (a)": 18877,
+        "Entergy": 2722
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": -9982,
+        "Parent &Other (a)": 1003,
+        "Entergy": -79
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 13084,
+        "Parent &Other (a)": -7300,
+        "Entergy": -226
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": 3002,
+        "Parent &Other (a)": 714,
+        "Entergy": -649
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 4645,
+        "Parent &Other (a)": -1861,
+        "Entergy": 351
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 4704,
+        "Parent &Other (a)": -228,
+        "Entergy": 4476
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 56658,
+        "Parent &Other (a)": 560628,
+        "Entergy": 8285
+    },
+    "3rd Quarter 2016 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 447782,
+        "Parent &Other (a)": 8221,
+        "Entergy": -62799
+    }
+}

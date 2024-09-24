@@ -1,0 +1,62 @@
+{
+    "2019 Net Income (Loss) Attributable to Entergy Corporation": {
+        "EntergyWholesaleCommodities": 578291,
+        "Parent &Other (a)": -141048,
+        "Entergy": -72003
+    },
+    "Operating revenues": {
+        "EntergyWholesaleCommodities": -151036,
+        "Parent &Other (a)": -85992,
+        "Entergy": 21
+    },
+    "Fuel, fuel-related expenses, and gas purchased for resale": {
+        "EntergyWholesaleCommodities": -163986,
+        "Parent &Other (a)": -11290,
+        "Entergy": 5
+    },
+    "Purchased power": {
+        "EntergyWholesaleCommodities": -62312,
+        "Parent &Other (a)": 10902,
+        "Entergy": -5
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": -26190,
+        "Parent &Other (a)": -22648,
+        "Entergy": -5521
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": 8402,
+        "Parent &Other (a)": -2795,
+        "Entergy": 87
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 39576,
+        "Parent &Other (a)": -17136,
+        "Entergy": -81
+    },
+    "Other income (deductions)": {
+        "EntergyWholesaleCommodities": -31142,
+        "Parent &Other (a)": 52757,
+        "Entergy": 6873
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 14815,
+        "Parent &Other (a)": -642,
+        "Entergy": -4081
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": -3865,
+        "Parent &Other (a)": -10451,
+        "Entergy": -14316
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 71924,
+        "Parent &Other (a)": 43176,
+        "Entergy": 5143
+    },
+    "2020 Net Income (Loss) Attributable to Entergy Corporation": {
+        "EntergyWholesaleCommodities": 551549,
+        "Parent &Other (a)": 30226,
+        "Entergy": -60656
+    }
+}

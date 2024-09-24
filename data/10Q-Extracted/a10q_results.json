@@ -1,0 +1,52 @@
+{
+    "2nd Quarter 2012 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 308525,
+        "Parent &Other (a)": 70759,
+        "Entergy": -8701
+    },
+    "Net revenue (operating revenue less fuelexpense, purchased power, and otherregulatory charges/credits)": {
+        "EntergyWholesaleCommodities": 219043,
+        "Parent &Other (a)": -61192,
+        "Entergy": 2618
+    },
+    "Other operation and maintenance expenses": {
+        "EntergyWholesaleCommodities": 65119,
+        "Parent &Other (a)": 3890,
+        "Entergy": 2305
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": 7095,
+        "Parent &Other (a)": -307,
+        "Entergy": -11
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 20634,
+        "Parent &Other (a)": 2233,
+        "Entergy": -106
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": 4133,
+        "Parent &Other (a)": -4212,
+        "Entergy": -819
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 9989,
+        "Parent &Other (a)": -1700,
+        "Entergy": 1555
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 4922,
+        "Parent &Other (a)": 51167,
+        "Entergy": 56089
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 223387,
+        "Parent &Other (a)": -61459,
+        "Entergy": 33386
+    },
+    "2nd Quarter 2013 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 200555,
+        "Parent &Other (a)": 11531,
+        "Entergy": -44031
+    }
+}

@@ -1,3 +1,76 @@
 {
-    "Net Income Variance": {}
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "Operating revenues ": {
+            "Utility": -487522,
+            "Parent & Other": -61648,
+            "Entergy": -549170
+        },
+        "Fuel, fuel-related expenses, and gas purchased for resale ": {
+            "Utility": -52733,
+            "Parent & Other": -15496,
+            "Entergy": -68229
+        },
+        "Purchased power ": {
+            "Utility": -353755,
+            "Parent & Other": -10336,
+            "Entergy": -364091
+        },
+        "Other regulatory charges (credits) - net ": {
+            "Utility": -859564,
+            "Parent & Other": 0,
+            "Entergy": -859564
+        },
+        "Other operation and maintenance ": {
+            "Utility": -81596,
+            "Parent & Other": -36225,
+            "Entergy": -117821
+        },
+        "Asset write-offs, impairments, and related charges (credits) ": {
+            "Utility": 0,
+            "Parent & Other": 164066,
+            "Entergy": 164066
+        },
+        "Taxes other than income taxes ": {
+            "Utility": 13588,
+            "Parent & Other": -2254,
+            "Entergy": 11334
+        },
+        "Depreciation and amortization ": {
+            "Utility": 25810,
+            "Parent & Other": -1631,
+            "Entergy": 24179
+        },
+        "Other income ": {
+            "Utility": 78428,
+            "Parent & Other": -6774,
+            "Entergy": 71654
+        },
+        "Interest expense ": {
+            "Utility": 17268,
+            "Parent & Other": 6739,
+            "Entergy": 24007
+        },
+        "Other expenses ": {
+            "Utility": 7745,
+            "Parent & Other": -21584,
+            "Entergy": -13839
+        },
+        "Income taxes ": {
+            "Utility": 516193,
+            "Parent & Other": -21754,
+            "Entergy": 494439
+        },
+        "noncontrolling interests ": {
+            "Utility": -3538,
+            "Parent & Other": 0,
+            "Entergy": -3538
+        },
+        "Corporation ": {
+            "Utility": 514227,
+            "Parent & Other": -122983,
+            "Entergy": 391244
+        }
+    },
+    "Quarter": "Second Quarter 2023"
 }

@@ -1,0 +1,52 @@
+{
+    "2015 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 227750,
+        "Parent &Other (a)": 123432,
+        "Entergy": -48253
+    },
+    "Net revenue (operating revenue less fuel expense, purchased power, and other regulatory charges/credits)": {
+        "EntergyWholesaleCommodities": -35427,
+        "Parent &Other (a)": -60318,
+        "Entergy": -9
+    },
+    "Other operation and maintenance": {
+        "EntergyWholesaleCommodities": -41278,
+        "Parent &Other (a)": 1335,
+        "Entergy": 1748
+    },
+    "Taxes other than income taxes": {
+        "EntergyWholesaleCommodities": -6461,
+        "Parent &Other (a)": -973,
+        "Entergy": -311
+    },
+    "Depreciation and amortization": {
+        "EntergyWholesaleCommodities": 8619,
+        "Parent &Other (a)": -6156,
+        "Entergy": -176
+    },
+    "Other income": {
+        "EntergyWholesaleCommodities": -8300,
+        "Parent &Other (a)": -20530,
+        "Entergy": -923
+    },
+    "Interest expense": {
+        "EntergyWholesaleCommodities": 966,
+        "Parent &Other (a)": 188,
+        "Entergy": 2755
+    },
+    "Other expenses": {
+        "EntergyWholesaleCommodities": 5941,
+        "Parent &Other (a)": -20852,
+        "Entergy": -14911
+    },
+    "Income taxes": {
+        "EntergyWholesaleCommodities": 16585,
+        "Parent &Other (a)": -17876,
+        "Entergy": -9235
+    },
+    "2016 Consolidated Net Income (Loss)": {
+        "EntergyWholesaleCommodities": 199651,
+        "Parent &Other (a)": 79557,
+        "Entergy": -43966
+    }
+}

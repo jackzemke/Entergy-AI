@@ -1,0 +1,60 @@
+{
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "purchased power, and other regulatory charges/credits) ": {
+            "Utility": 17946,
+            "Entergy Wholesale Commodities": -9906,
+            "Parent & Other": -5024,
+            "Entergy": 3016
+        },
+        "Other operation and maintenance expenses ": {
+            "Utility": 16512,
+            "Entergy Wholesale Commodities": -9651,
+            "Parent & Other": -4270,
+            "Entergy": 2591
+        },
+        "Asset write-off, impairments, and related charges ": {
+            "Utility": 60857,
+            "Entergy Wholesale Commodities": -188527,
+            "Parent & Other": 0,
+            "Entergy": -127670
+        },
+        "Taxes other than income taxes ": {
+            "Utility": 4089,
+            "Entergy Wholesale Commodities": -1047,
+            "Parent & Other": -257,
+            "Entergy": 2785
+        },
+        "Depreciation and amortization ": {
+            "Utility": -9416,
+            "Entergy Wholesale Commodities": 16498,
+            "Parent & Other": -152,
+            "Entergy": 6930
+        },
+        "Other income ": {
+            "Utility": 26150,
+            "Entergy Wholesale Commodities": 7993,
+            "Parent & Other": -5395,
+            "Entergy": 28748
+        },
+        "Interest expense ": {
+            "Utility": 4812,
+            "Entergy Wholesale Commodities": -481,
+            "Parent & Other": 436,
+            "Entergy": 4767
+        },
+        "Other expenses ": {
+            "Utility": 2910,
+            "Entergy Wholesale Commodities": 11505,
+            "Parent & Other": 0,
+            "Entergy": 14415
+        },
+        "Income taxes ": {
+            "Utility": 1372,
+            "Entergy Wholesale Commodities": 109640,
+            "Parent & Other": 26200,
+            "Entergy": 137212
+        }
+    },
+    "Quarter": "3rd Quarter 2014"
+}

@@ -1,0 +1,60 @@
+{
+    "Net Income Variance": {
+        "Scale": "Thousands of Dollars",
+        "charges/credits)  ": {
+            "Utility": -253847,
+            "Entergy Wholesale Commodities": -50681,
+            "Parent & Other": -2,
+            "Entergy": -304530
+        },
+        "Other operation and maintenance  ": {
+            "Utility": 50746,
+            "Entergy Wholesale Commodities": 24903,
+            "Parent & Other": 3363,
+            "Entergy": 79012
+        },
+        "Asset write-offs, impairments, and related charges  ": {
+            "Utility": 0,
+            "Entergy Wholesale Commodities": 138994,
+            "Parent & Other": 0,
+            "Entergy": 138994
+        },
+        "Taxes other than income taxes  ": {
+            "Utility": 1388,
+            "Entergy Wholesale Commodities": 775,
+            "Parent & Other": 279,
+            "Entergy": 2442
+        },
+        "Depreciation and amortization  ": {
+            "Utility": -17013,
+            "Entergy Wholesale Commodities": -12845,
+            "Parent & Other": -253,
+            "Entergy": -30111
+        },
+        "Other income  ": {
+            "Utility": 26926,
+            "Entergy Wholesale Commodities": 88207,
+            "Parent & Other": -624,
+            "Entergy": 114509
+        },
+        "Interest expense  ": {
+            "Utility": 2256,
+            "Entergy Wholesale Commodities": 3386,
+            "Parent & Other": 7526,
+            "Entergy": 13168
+        },
+        "Other expenses  ": {
+            "Utility": -628,
+            "Entergy Wholesale Commodities": -6271,
+            "Parent & Other": 0,
+            "Entergy": -6899
+        },
+        "Income taxes  ": {
+            "Utility": -367682,
+            "Entergy Wholesale Commodities": -161222,
+            "Parent & Other": 4103,
+            "Entergy": -524801
+        }
+    },
+    "Quarter": "3rd Quarter 2018"
+}
