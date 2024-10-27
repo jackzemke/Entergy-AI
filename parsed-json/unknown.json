@@ -1,0 +1,5881 @@
+{
+    "Report Date": "unknown",
+    "Table_1": {
+        "CommissionFile Number": {
+            "": "I.R.S. EmployerIdentification No."
+        },
+        "1-3526": {
+            "": "58-0690070"
+        },
+        "1-3164": {
+            "": "63-0004250"
+        },
+        "1-6468": {
+            "": "58-0257110"
+        },
+        "001-31737": {
+            "": "59-0276810"
+        },
+        "001-11229": {
+            "": "64-0205820"
+        },
+        "333-98553": {
+            "": "58-2598670"
+        }
+    },
+    "Table_2": {
+        "Registrant": {
+            "": "SmallerReportingCompany"
+        },
+        "The Southern Company": {
+            "": ""
+        },
+        "Alabama Power Company": {
+            "": ""
+        },
+        "Georgia Power Company": {
+            "": ""
+        },
+        "Gulf Power Company": {
+            "": ""
+        },
+        "Mississippi Power Company": {
+            "": ""
+        },
+        "Southern Power Company": {
+            "": ""
+        }
+    },
+    "Table_3": {
+        "Registrant": {
+            "": "Shares Outstandingat March \n31 2012"
+        },
+        "The Southern Company": {
+            "": 868690126.0
+        },
+        "Alabama Power Company": {
+            "": 30537500.0
+        },
+        "Georgia Power Company": {
+            "": 9261500.0
+        },
+        "Gulf Power Company": {
+            "": 4542717.0
+        },
+        "Mississippi Power Company": {
+            "": 1121000.0
+        },
+        "Southern Power Company": {
+            "": 1000.0
+        }
+    },
+    "Table_4": {
+        "": {
+            "": ""
+        },
+        "Item 1.": {
+            "": ""
+        },
+        "Item 2.": {
+            "": ""
+        },
+        "Item 3.": {
+            "": ""
+        },
+        "Item 4.": {
+            "": ""
+        }
+    },
+    "Table_5": {
+        "": {
+            "": ""
+        },
+        "Item 1.": {
+            "": ""
+        },
+        "Item 1A.": {
+            "": ""
+        },
+        "Item 2.": {
+            "": ""
+        },
+        "Item 3.": {
+            "": ""
+        },
+        "Item 4.": {
+            "": ""
+        },
+        "Item 5.": {
+            "": ""
+        },
+        "Item 6.": {
+            "": ""
+        }
+    },
+    "Table_6": {
+        "Term": {
+            "": "Meaning"
+        },
+        "2010 ARP": {
+            "": "Alternate Rate Plan approved by the Georgia PSC for Georgia Power which became effective January 1 2011 and will continue through December 31 2013"
+        },
+        "2011 IRP Update": {
+            "": "Georgia Power’s 2011 Integrated Resource Plan update filed with the Georgia PSC on August 4 2011"
+        },
+        "AFUDC": {
+            "": "Allowance for funds used during construction"
+        },
+        "Alabama Power": {
+            "": "Alabama Power Company"
+        },
+        "Clean Air Act": {
+            "": "Clean Air Act Amendments of 1990"
+        },
+        "CPCN": {
+            "": "Certificate of public convenience and necessity"
+        },
+        "CWIP": {
+            "": "Construction work in progress"
+        },
+        "DOE": {
+            "": "U.S. Department of Energy"
+        },
+        "ECO Plan": {
+            "": "Mississippi Power’s Environmental Compliance Overview Plan"
+        },
+        "EPA": {
+            "": "U.S. Environmental Protection Agency"
+        },
+        "FERC": {
+            "": "Federal Energy Regulatory Commission"
+        },
+        "Form 10-K": {
+            "": "Combined Annual Report on Form 10-K of Southern Company Alabama Power Georgia Power Gulf Power Mississippi Power and Southern Power for the year ended December 31\n2011"
+        },
+        "GAAP": {
+            "": "Generally accepted accounting principles"
+        },
+        "Georgia Power": {
+            "": "Georgia Power Company"
+        },
+        "Gulf Power": {
+            "": "Gulf Power Company"
+        },
+        "IGCC": {
+            "": "Integrated coal gasification combined cycle"
+        },
+        "IIC": {
+            "": "Intercompany Interchange Contract"
+        },
+        "Internal Revenue Code": {
+            "": "Internal Revenue Code of 1986 as amended"
+        },
+        "IRS": {
+            "": "Internal Revenue Service"
+        },
+        "Kemper IGCC": {
+            "": "Integrated coal gasification combined cycle facility under construction in Kemper County Mississippi"
+        },
+        "KWH": {
+            "": "Kilowatt-hour"
+        },
+        "LIBOR": {
+            "": "London Interbank Offered Rate"
+        },
+        "Mississippi Power": {
+            "": "Mississippi Power Company"
+        },
+        "mmBtu": {
+            "": "Million British thermal unit"
+        },
+        "MW": {
+            "": "Megawatt"
+        },
+        "MWH": {
+            "": "Megawatt-hour"
+        },
+        "NCCR": {
+            "": "Georgia Power’s Nuclear Construction Cost Recovery"
+        },
+        "NDR": {
+            "": "Alabama Power’s natural disaster reserve"
+        },
+        "NRC": {
+            "": "Nuclear Regulatory Commission"
+        },
+        "NSR": {
+            "": "New Source Review"
+        },
+        "OCI": {
+            "": "Other Comprehensive Income"
+        },
+        "PEP": {
+            "": "Mississippi Power’s Performance Evaluation Plan"
+        },
+        "Plant Vogtle Units 3 and 4": {
+            "": "Two new nuclear generating units under construction at Plant Vogtle"
+        },
+        "Power Pool": {
+            "": "The operating arrangement whereby the integrated generating resources of the traditional operating companies and Southern Power are subject to joint commitment and dispatch in\norder to serve their combined load obligations"
+        },
+        "PPA": {
+            "": "Power Purchase Agreement"
+        },
+        "PSC": {
+            "": "Public Service Commission"
+        },
+        "registrants": {
+            "": "Southern Company Alabama Power Georgia Power Gulf Power Mississippi Power and Southern Power"
+        },
+        "ROE": {
+            "": "Return on equity"
+        },
+        "SEC": {
+            "": "Securities and Exchange Commission"
+        }
+    },
+    "Table_7": {
+        "SMEPA": {
+            "": "South Mississippi Electric Power Association"
+        },
+        "Southern Company": {
+            "": "The Southern Company"
+        },
+        "Southern Company system": {
+            "": "Southern Company the traditional operating companies Southern Power and other subsidiaries"
+        },
+        "Southern Power": {
+            "": "Southern Power Company"
+        },
+        "traditional operating companies": {
+            "": "Alabama Power Georgia Power Gulf Power and Mississippi Power"
+        },
+        "Westinghouse": {
+            "": "Westinghouse Electric Company LLC"
+        },
+        "wholesale revenues": {
+            "": "revenues generated from sales for resale"
+        }
+    },
+    "Table_33": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Retail revenues": {
+            "": ""
+        },
+        "Wholesale revenues": {
+            "": ""
+        },
+        "Other electric revenues": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Consolidated Net Income": {
+            "": ""
+        },
+        "Dividends on Preferred and Preference Stock of Subsidiaries": {
+            "": ""
+        },
+        "Consolidated Net Income After Dividends on Preferred and Preference Stock of Subsidiaries": {
+            "": ""
+        },
+        "Common Stock Data:": {
+            "": ""
+        },
+        "Earnings per share (EPS) -": {
+            "": ""
+        },
+        "Basic EPS": {
+            "": ""
+        },
+        "Diluted EPS": {
+            "": ""
+        },
+        "Average number of shares of common stock outstanding (in millions)": {
+            "": ""
+        },
+        "Basic": {
+            "": ""
+        },
+        "Diluted": {
+            "": ""
+        },
+        "Cash dividends paid per share of common stock": {
+            "": ""
+        }
+    },
+    "Table_34": {
+        "Consolidated Net Income": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Changes in fair value, net of tax of $2 and $2, respectively": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $1 and $2, respectively": {
+            "": ""
+        },
+        "Marketable securities:": {
+            "": ""
+        },
+        "Change in fair value, net of tax of $- and $-, respectively": {
+            "": ""
+        },
+        "Pension and other post retirement benefit plans:": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $1 and $1, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total other comprehensive income (loss)": {
+            "": ""
+        },
+        "Dividends on preferred and preference stock of subsidiaries": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_35": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Consolidated net income": {
+            "": ""
+        },
+        "Adjustments to reconcile consolidated net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Pension, postretirement, and other employee benefits": {
+            "": ""
+        },
+        "Stock based compensation expense": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued compensation": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Distribution of restricted cash": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund purchases": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund sales": {
+            "": ""
+        },
+        "Proceeds from property sales": {
+            "": ""
+        },
+        "Cost of removal, net of salvage": {
+            "": ""
+        },
+        "Change in construction payables": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Increase (decrease) in notes payable, net": {
+            "": ""
+        },
+        "Proceeds —": {
+            "": ""
+        },
+        "Long-term debt issuances": {
+            "": ""
+        },
+        "Interest-bearing refundable deposit related to asset sale": {
+            "": ""
+        },
+        "Common stock issuances": {
+            "": ""
+        },
+        "Redemptions —": {
+            "": ""
+        },
+        "Long-term debt": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Payment of dividends on preferred and preference stock of subsidiaries": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash provided from (used for) financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (net of $21 and $17 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions — accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_36": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Restricted cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Unbilled revenues": {
+            "": ""
+        },
+        "Under recovered regulatory clause revenues": {
+            "": ""
+        },
+        "Other accounts and notes receivable": {
+            "": ""
+        },
+        "Accumulated provision for uncollectible accounts": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Vacation pay": {
+            "": ""
+        },
+        "Prepaid expenses": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": ""
+        },
+        "Other current assets": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Other utility plant, net": {
+            "": ""
+        },
+        "Nuclear fuel, at amortized cost": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments:": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts, at fair value": {
+            "": ""
+        },
+        "Leveraged leases": {
+            "": ""
+        },
+        "Miscellaneous property and investments": {
+            "": ""
+        },
+        "Total other property and investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Deferred charges related to income taxes": {
+            "": ""
+        },
+        "Unamortized debt issuance expense": {
+            "": ""
+        },
+        "Unamortized loss on reacquired debt": {
+            "": ""
+        },
+        "Deferred under recovered regulatory clause revenues": {
+            "": ""
+        },
+        "Other regulatory assets, deferred": {
+            "": ""
+        },
+        "Other deferred charges and assets": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_37": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Securities due within one year": {
+            "": ""
+        },
+        "Interest-bearing refundable deposit related to asset sale": {
+            "": ""
+        },
+        "Notes payable": {
+            "": ""
+        },
+        "Accounts payable": {
+            "": ""
+        },
+        "Customer deposits": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Unrecognized tax benefits": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Accrued vacation pay": {
+            "": ""
+        },
+        "Accrued compensation": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other regulatory liabilities, current": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Deferred credits related to income taxes": {
+            "": ""
+        },
+        "Accumulated deferred investment tax credits": {
+            "": ""
+        },
+        "Employee benefit obligations": {
+            "": ""
+        },
+        "Asset retirement obligations": {
+            "": ""
+        },
+        "Other cost of removal obligations": {
+            "": ""
+        },
+        "Other regulatory liabilities, deferred": {
+            "": ""
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Redeemable Preferred Stock of Subsidiaries": {
+            "": ""
+        },
+        "Stockholders’ Equity:": {
+            "": ""
+        },
+        "Common Stockholders’ Equity:": {
+            "": ""
+        },
+        "Common stock, par value $5 per share —": {
+            "": ""
+        },
+        "Authorized — 1.5 billion shares": {
+            "": ""
+        },
+        "Issued — March 31, 2012: 869 million shares": {
+            "": ""
+        },
+        "— December 31, 2011: 866 million shares": {
+            "": ""
+        },
+        "Treasury — March 31, 2012: 0.5 million shares": {
+            "": ""
+        },
+        "— December 31, 2011: 0.5 million shares": {
+            "": ""
+        },
+        "Par value": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Treasury, at cost": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total Common Stockholders’ Equity": {
+            "": ""
+        },
+        "Preferred and Preference Stock of Subsidiaries": {
+            "": ""
+        },
+        "Total Stockholders’ Equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholders’ Equity": {
+            "": ""
+        }
+    },
+    "Table_38": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(54)": {
+            "": -12.8
+        }
+    },
+    "Table_39": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(304)": {
+            "": -9.0
+        }
+    },
+    "Table_40": {
+        "": {
+            "": "-% change"
+        },
+        "Retail — prior year": {
+            "": ""
+        },
+        "Estimated change in —": {
+            "": ""
+        },
+        "Rates and pricing": {
+            "": 1.7
+        },
+        "Sales growth (decline)": {
+            "": 0.5
+        },
+        "Weather": {
+            "": -3.3
+        },
+        "Fuel and other cost recovery": {
+            "": -7.9
+        },
+        "Retail – current year": {
+            "": "-9.0%"
+        }
+    },
+    "Table_41": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(100)": {
+            "": -22.3
+        }
+    },
+    "Table_42": {
+        "": {
+            "": "-% change"
+        },
+        "Fuel": {
+            "": -27.9
+        },
+        "Purchased power": {
+            "": 41.0
+        },
+        "Total fuel and purchased power expenses": {
+            "": ""
+        }
+    },
+    "Table_43": {
+        "": {
+            "": "First Quarter2011"
+        },
+        "Total generation(billions of KWHs)": {
+            "": 46.0
+        },
+        "Total purchased power(billions of KWHs)": {
+            "": 1.0
+        },
+        "Sources of generation(percent)—": {
+            "": ""
+        },
+        "Coal": {
+            "": 3.96
+        },
+        "Nuclear": {
+            "": 0.67
+        },
+        "Gas": {
+            "": 3.93
+        },
+        "Hydro": {
+            "": 3.0
+        },
+        "Cost of fuel, generated(cents per net KWH)—": {
+            "": ""
+        },
+        "Average cost of fuel, generated(cents per net KWH)": {
+            "": 3.39
+        },
+        "Average cost of purchased power(cents per net KWH)*": {
+            "": 9.25
+        }
+    },
+    "Table_45": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$23": {
+            "": 2.4
+        }
+    },
+    "Table_46": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$23": {
+            "": 5.5
+        }
+    },
+    "Table_47": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(4)": {
+            "": -11.4
+        }
+    },
+    "Table_48": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(11)": {
+            "": -5.0
+        }
+    },
+    "Table_49": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(31)": {
+            "": -13.4
+        }
+    },
+    "Table_50": {
+        "Southern Company": {
+            "": ""
+        },
+        "Alabama Power": {
+            "": ""
+        },
+        "Georgia Power": {
+            "": ""
+        },
+        "Gulf Power": {
+            "": ""
+        },
+        "Mississippi Power": {
+            "": ""
+        },
+        "Southern Power": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Total": {
+            "": ""
+        }
+    },
+    "Table_52": {
+        "": {
+            "": "-in millions"
+        },
+        "March 31, 2012:": {
+            "": ""
+        },
+        "Commercial paper": {
+            "": "$938"
+        },
+        "Short-term bank debt": {
+            "": 300.0
+        },
+        "Total": {
+            "": ""
+        }
+    },
+    "Table_54": {
+        "Credit Ratings": {
+            "": "Maximum PotentialCollateralRequirements"
+        },
+        "": {
+            "": "-in millions"
+        },
+        "At BBB and Baa2": {
+            "": "$       9"
+        },
+        "At BBB- and/or Baa3": {
+            "": 624.0
+        },
+        "Below BBB- and/or Baa3": {
+            "": 2833.0
+        }
+    },
+    "Table_55": {
+        "": {
+            "": "-in millions"
+        },
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": "$-231"
+        },
+        "Contracts realized or settled": {
+            "": 50.0
+        },
+        "Current period changes(a)": {
+            "": -84.0
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": "$-265"
+        }
+    },
+    "Table_57": {
+        "Asset (Liability) Derivatives": {
+            "": "December 31 2011"
+        },
+        "Regulatory hedges": {
+            "": "$-221"
+        },
+        "Cash flow hedges": {
+            "": -1.0
+        },
+        "Not designated": {
+            "": -9.0
+        },
+        "Total fair value": {
+            "": "$-231"
+        }
+    },
+    "Table_58": {
+        "": {
+            "": "Years 4&5"
+        },
+        "Level 1": {
+            "": "$—"
+        },
+        "Level 2": {
+            "": -2.0
+        },
+        "Level 3": {
+            "": "—"
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": "$ -2"
+        }
+    },
+    "Table_59": {
+        "Company*": {
+            "": "Other Long-Term DebtRedemptionsand Maturities"
+        },
+        "Southern Company": {
+            "": "$  —"
+        },
+        "Alabama Power": {
+            "": 1.0
+        },
+        "Georgia Power": {
+            "": 250.0
+        },
+        "Mississippi Power": {
+            "": 75.0
+        },
+        "Total": {
+            "": "$326"
+        }
+    },
+    "Table_61": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Retail revenues": {
+            "": ""
+        },
+        "Wholesale revenues, non-affiliates": {
+            "": ""
+        },
+        "Wholesale revenues, affiliates": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power, non-affiliates": {
+            "": ""
+        },
+        "Purchased power, affiliates": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Interest income": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Net Income": {
+            "": ""
+        },
+        "Dividends on Preferred and Preference Stock": {
+            "": ""
+        },
+        "Net Income After Dividends on Preferred and Preference Stock": {
+            "": ""
+        }
+    },
+    "Table_62": {
+        "Net Income After Dividends on Preferred and Preference Stock": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Changes in fair value, net of tax of $3 and $2, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total other comprehensive income (loss)": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_63": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Net income": {
+            "": ""
+        },
+        "Adjustments to reconcile net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Pension, postretirement, and other employee benefits": {
+            "": ""
+        },
+        "Stock based compensation expense": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Materials and supplies": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued compensation": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Distribution of restricted cash from pollution control revenue bonds": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund purchases": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund sales": {
+            "": ""
+        },
+        "Cost of removal, net of salvage": {
+            "": ""
+        },
+        "Change in construction payables": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Proceeds —": {
+            "": ""
+        },
+        "Capital contributions from parent company": {
+            "": ""
+        },
+        "Senior notes issuances": {
+            "": ""
+        },
+        "Redemptions —": {
+            "": ""
+        },
+        "Pollution control revenue bonds": {
+            "": ""
+        },
+        "Senior notes": {
+            "": ""
+        },
+        "Payment of preferred and preference stock dividends": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash provided from (used for) financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (net of $2 and $2 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions — accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_64": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Restricted cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Unbilled revenues": {
+            "": ""
+        },
+        "Other accounts and notes receivable": {
+            "": ""
+        },
+        "Affiliated companies": {
+            "": ""
+        },
+        "Accumulated provision for uncollectible accounts": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Vacation pay": {
+            "": ""
+        },
+        "Prepaid expenses": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": ""
+        },
+        "Other current assets": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated provision for depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Nuclear fuel, at amortized cost": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments:": {
+            "": ""
+        },
+        "Equity investments in unconsolidated subsidiaries": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts, at fair value": {
+            "": ""
+        },
+        "Miscellaneous property and investments": {
+            "": ""
+        },
+        "Total other property and investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Deferred charges related to income taxes": {
+            "": ""
+        },
+        "Prepaid pension costs": {
+            "": ""
+        },
+        "Deferred under recovered regulatory clause revenues": {
+            "": ""
+        },
+        "Other regulatory assets, deferred": {
+            "": ""
+        },
+        "Other deferred charges and assets": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_65": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Securities due within one year": {
+            "": ""
+        },
+        "Accounts payable —": {
+            "": ""
+        },
+        "Affiliated": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Customer deposits": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Accrued vacation pay": {
+            "": ""
+        },
+        "Accrued compensation": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other regulatory liabilities, current": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Deferred credits related to income taxes": {
+            "": ""
+        },
+        "Accumulated deferred investment tax credits": {
+            "": ""
+        },
+        "Employee benefit obligations": {
+            "": ""
+        },
+        "Asset retirement obligations": {
+            "": ""
+        },
+        "Other cost of removal obligations": {
+            "": ""
+        },
+        "Other regulatory liabilities, deferred": {
+            "": ""
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Redeemable Preferred Stock": {
+            "": ""
+        },
+        "Preference Stock": {
+            "": ""
+        },
+        "Common Stockholder’s Equity:": {
+            "": ""
+        },
+        "Common stock, par value $40 per share —": {
+            "": ""
+        },
+        "Authorized - 40,000,000 shares": {
+            "": ""
+        },
+        "Outstanding - 30,537,500 shares": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total common stockholder’s equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholder’s Equity": {
+            "": ""
+        }
+    },
+    "Table_66": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(26)": {
+            "": -17.1
+        }
+    },
+    "Table_67": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(34)": {
+            "": -3.0
+        }
+    },
+    "Table_68": {
+        "": {
+            "": "-% change"
+        },
+        "Retail – prior year": {
+            "": ""
+        },
+        "Estimated change in –": {
+            "": ""
+        },
+        "Rates and pricing": {
+            "": 2.2
+        },
+        "Sales growth (decline)": {
+            "": 1.8
+        },
+        "Weather": {
+            "": -4.5
+        },
+        "Fuel and other cost recovery": {
+            "": -2.5
+        },
+        "Retail – current year": {
+            "": "-3.0%"
+        }
+    },
+    "Table_69": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(7)": {
+            "": -10.3
+        }
+    },
+    "Table_70": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(61)": {
+            "": -81.3
+        }
+    },
+    "Table_71": {
+        "": {
+            "": "-% change"
+        },
+        "Fuel": {
+            "": -22.5
+        },
+        "Purchased power – non-affiliates": {
+            "": 36.4
+        },
+        "Purchased power – affiliates": {
+            "": -13.0
+        },
+        "Total fuel and purchased power expenses": {
+            "": ""
+        }
+    },
+    "Table_72": {
+        "": {
+            "": "First Quarter2011"
+        },
+        "Total generation(billions of KWHs)": {
+            "": 16.0
+        },
+        "Total purchased power(billions of KWHs)": {
+            "": 1.0
+        },
+        "Sources of generation(percent)–": {
+            "": ""
+        },
+        "Coal": {
+            "": 2.99
+        },
+        "Nuclear": {
+            "": 0.67
+        },
+        "Gas": {
+            "": 4.16
+        },
+        "Hydro": {
+            "": 7.0
+        },
+        "Cost of fuel, generated(cents per net KWH)–": {
+            "": ""
+        },
+        "Average cost of fuel, generated(cents per net KWH)*": {
+            "": 2.62
+        },
+        "Average cost of purchased power(cents per net KWH)**": {
+            "": 5.26
+        }
+    },
+    "Table_75": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$24": {
+            "": 8.1
+        }
+    },
+    "Table_76": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(12)": {
+            "": -12.5
+        }
+    },
+    "Table_77": {
+        "2012": {
+            "": "No TermOut"
+        },
+        "$121": {
+            "": "$71"
+        }
+    },
+    "Table_79": {
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": ""
+        },
+        "Contracts realized or settled": {
+            "": ""
+        },
+        "Current period changes(a)": {
+            "": ""
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": ""
+        }
+    },
+    "Table_81": {
+        "Level 1": {
+            "": ""
+        },
+        "Level 2": {
+            "": ""
+        },
+        "Level 3": {
+            "": ""
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": ""
+        }
+    },
+    "Table_82": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Retail revenues": {
+            "": ""
+        },
+        "Wholesale revenues, non-affiliates": {
+            "": ""
+        },
+        "Wholesale revenues, affiliates": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power, non-affiliates": {
+            "": ""
+        },
+        "Purchased power, affiliates": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Net Income": {
+            "": ""
+        },
+        "Dividends on Preferred and Preference Stock": {
+            "": ""
+        },
+        "Net Income After Dividends on Preferred and Preference Stock": {
+            "": ""
+        }
+    },
+    "Table_83": {
+        "Net Income After Dividends on Preferred and Preference Stock": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $- and $-, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_84": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Net income": {
+            "": ""
+        },
+        "Adjustments to reconcile net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Prepaid income taxes": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued compensation": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund purchases": {
+            "": ""
+        },
+        "Nuclear decommissioning trust fund sales": {
+            "": ""
+        },
+        "Cost of removal, net of salvage": {
+            "": ""
+        },
+        "Change in construction payables, net of joint owner portion": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Increase (decrease) in notes payable, net": {
+            "": ""
+        },
+        "Proceeds —": {
+            "": ""
+        },
+        "Capital contributions from parent company": {
+            "": ""
+        },
+        "Pollution control revenue bonds issuances": {
+            "": ""
+        },
+        "Senior notes issuances": {
+            "": ""
+        },
+        "Other long-term debt issuances": {
+            "": ""
+        },
+        "Redemptions —": {
+            "": ""
+        },
+        "Pollution control revenue bonds": {
+            "": ""
+        },
+        "Senior notes": {
+            "": ""
+        },
+        "Other long-term debt": {
+            "": ""
+        },
+        "Payment of preferred and preference stock dividends": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash provided from financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (net of $6 and $9 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions — accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_85": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Unbilled revenues": {
+            "": ""
+        },
+        "Under recovered regulatory clause revenues": {
+            "": ""
+        },
+        "Joint owner accounts receivable": {
+            "": ""
+        },
+        "Other accounts and notes receivable": {
+            "": ""
+        },
+        "Affiliated companies": {
+            "": ""
+        },
+        "Accumulated provision for uncollectible accounts": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Vacation pay": {
+            "": ""
+        },
+        "Prepaid income taxes": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": ""
+        },
+        "Other current assets": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated provision for depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Other utility plant, net": {
+            "": ""
+        },
+        "Nuclear fuel, at amortized cost": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments:": {
+            "": ""
+        },
+        "Equity investments in unconsolidated subsidiaries": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts, at fair value": {
+            "": ""
+        },
+        "Miscellaneous property and investments": {
+            "": ""
+        },
+        "Total other property and investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Deferred charges related to income taxes": {
+            "": ""
+        },
+        "Other regulatory assets, deferred": {
+            "": ""
+        },
+        "Other deferred charges and assets": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_86": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Securities due within one year": {
+            "": ""
+        },
+        "Notes payable": {
+            "": ""
+        },
+        "Accounts payable —": {
+            "": ""
+        },
+        "Affiliated": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Customer deposits": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Unrecognized tax benefits": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Accrued vacation pay": {
+            "": ""
+        },
+        "Accrued compensation": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other regulatory liabilities, current": {
+            "": ""
+        },
+        "Nuclear decommissioning trust securities lending collateral": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Deferred credits related to income taxes": {
+            "": ""
+        },
+        "Accumulated deferred investment tax credits": {
+            "": ""
+        },
+        "Employee benefit obligations": {
+            "": ""
+        },
+        "Asset retirement obligations": {
+            "": ""
+        },
+        "Other cost of removal obligations": {
+            "": ""
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Preferred Stock": {
+            "": ""
+        },
+        "Preference Stock": {
+            "": ""
+        },
+        "Common Stockholder’s Equity:": {
+            "": ""
+        },
+        "Common stock, without par value—": {
+            "": ""
+        },
+        "Authorized - 20,000,000 shares": {
+            "": ""
+        },
+        "Outstanding - 9,261,500 shares": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total common stockholder’s equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholder’s Equity": {
+            "": ""
+        }
+    },
+    "Table_87": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(39)": {
+            "": -18.9
+        }
+    },
+    "Table_88": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(221)": {
+            "": -12.2
+        }
+    },
+    "Table_89": {
+        "Retail — prior year": {
+            "": ""
+        },
+        "Estimated change in —": {
+            "": ""
+        },
+        "Rates and pricing": {
+            "": ""
+        },
+        "Sales growth (decline)": {
+            "": ""
+        },
+        "Weather": {
+            "": ""
+        },
+        "Fuel cost recovery": {
+            "": ""
+        },
+        "Retail – current year": {
+            "": ""
+        }
+    },
+    "Table_90": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(17)": {
+            "": -20.5
+        }
+    },
+    "Table_91": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(8)": {
+            "": -72.7
+        }
+    },
+    "Table_92": {
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power — non-affiliates": {
+            "": ""
+        },
+        "Purchased power — affiliates": {
+            "": ""
+        },
+        "Total fuel and purchased power expenses": {
+            "": ""
+        }
+    },
+    "Table_93": {
+        "Total generation(billions of KWHs)": {
+            "": ""
+        },
+        "Total purchased power(billions of KWHs)": {
+            "": ""
+        },
+        "Sources of generation(percent)—": {
+            "": ""
+        },
+        "Coal": {
+            "": ""
+        },
+        "Nuclear": {
+            "": ""
+        },
+        "Gas": {
+            "": ""
+        },
+        "Hydro": {
+            "": ""
+        },
+        "Cost of fuel, generated(cents per net KWH)—": {
+            "": ""
+        },
+        "Average cost of fuel, generated(cents per net KWH)": {
+            "": ""
+        },
+        "Average cost of purchased power(cents per net KWH)*": {
+            "": ""
+        }
+    },
+    "Table_95": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$12": {
+            "": 2.8
+        }
+    },
+    "Table_96": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$15": {
+            "": 8.7
+        }
+    },
+    "Table_97": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(12)": {
+            "": -48.0
+        }
+    },
+    "Table_98": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(5)": {
+            "": -5.2
+        }
+    },
+    "Table_99": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(19)": {
+            "": -17.1
+        }
+    },
+    "Table_100": {
+        "2012": {
+            "": "No TermOut"
+        },
+        "$—": {
+            "": "$—"
+        }
+    },
+    "Table_102": {
+        "March 31, 2012:": {
+            "": ""
+        },
+        "Commercial paper": {
+            "": ""
+        },
+        "Short-term bank debt": {
+            "": ""
+        },
+        "Total": {
+            "": ""
+        }
+    },
+    "Table_104": {
+        "Credit Ratings": {
+            "": "Maximum PotentialCollateral Requirements"
+        },
+        "": {
+            "": "-in millions"
+        },
+        "At BBB- and/or Baa3": {
+            "": "$      68"
+        },
+        "Below BBB- and/or Baa3": {
+            "": 1540.0
+        }
+    },
+    "Table_105": {
+        "": {
+            "": ""
+        },
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": ""
+        },
+        "Contracts realized or settled": {
+            "": ""
+        },
+        "Current period changes(a)": {
+            "": ""
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": ""
+        }
+    },
+    "Table_107": {
+        "": {
+            "": ""
+        },
+        "Level 1": {
+            "": "$ —"
+        },
+        "Level 2": {
+            "": -20.0
+        },
+        "Level 3": {
+            "": "—"
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": "$-20"
+        }
+    },
+    "Table_108": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Retail revenues": {
+            "": ""
+        },
+        "Wholesale revenues, non-affiliates": {
+            "": ""
+        },
+        "Wholesale revenues, affiliates": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power, non-affiliates": {
+            "": ""
+        },
+        "Purchased power, affiliates": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Net Income": {
+            "": ""
+        },
+        "Dividends on Preference Stock": {
+            "": ""
+        },
+        "Net Income After Dividends on Preference Stock": {
+            "": ""
+        }
+    },
+    "Table_109": {
+        "Net Income After Dividends on Preference Stock": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $90 and $90, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total other comprehensive income (loss)": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_110": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Net income": {
+            "": ""
+        },
+        "Adjustments to reconcile net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Pension, postretirement, and other employee benefits": {
+            "": ""
+        },
+        "Stock based compensation expense": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Prepayments": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Materials and supplies": {
+            "": ""
+        },
+        "-Prepaid income taxes": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued compensation": {
+            "": ""
+        },
+        "-Over recovered regulatory clause revenues": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Cost of removal, net of salvage": {
+            "": ""
+        },
+        "Change in construction payables": {
+            "": ""
+        },
+        "Payments pursuant to long-term service agreements": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Decrease in notes payable, net": {
+            "": ""
+        },
+        "Proceeds —": {
+            "": ""
+        },
+        "Common stock issued to parent": {
+            "": ""
+        },
+        "Capital contributions from parent company": {
+            "": ""
+        },
+        "Redemptions —": {
+            "": ""
+        },
+        "Senior notes": {
+            "": ""
+        },
+        "Payment of preference stock dividends": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash provided from (used for) financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (net of $493 and $851 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions - accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_111": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Unbilled revenues": {
+            "": ""
+        },
+        "Under recovered regulatory clause revenues": {
+            "": ""
+        },
+        "Other accounts and notes receivable": {
+            "": ""
+        },
+        "Affiliated companies": {
+            "": ""
+        },
+        "Accumulated provision for uncollectible accounts": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": ""
+        },
+        "Prepaid expenses": {
+            "": ""
+        },
+        "Other current assets": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated provision for depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Deferred charges related to income taxes": {
+            "": ""
+        },
+        "Other regulatory assets, deferred": {
+            "": ""
+        },
+        "Other deferred charges and assets": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_112": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Notes payable": {
+            "": ""
+        },
+        "Accounts payable —": {
+            "": ""
+        },
+        "Affiliated": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Customer deposits": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Accrued compensation": {
+            "": ""
+        },
+        "Other regulatory liabilities, current": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Accumulated deferred investment tax credits": {
+            "": ""
+        },
+        "Employee benefit obligations": {
+            "": ""
+        },
+        "Other cost of removal obligations": {
+            "": ""
+        },
+        "Other regulatory liabilities, deferred": {
+            "": ""
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Preference Stock": {
+            "": ""
+        },
+        "Common Stockholder’s Equity:": {
+            "": ""
+        },
+        "Common stock, without par value—": {
+            "": ""
+        },
+        "Authorized - 20,000,000 shares": {
+            "": ""
+        },
+        "Outstanding - March 31, 2012: 4,542,717 shares": {
+            "": ""
+        },
+        "- December 31, 2011: 4,142,717 shares": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total common stockholder’s equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholder’s Equity": {
+            "": ""
+        }
+    },
+    "Table_113": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$9.0": {
+            "": 76.8
+        }
+    },
+    "Table_114": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(36.3)": {
+            "": -13.2
+        }
+    },
+    "Table_115": {
+        "": {
+            "": "-% change"
+        },
+        "Retail – prior year": {
+            "": ""
+        },
+        "Estimated change in –": {
+            "": ""
+        },
+        "Rates and pricing": {
+            "": 4.5
+        },
+        "Sales growth (decline)": {
+            "": 0.5
+        },
+        "Weather": {
+            "": -3.0
+        },
+        "Fuel and other cost recovery": {
+            "": -15.2
+        },
+        "Retail – current year": {
+            "": "-13.2%"
+        }
+    },
+    "Table_116": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(3.9)": {
+            "": -12.6
+        }
+    },
+    "Table_117": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$32.3": {
+            "": 779.4
+        }
+    },
+    "Table_118": {
+        "": {
+            "": "-% change"
+        },
+        "Fuel": {
+            "": -8.1
+        },
+        "Purchased power – non-affiliates": {
+            "": 60.3
+        },
+        "Purchased power – affiliates": {
+            "": -84.9
+        },
+        "Total fuel and purchased power expenses": {
+            "": ""
+        }
+    },
+    "Table_119": {
+        "": {
+            "": "First Quarter2011"
+        },
+        "Total generation(millions of KWHs)": {
+            "": 2801.0
+        },
+        "Total purchased power(millions of KWHs)": {
+            "": 448.0
+        },
+        "Sources of generation(percent)–": {
+            "": ""
+        },
+        "Coal": {
+            "": 5.03
+        },
+        "Gas": {
+            "": 3.99
+        },
+        "Cost of fuel, generated(cents per net KWH)–": {
+            "": ""
+        },
+        "Average cost of fuel, generated(cents per net KWH)": {
+            "": 4.69
+        },
+        "Average cost of purchased power(cents per net KWH)*": {
+            "": 5.37
+        }
+    },
+    "Table_121": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(5.3)": {
+            "": -6.6
+        }
+    },
+    "Table_122": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$1.5": {
+            "": 4.9
+        }
+    },
+    "Table_123": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(1.1)": {
+            "": -4.5
+        }
+    },
+    "Table_124": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(0.9)": {
+            "": -42.1
+        }
+    },
+    "Table_125": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$1.8": {
+            "": 12.8
+        }
+    },
+    "Table_126": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$4.9": {
+            "": 73.7
+        }
+    },
+    "Table_127": {
+        "2012": {
+            "": "No TermOut"
+        },
+        "$75": {
+            "": "$35"
+        }
+    },
+    "Table_129": {
+        "": {
+            "": "-in millions"
+        },
+        "March 31, 2012:": {
+            "": ""
+        },
+        "Commercial paper": {
+            "": "$117"
+        }
+    },
+    "Table_131": {
+        "Credit Ratings": {
+            "": "Maximum PotentialCollateralRequirements"
+        },
+        "": {
+            "": "-in millions"
+        },
+        "At BBB- and/or Baa3": {
+            "": "$126"
+        },
+        "Below BBB- and/or Baa3": {
+            "": 539.0
+        }
+    },
+    "Table_132": {
+        "": {
+            "": "-in millions"
+        },
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": "$-41"
+        },
+        "Contracts realized or settled": {
+            "": 6.0
+        },
+        "Current period changes(a)": {
+            "": -19.0
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": "$-54"
+        }
+    },
+    "Table_134": {
+        "": {
+            "": "Years 4&5"
+        },
+        "Level 1": {
+            "": "$—"
+        },
+        "Level 2": {
+            "": -1.0
+        },
+        "Level 3": {
+            "": "—"
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": "$-1"
+        }
+    },
+    "Table_135": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Retail revenues": {
+            "": ""
+        },
+        "Wholesale revenues, non-affiliates": {
+            "": ""
+        },
+        "Wholesale revenues, affiliates": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power, non-affiliates": {
+            "": ""
+        },
+        "Purchased power, affiliates": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Interest income": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Net Income": {
+            "": ""
+        },
+        "Dividends on Preferred Stock": {
+            "": ""
+        },
+        "Net Income After Dividends on Preferred Stock": {
+            "": ""
+        }
+    },
+    "Table_136": {
+        "Net Income After Dividends on Preferred Stock": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Changes in fair value, net of tax of $(296) and $(1), respectively": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $16 and $-, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total other comprehensive income (loss)": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_137": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Net income": {
+            "": ""
+        },
+        "Adjustments to reconcile net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Investment tax credits received": {
+            "": ""
+        },
+        "Allowance for equity funds used during construction": {
+            "": ""
+        },
+        "Pension, postretirement, and other employee benefits": {
+            "": ""
+        },
+        "Hedge settlements": {
+            "": ""
+        },
+        "Stock based compensation expense": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Materials and supplies": {
+            "": ""
+        },
+        "-Prepaid income taxes": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued compensation": {
+            "": ""
+        },
+        "-Over recovered regulatory clause revenues": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Cost of removal, net of salvage": {
+            "": ""
+        },
+        "Construction payables": {
+            "": ""
+        },
+        "Capital grant proceeds": {
+            "": ""
+        },
+        "Distribution of restricted cash": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Proceeds —": {
+            "": ""
+        },
+        "Capital contributions from parent company": {
+            "": ""
+        },
+        "Senior notes issuances": {
+            "": ""
+        },
+        "Interest-bearing refundable deposit related to asset sale": {
+            "": ""
+        },
+        "Redemptions —": {
+            "": ""
+        },
+        "Capital leases": {
+            "": ""
+        },
+        "Other long-term debt": {
+            "": ""
+        },
+        "Payment of preferred stock dividends": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash provided from (used for) financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (paid $5,965 and $7,129, net of $6,565 and $994 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions — accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_138": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Unbilled revenues": {
+            "": ""
+        },
+        "Other accounts and notes receivable": {
+            "": ""
+        },
+        "Affiliated companies": {
+            "": ""
+        },
+        "Accumulated provision for uncollectible accounts": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": ""
+        },
+        "Prepaid income taxes": {
+            "": ""
+        },
+        "Other current assets": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated provision for depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Deferred charges related to income taxes": {
+            "": ""
+        },
+        "Other regulatory assets, deferred": {
+            "": ""
+        },
+        "Other deferred charges and assets": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_139": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Securities due within one year": {
+            "": ""
+        },
+        "Interest-bearing refundable deposit related to asset sale": {
+            "": ""
+        },
+        "Accounts payable —": {
+            "": ""
+        },
+        "Affiliated": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Customer deposits": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Accrued compensation": {
+            "": ""
+        },
+        "Other regulatory liabilities, current": {
+            "": ""
+        },
+        "Over recovered regulatory clause liabilities": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Deferred credits related to income taxes": {
+            "": ""
+        },
+        "Accumulated deferred investment tax credits": {
+            "": ""
+        },
+        "Employee benefit obligations": {
+            "": ""
+        },
+        "Other cost of removal obligations": {
+            "": ""
+        },
+        "Other regulatory liabilities, deferred": {
+            "": ""
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Redeemable Preferred Stock": {
+            "": ""
+        },
+        "Common Stockholder’s Equity:": {
+            "": ""
+        },
+        "Common stock, without par value —": {
+            "": ""
+        },
+        "Authorized - 1,130,000 shares": {
+            "": ""
+        },
+        "Outstanding - 1,121,000 shares": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total common stockholder’s equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholder’s Equity": {
+            "": ""
+        }
+    },
+    "Table_140": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$10.7": {
+            "": 72.8
+        }
+    },
+    "Table_141": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(14.2)": {
+            "": -7.9
+        }
+    },
+    "Table_142": {
+        "": {
+            "": "-% change"
+        },
+        "Retail – prior year": {
+            "": ""
+        },
+        "Estimated change in –": {
+            "": ""
+        },
+        "Rates and pricing": {
+            "": -0.6
+        },
+        "Sales growth (decline)": {
+            "": 1.7
+        },
+        "Weather": {
+            "": -2.7
+        },
+        "Fuel and other cost recovery": {
+            "": -6.3
+        },
+        "Retail – current year": {
+            "": "-7.9%"
+        }
+    },
+    "Table_143": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(15.7)": {
+            "": -22.4
+        }
+    },
+    "Table_144": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(5.3)": {
+            "": -56.6
+        }
+    },
+    "Table_145": {
+        "": {
+            "": "-% change"
+        },
+        "Fuel": {
+            "": -26.8
+        },
+        "Purchased power — non-affiliates": {
+            "": 92.4
+        },
+        "Purchased power — affiliates": {
+            "": 6.1
+        },
+        "Total fuel and purchased power expenses": {
+            "": ""
+        }
+    },
+    "Table_146": {
+        "": {
+            "": "First Quarter2011"
+        },
+        "Total generation(millions of KWHs)": {
+            "": 3364.0
+        },
+        "Total purchased power(millions of KWHs)": {
+            "": 304.0
+        },
+        "Sources of generation(percent)–": {
+            "": ""
+        },
+        "Coal": {
+            "": 4.23
+        },
+        "Gas": {
+            "": 3.72
+        },
+        "Cost of fuel, generated(cents per net KWH)–": {
+            "": ""
+        },
+        "Average cost of fuel, generated(cents per net KWH)": {
+            "": 3.92
+        },
+        "Average cost of purchased power(cents per net KWH)": {
+            "": 3.08
+        }
+    },
+    "Table_147": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(15.5)": {
+            "": -22.0
+        }
+    },
+    "Table_148": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$2.6": {
+            "": 13.2
+        }
+    },
+    "Table_149": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$4.2": {
+            "": 24.2
+        }
+    },
+    "Table_150": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$8.7": {
+            "": "N/M"
+        }
+    },
+    "Table_151": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$1.8": {
+            "": 29.8
+        }
+    },
+    "Table_152": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$1.2": {
+            "": 17.7
+        }
+    },
+    "Table_153": {
+        "2012": {
+            "": "No TermOut"
+        },
+        "$106": {
+            "": "$65"
+        }
+    },
+    "Table_155": {
+        "": {
+            "": "-in millions"
+        },
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": "$-51"
+        },
+        "Contracts realized or settled": {
+            "": 10.0
+        },
+        "Current period changes(a)": {
+            "": -15.0
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": "$-56"
+        }
+    },
+    "Table_157": {
+        "": {
+            "": "Years 4&5"
+        },
+        "Level 1": {
+            "": "$—"
+        },
+        "Level 2": {
+            "": -1.0
+        },
+        "Level 3": {
+            "": "—"
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": "$-1"
+        }
+    },
+    "Table_158": {
+        "Operating Revenues:": {
+            "": ""
+        },
+        "Wholesale revenues, non-affiliates": {
+            "": ""
+        },
+        "Wholesale revenues, affiliates": {
+            "": ""
+        },
+        "Other revenues": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total operating revenues": {
+            "": ""
+        },
+        "Operating Expenses:": {
+            "": ""
+        },
+        "Fuel": {
+            "": ""
+        },
+        "Purchased power, non-affiliates": {
+            "": ""
+        },
+        "Purchased power, affiliates": {
+            "": ""
+        },
+        "Other operations and maintenance": {
+            "": ""
+        },
+        "Depreciation and amortization": {
+            "": ""
+        },
+        "Taxes other than income taxes": {
+            "": ""
+        },
+        "Total operating expenses": {
+            "": ""
+        },
+        "Operating Income": {
+            "": ""
+        },
+        "Other Income and (Expense):": {
+            "": ""
+        },
+        "Interest expense, net of amounts capitalized": {
+            "": ""
+        },
+        "Other income (expense), net": {
+            "": ""
+        },
+        "Total other income and (expense)": {
+            "": ""
+        },
+        "Earnings Before Income Taxes": {
+            "": ""
+        },
+        "Income taxes": {
+            "": ""
+        },
+        "Net Income": {
+            "": ""
+        }
+    },
+    "Table_159": {
+        "Net Income": {
+            "": ""
+        },
+        "Other comprehensive income (loss):": {
+            "": ""
+        },
+        "Qualifying hedges:": {
+            "": ""
+        },
+        "Changes in fair value, net of tax of $(173) and $423, respectively": {
+            "": ""
+        },
+        "Reclassification adjustment for amounts included in net income, net of tax of $956 and $1,071, respectively": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total other comprehensive income (loss)": {
+            "": ""
+        },
+        "Comprehensive Income": {
+            "": ""
+        }
+    },
+    "Table_160": {
+        "Operating Activities:": {
+            "": ""
+        },
+        "Net income": {
+            "": ""
+        },
+        "Adjustments to reconcile net income to net cash provided from operating activities —": {
+            "": ""
+        },
+        "Depreciation and amortization, total": {
+            "": ""
+        },
+        "Deferred income taxes": {
+            "": ""
+        },
+        "Convertible investment tax credits": {
+            "": ""
+        },
+        "Deferred revenues": {
+            "": ""
+        },
+        "Mark-to-market adjustments": {
+            "": ""
+        },
+        "Other, net": {
+            "": ""
+        },
+        "Changes in certain current assets and liabilities —": {
+            "": ""
+        },
+        "-Receivables": {
+            "": ""
+        },
+        "-Fossil fuel stock": {
+            "": ""
+        },
+        "-Materials and supplies": {
+            "": ""
+        },
+        "-Prepaid income taxes": {
+            "": ""
+        },
+        "-Other current assets": {
+            "": ""
+        },
+        "-Accounts payable": {
+            "": ""
+        },
+        "-Accrued taxes": {
+            "": ""
+        },
+        "-Accrued interest": {
+            "": ""
+        },
+        "-Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Net cash provided from operating activities": {
+            "": ""
+        },
+        "Investing Activities:": {
+            "": ""
+        },
+        "Property additions": {
+            "": ""
+        },
+        "Change in construction payables": {
+            "": ""
+        },
+        "Payments pursuant to long-term service agreements": {
+            "": ""
+        },
+        "Other investing activities": {
+            "": ""
+        },
+        "Net cash used for investing activities": {
+            "": ""
+        },
+        "Financing Activities:": {
+            "": ""
+        },
+        "Increase (decrease) in notes payable, net": {
+            "": ""
+        },
+        "Proceeds — Capital contributions": {
+            "": ""
+        },
+        "Repayments — Other long-term debt": {
+            "": ""
+        },
+        "Payment of common stock dividends": {
+            "": ""
+        },
+        "Other financing activities": {
+            "": ""
+        },
+        "Net cash used for financing activities": {
+            "": ""
+        },
+        "Net Change in Cash and Cash Equivalents": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at Beginning of Period": {
+            "": ""
+        },
+        "Cash and Cash Equivalents at End of Period": {
+            "": ""
+        },
+        "Supplemental Cash Flow Information:": {
+            "": ""
+        },
+        "Cash paid during the period for —": {
+            "": ""
+        },
+        "Interest (net of $6,556 and $4,240 capitalized for 2012 and 2011, respectively)": {
+            "": ""
+        },
+        "Income taxes (net of refunds)": {
+            "": ""
+        },
+        "Noncash transactions — accrued property additions at end of period": {
+            "": ""
+        }
+    },
+    "Table_161": {
+        "Current Assets:": {
+            "": ""
+        },
+        "Cash and cash equivalents": {
+            "": ""
+        },
+        "Receivables —": {
+            "": ""
+        },
+        "Customer accounts receivable": {
+            "": ""
+        },
+        "Other accounts receivable": {
+            "": ""
+        },
+        "Affiliated companies": {
+            "": ""
+        },
+        "Fossil fuel stock, at average cost": {
+            "": ""
+        },
+        "Materials and supplies, at average cost": {
+            "": ""
+        },
+        "Prepaid service agreements — current": {
+            "": ""
+        },
+        "Prepaid income taxes": {
+            "": ""
+        },
+        "Other prepaid expenses": {
+            "": ""
+        },
+        "Assets from risk management activities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current assets": {
+            "": ""
+        },
+        "Property, Plant, and Equipment:": {
+            "": ""
+        },
+        "In service": {
+            "": ""
+        },
+        "Less accumulated provision for depreciation": {
+            "": ""
+        },
+        "Plant in service, net of depreciation": {
+            "": ""
+        },
+        "Construction work in progress": {
+            "": ""
+        },
+        "Total property, plant, and equipment": {
+            "": ""
+        },
+        "Other Property and Investments:": {
+            "": ""
+        },
+        "Goodwill": {
+            "": ""
+        },
+        "Other intangible assets, net of amortization of $1,671 and $1,476 at March 31, 2012 and December 31, 2011,\nrespectively": {
+            "": ""
+        },
+        "Total other property and investments": {
+            "": ""
+        },
+        "Deferred Charges and Other Assets:": {
+            "": ""
+        },
+        "Prepaid long-term service agreements": {
+            "": ""
+        },
+        "Other deferred charges and assets — affiliated": {
+            "": ""
+        },
+        "Other deferred charges and assets — non-affiliated": {
+            "": ""
+        },
+        "Total deferred charges and other assets": {
+            "": ""
+        },
+        "Total Assets": {
+            "": ""
+        }
+    },
+    "Table_162": {
+        "Current Liabilities:": {
+            "": ""
+        },
+        "Securities due within one year": {
+            "": ""
+        },
+        "Notes payable — non-affiliated": {
+            "": ""
+        },
+        "Accounts payable —": {
+            "": ""
+        },
+        "Affiliated": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Accrued taxes —": {
+            "": ""
+        },
+        "Accrued income taxes": {
+            "": ""
+        },
+        "Other accrued taxes": {
+            "": ""
+        },
+        "Accrued interest": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": ""
+        },
+        "Other current liabilities": {
+            "": ""
+        },
+        "": {
+            "": ""
+        },
+        "Total current liabilities": {
+            "": ""
+        },
+        "Long-term Debt": {
+            "": ""
+        },
+        "Deferred Credits and Other Liabilities:": {
+            "": ""
+        },
+        "Accumulated deferred income taxes": {
+            "": ""
+        },
+        "Deferred convertible investment tax credits": {
+            "": ""
+        },
+        "Deferred capacity revenues — affiliated": {
+            "": ""
+        },
+        "Other deferred credits and liabilities — affiliated": {
+            "": ""
+        },
+        "Other deferred credits and liabilities — non-affiliated": {
+            "": ""
+        },
+        "Total deferred credits and other liabilities": {
+            "": ""
+        },
+        "Total Liabilities": {
+            "": ""
+        },
+        "Redeemable Noncontrolling Interest": {
+            "": ""
+        },
+        "Common Stockholder’s Equity:": {
+            "": ""
+        },
+        "Common stock, par value $.01 per share —": {
+            "": ""
+        },
+        "Authorized - 1,000,000 shares": {
+            "": ""
+        },
+        "Outstanding - 1,000 shares": {
+            "": ""
+        },
+        "Paid-in capital": {
+            "": ""
+        },
+        "Retained earnings": {
+            "": ""
+        },
+        "Accumulated other comprehensive loss": {
+            "": ""
+        },
+        "Total common stockholder’s equity": {
+            "": ""
+        },
+        "Total Liabilities and Stockholder’s Equity": {
+            "": ""
+        }
+    },
+    "Table_163": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(8.4)": {
+            "": -22.3
+        }
+    },
+    "Table_164": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(56.6)": {
+            "": -28.7
+        }
+    },
+    "Table_165": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$28.5": {
+            "": 34.2
+        }
+    },
+    "Table_167": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$5.7": {
+            "": 13.2
+        }
+    },
+    "Table_168": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(5.2)": {
+            "": -27.5
+        }
+    },
+    "Table_169": {
+        "(change in millions)": {
+            "": "-% change"
+        },
+        "$(7.4)": {
+            "": -35.6
+        }
+    },
+    "Table_170": {
+        "": {
+            "": "-in millions"
+        },
+        "March 31, 2012:": {
+            "": ""
+        },
+        "Commercial paper": {
+            "": "$226"
+        }
+    },
+    "Table_172": {
+        "Credit Ratings": {
+            "": "Maximum PotentialCollateral Requirements"
+        },
+        "": {
+            "": "-in millions"
+        },
+        "At BBB and Baa2": {
+            "": "$       9"
+        },
+        "At BBB- and/or Baa3": {
+            "": 454.0
+        },
+        "Below BBB- and/or Baa3": {
+            "": 1218.0
+        }
+    },
+    "Table_173": {
+        "": {
+            "": ""
+        },
+        "Contracts outstanding at the beginning of the period, assets (liabilities), net": {
+            "": ""
+        },
+        "Contracts realized or settled": {
+            "": ""
+        },
+        "Current period changes(a)": {
+            "": ""
+        },
+        "Contracts outstanding at the end of the period, assets (liabilities), net": {
+            "": ""
+        }
+    },
+    "Table_175": {
+        "Power — net purchased or (sold)": {
+            "": ""
+        },
+        "MWHs(in millions)": {
+            "": ""
+        },
+        "Weighted average contract cost per MWH above (below) market prices(in\ndollars)": {
+            "": ""
+        },
+        "Natural gas net purchased": {
+            "": ""
+        },
+        "Commodity — million mmBtu": {
+            "": ""
+        },
+        "Commodity — weighted average contract cost per mmBtu above (below) market prices(in dollars)": {
+            "": ""
+        }
+    },
+    "Table_176": {
+        "Cash flow hedges": {
+            "": ""
+        },
+        "Not designated": {
+            "": ""
+        },
+        "Total fair value": {
+            "": ""
+        }
+    },
+    "Table_177": {
+        "Level 1": {
+            "": ""
+        },
+        "Level 2": {
+            "": ""
+        },
+        "Level 3": {
+            "": ""
+        },
+        "Fair value of contracts outstanding at end of period": {
+            "": ""
+        }
+    },
+    "Table_178": {
+        "Registrant": {
+            "": "Applicable Notes"
+        },
+        "Southern Company": {
+            "": "A B C D E F G H I"
+        },
+        "Alabama Power": {
+            "": "A B C E F G H"
+        },
+        "Georgia Power": {
+            "": "A B C E F G H"
+        },
+        "Gulf Power": {
+            "": "A B C E F G H"
+        },
+        "Mississippi Power": {
+            "": "A B C E F G H"
+        },
+        "Southern Power": {
+            "": "A B C E G H"
+        }
+    },
+    "Table_182": {
+        "Southern Company": {
+            "": ""
+        },
+        "Assets:": {
+            "": ""
+        },
+        "Energy-related derivatives": {
+            "": ""
+        },
+        "Interest rate derivatives": {
+            "": ""
+        },
+        "Foreign currency derivatives": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts(a)": {
+            "": ""
+        },
+        "Cash equivalents and restricted cash": {
+            "": ""
+        },
+        "Other investments": {
+            "": ""
+        },
+        "Total": {
+            "": ""
+        },
+        "Liabilities:": {
+            "": ""
+        },
+        "Alabama Power": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts:(b)": {
+            "": ""
+        },
+        "Domestic equity": {
+            "": ""
+        },
+        "Foreign equity(d)": {
+            "": ""
+        },
+        "U.S. Treasury and government agency securities": {
+            "": ""
+        },
+        "Corporate bonds": {
+            "": ""
+        },
+        "Mortgage and asset backed securities": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        }
+    },
+    "Table_183": {
+        "As of March 31, 2012:": {
+            "": "Total"
+        },
+        "Georgia Power": {
+            "": ""
+        },
+        "Assets:": {
+            "": ""
+        },
+        "Energy-related derivatives": {
+            "": "$  17"
+        },
+        "Nuclear decommissioning trusts:(c)": {
+            "": ""
+        },
+        "Domestic equity": {
+            "": 166.0
+        },
+        "Foreign equity(d)": {
+            "": 109.0
+        },
+        "U.S. Treasury and government agency securities": {
+            "": 52.0
+        },
+        "Municipal bonds": {
+            "": 83.0
+        },
+        "Corporate bonds": {
+            "": 123.0
+        },
+        "Mortgage and asset backed securities": {
+            "": 127.0
+        },
+        "Other": {
+            "": 31.0
+        },
+        "Total": {
+            "": "$  57"
+        },
+        "Liabilities:": {
+            "": ""
+        },
+        "Gulf Power": {
+            "": ""
+        },
+        "Cash equivalents": {
+            "": 439.0
+        },
+        "Mississippi Power": {
+            "": ""
+        },
+        "Foreign currency derivatives": {
+            "": 1.0
+        },
+        "Southern Power": {
+            "": ""
+        }
+    },
+    "Table_188": {
+        "Southern Company": {
+            "": ""
+        },
+        "Nuclear decommissioning trusts:": {
+            "": ""
+        },
+        "Corporate bonds — commingled funds": {
+            "": "1 to 3 days"
+        },
+        "Other — commingled funds": {
+            "": "Not applicable"
+        },
+        "Trust-owned life insurance": {
+            "": "15 days"
+        },
+        "Cash equivalents and restricted cash:": {
+            "": ""
+        },
+        "Money market funds": {
+            "": "Not applicable"
+        },
+        "Alabama Power": {
+            "": ""
+        },
+        "Georgia Power": {
+            "": ""
+        },
+        "Gulf Power": {
+            "": ""
+        },
+        "Cash equivalents:": {
+            "": ""
+        },
+        "Mississippi Power": {
+            "": ""
+        }
+    },
+    "Table_189": {
+        "": {
+            "": "Fair Value"
+        },
+        "Long-term debt:": {
+            "": ""
+        },
+        "Southern Company": {
+            "": "$25499"
+        },
+        "Alabama Power": {
+            "": "$  7789"
+        },
+        "Georgia Power": {
+            "": "$11837"
+        },
+        "Gulf Power": {
+            "": "$  1349"
+        },
+        "Mississippi Power": {
+            "": "$  1740"
+        },
+        "Southern Power": {
+            "": "$  1393"
+        }
+    },
+    "Table_190": {
+        "": {
+            "": "Three MonthsEndedMarch 31 2011"
+        },
+        "As reported shares": {
+            "": 848.0
+        },
+        "Effect of options and performance share award units": {
+            "": 6.0
+        },
+        "Diluted shares": {
+            "": 854.0
+        }
+    },
+    "Table_191": {
+        "": {
+            "": "Equity"
+        },
+        "Balance at December 31, 2011": {
+            "": "$18285"
+        },
+        "Net income after dividends on preferred and preference stock": {
+            "": 422.0
+        },
+        "Other comprehensive income (loss)": {
+            "": 4.0
+        },
+        "Stock issued": {
+            "": 222.0
+        },
+        "Cash dividends on common stock": {
+            "": -385.0
+        },
+        "Other": {
+            "": "—"
+        },
+        "Balance at March 31, 2012": {
+            "": "$18406"
+        },
+        "Balance at December 31, 2010": {
+            "": "$16909"
+        },
+        "Balance at March 31, 2011": {
+            "": "$17172"
+        }
+    },
+    "Table_192": {
+        "Southern Company": {
+            "": ""
+        },
+        "Alabama Power": {
+            "": ""
+        },
+        "Georgia Power": {
+            "": ""
+        },
+        "Gulf Power": {
+            "": ""
+        },
+        "Mississippi Power": {
+            "": ""
+        },
+        "Southern Power": {
+            "": ""
+        },
+        "Other": {
+            "": ""
+        },
+        "Total": {
+            "": ""
+        }
+    },
+    "Table_194": {
+        "Pension Plans": {
+            "": "",
+            "000000": "MississippiPower"
+        },
+        "Three Months Ended March 31, 2012": {
+            "": "",
+            "000000": ""
+        },
+        "Service cost": {
+            "": "",
+            "000000": "$—"
+        },
+        "Interest cost": {
+            "": "",
+            "000000": 1.0
+        },
+        "Expected return on plan assets": {
+            "": "",
+            "000000": "—"
+        },
+        "Net amortization": {
+            "": "",
+            "000000": "—"
+        },
+        "Net cost (income)": {
+            "": "",
+            "000000": "$  1"
+        },
+        "Three Months Ended March 31, 2011": {
+            "": "",
+            "000000": ""
+        },
+        "Postretirement Benefits": {
+            "": "",
+            "000000": "MississippiPower"
+        }
+    },
+    "Table_196": {
+        "": {
+            "": "SouthernPower"
+        },
+        "Unrecognized tax benefits as of December 31, 2011": {
+            "": "$   3"
+        },
+        "Tax positions from current periods": {
+            "": "—"
+        },
+        "Tax positions from prior periods": {
+            "": -2.0
+        },
+        "Reductions due to settlements": {
+            "": 1.0
+        },
+        "Reductions due to expired statute of limitations": {
+            "": "—"
+        },
+        "Balance as of March 31, 2012": {
+            "": "$   2"
+        }
+    },
+    "Table_197": {
+        "": {
+            "": "SouthernCompany"
+        },
+        "Tax positions impacting the effective tax rate": {
+            "": "$  69"
+        },
+        "Tax positions not impacting the effective tax rate": {
+            "": 51.0
+        },
+        "Balance of unrecognized tax benefits": {
+            "": "$120"
+        }
+    },
+    "Table_198": {
+        "": {
+            "": "SouthernCompany"
+        },
+        "Interest accrued as of December 31, 2011": {
+            "": "$ 10"
+        },
+        "Interest reclassified due to settlements": {
+            "": -5.0
+        },
+        "Interest accrued during the period": {
+            "": 1.0
+        },
+        "Balance as of March 31, 2012": {
+            "": "$   6"
+        }
+    },
+    "Table_203": {
+        "": {
+            "": ""
+        },
+        "Southern Company": {
+            "": 2017.0
+        },
+        "Alabama Power": {
+            "": "—"
+        },
+        "Georgia Power": {
+            "": "—"
+        },
+        "Gulf Power": {
+            "": "—"
+        },
+        "Mississippi Power": {
+            "": "—"
+        },
+        "Southern Power": {
+            "": 2017.0
+        }
+    },
+    "Table_204": {
+        "": {
+            "": "-in millions"
+        },
+        "Cash flow hedges of forecasted transactions": {
+            "": ""
+        },
+        "Alabama Power": {
+            "": "$-10"
+        },
+        "Fair value hedges of existing debt": {
+            "": ""
+        },
+        "Southern Company": {
+            "": 14.0
+        },
+        "Total": {
+            "": "$  4"
+        }
+    },
+    "Table_206": {
+        "Registrant": {
+            "": "Total DeferredGains -LossesAmortized Through"
+        },
+        "": {
+            "": ""
+        },
+        "Southern Company": {
+            "": 2037.0
+        },
+        "Alabama Power": {
+            "": 2035.0
+        },
+        "Georgia Power": {
+            "": 2037.0
+        },
+        "Gulf Power": {
+            "": 2020.0
+        },
+        "Mississippi Power": {
+            "": 2022.0
+        },
+        "Southern Power": {
+            "": 2016.0
+        }
+    },
+    "Table_207": {
+        "": {
+            "": "-in millions"
+        },
+        "Fair value hedges of firm commitments": {
+            "": ""
+        },
+        "Mississippi Power": {
+            "": "—"
+        },
+        "Derivatives not designated as hedges": {
+            "": ""
+        },
+        "Total": {
+            "": "$—"
+        }
+    },
+    "Table_209": {
+        "Derivative Category andBalance Sheet Location": {
+            "": "SouthernPower"
+        },
+        "Derivatives designated as hedging instruments for regulatory purposes": {
+            "": ""
+        },
+        "Energy-related derivatives:": {
+            "": ""
+        },
+        "Other current assets": {
+            "": "—"
+        },
+        "Other deferred charges and assets": {
+            "": "$  1"
+        },
+        "Total derivatives designated as hedging instruments for regulatory purposes": {
+            "": "N/A"
+        },
+        "Derivatives designated as hedging instruments in cash flow and fair value hedges": {
+            "": ""
+        },
+        "Interest rate derivatives:": {
+            "": ""
+        },
+        "Total derivatives designated as hedging instruments in cash flow and fair value hedges": {
+            "": "$—"
+        },
+        "Derivatives not designated as hedging instruments": {
+            "": ""
+        },
+        "Foreign currency derivatives": {
+            "": ""
+        },
+        "Total derivatives not designated as hedging instruments": {
+            "": "$  1"
+        },
+        "Total asset derivatives": {
+            "": "$  1"
+        }
+    },
+    "Table_210": {
+        "Derivative Category andBalance Sheet Location": {
+            "": "SouthernPower"
+        },
+        "Derivatives designated as hedging instruments for regulatory purposes": {
+            "": ""
+        },
+        "Energy-related derivatives:": {
+            "": ""
+        },
+        "Liabilities from risk management activities": {
+            "": "—"
+        },
+        "Other deferred credits and liabilities": {
+            "": ""
+        },
+        "Total derivatives designated as hedging instruments for regulatory purposes": {
+            "": "N/A"
+        },
+        "Derivatives designated as hedging instruments in cash flow and fair value hedges": {
+            "": ""
+        },
+        "Interest rate derivatives:": {
+            "": ""
+        },
+        "Total derivatives designated as hedging instruments in cash flow and fair value hedges": {
+            "": "$    2"
+        },
+        "Derivatives not designated as hedging instruments": {
+            "": ""
+        },
+        "Foreign currency derivatives:": {
+            "": ""
+        },
+        "Total derivatives not designated as hedging instruments": {
+            "": "$  15"
+        },
+        "Total liability derivatives": {
+            "": "$  17"
+        }
+    },
+    "Table_211": {
+        "Derivative Category and Balance SheetLocation": {
+            "": "MississippiPower"
+        },
+        "Energy-related derivatives:": {
+            "": ""
+        },
+        "Other regulatory assets, current": {
+            "": "$-39"
+        },
+        "Other regulatory assets, deferred": {
+            "": -17.0
+        },
+        "Other regulatory liabilities, current": {
+            "": "—"
+        },
+        "Other regulatory liabilities, deferred": {
+            "": "—"
+        },
+        "Other deferred credits and liabilities*": {
+            "": "—"
+        },
+        "Total energy-related derivative gains (losses)": {
+            "": "$-56"
+        }
+    },
+    "Table_213": {
+        "": {
+            "": 2011.0
+        },
+        "Southern Company": {
+            "": ""
+        },
+        "Energy-related derivatives": {
+            "": "$            —"
+        },
+        "Interest rate derivatives": {
+            "": -3.0
+        },
+        "Total": {
+            "": "$            -3"
+        },
+        "Alabama Power": {
+            "": ""
+        },
+        "Georgia Power": {
+            "": ""
+        },
+        "Gulf Power": {
+            "": ""
+        },
+        "Mississippi Power": {
+            "": ""
+        },
+        "Southern Power": {
+            "": ""
+        }
+    },
+    "Table_214": {
+        "": {
+            "": ""
+        },
+        "Derivative liabilities": {
+            "": "$4"
+        }
+    },
+    "Table_216": {
+        "": {
+            "": "Consolidated"
+        },
+        "Three Months Ended March 31, 2012:": {
+            "": ""
+        },
+        "Operating revenues": {
+            "": "$  4012"
+        },
+        "Segment net income *": {
+            "": 368.0
+        },
+        "Total assets at March 31, 2012": {
+            "": "$59874"
+        },
+        "Three Months Ended March 31, 2011:": {
+            "": ""
+        },
+        "Segment net income (loss)*": {
+            "": 422.0
+        },
+        "Total assets at December 31, 2011": {
+            "": "$59267"
+        }
+    },
+    "Table_217": {
+        "Period": {
+            "": "Total"
+        },
+        "Three Months Ended March 31, 2012": {
+            "": "$3589"
+        },
+        "Three Months Ended March 31, 2011": {
+            "": "$3994"
+        }
+    },
+    "Table_218": {
+        "(c)1": {
+            "": "Forty-Sixth Supplemental Indenture to Senior Note Indenture dated as of March 6 2012 providing for the issuance of the Series 2012A 4.30% Senior Notes due March 15 2042.\n-Designated in Form 8-K dated February 29 2012 File No. 1-6468 as Exhibit 4.2."
+        }
+    },
+    "Table_219": {
+        "(e)1": {
+            "": "Thirteenth Supplemental Indenture to Senior Note Indenture dated as of March 9 2012 providing for the issuance of the Series 2012A 4.25% Senior Notes due March 15 2042.\n-Designated in Form 8-K dated March 5 2012 File No. 001-11229 as Exhibit 4.2-b."
+        }
+    },
+    "Table_220": {
+        "(a)1": {
+            "": "Base Salaries of Named Executive Officers."
+        }
+    },
+    "Table_221": {
+        "(b)1": {
+            "": "Base Salaries of Named Executive Officers."
+        }
+    },
+    "Table_222": {
+        "(c)1": {
+            "": "Base Salaries of Named Executive Officers."
+        }
+    },
+    "Table_223": {
+        "(c)2": {
+            "": "Amendment No. 5 dated as of February 7 2012 to the Engineering Procurement and Construction Agreement dated as of April 8 2008 between Georgia Power for itself and\nas agent for Oglethorpe Power Corporation Municipal Electric Authority of Georgia and Dalton Utilities as owners and a consortium consisting of Westinghouse and Stone & Webster Inc. as contractor for Units 3 & 4 at the Vogtle Electric\nGenerating Plant Site. -Georgia Power has requested confidential treatment for certain portions of this document pursuant to an application for confidential treatment sent to the SEC. Georgia Power has omitted such portions from the filing and filed\nthem separately with the SEC."
+        }
+    },
+    "Table_224": {
+        "(e)1": {
+            "": "Base Salaries of Named Executive Officers."
+        }
+    },
+    "Table_225": {
+        "(a)1": {
+            "": "Power of Attorney and resolution. -Designated in the Form 10-K for the year ended December 31 2011 File No. 1-3526 as Exhibit 24-a and incorporated herein by\nreference."
+        }
+    },
+    "Table_226": {
+        "(b)1": {
+            "": "Power of Attorney and resolution. -Designated in the Form 10-K for the year ended December 31 2011 File No. 1-3164 as Exhibit 24-b and incorporated herein by\nreference."
+        }
+    },
+    "Table_227": {
+        "(c)1": {
+            "": "Certificate of Georgia Power’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(d)1": {
+            "": "Certificate of Gulf Power’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(e)1": {
+            "": "Power of Attorney and resolution. -Designated in the Form 10-K for the year ended December 31 2011 File No. 001-11229 as Exhibit 24-e and incorporated herein by\nreference."
+        },
+        "(f)1": {
+            "": "Power of Attorney and resolution. -Designated in the Form 10-K for the year ended December 31 2011 File No. 333-98553 as Exhibit 24-f and incorporated herein by\nreference."
+        },
+        "(a)1": {
+            "": "Certificate of Southern Company’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(a)2": {
+            "": "Certificate of Southern Company’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(b)1": {
+            "": "Certificate of Alabama Power’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(b)2": {
+            "": "Certificate of Alabama Power’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(c)2": {
+            "": "Certificate of Georgia Power’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(d)2": {
+            "": "Certificate of Gulf Power’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of\n2002."
+        }
+    },
+    "Table_228": {
+        "(e)1": {
+            "": "Certificate of Mississippi Power’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(e)2": {
+            "": "Certificate of Mississippi Power’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(f)1": {
+            "": "Certificate of Southern Power’s Chief Executive Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(f)2": {
+            "": "Certificate of Southern Power’s Chief Financial Officer required by Section 302 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(a)": {
+            "": "Certificate of Southern Company’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(b)": {
+            "": "Certificate of Alabama Power’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(c)": {
+            "": "Certificate of Georgia Power’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(d)": {
+            "": "Certificate of Gulf Power’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(e)": {
+            "": "Certificate of Mississippi Power’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        },
+        "(f)": {
+            "": "Certificate of Southern Power’s Chief Executive Officer and Chief Financial Officer required by Section 906 of the Sarbanes-Oxley Act of 2002."
+        }
+    },
+    "Table_229": {
+        "(101)": {
+            "": "XBRL — Related Documents"
+        },
+        "INS": {
+            "": "XBRL Instance Document"
+        },
+        "SCH": {
+            "": "XBRL Taxonomy Extension Schema Document"
+        },
+        "CAL": {
+            "": "XBRL Taxonomy Calculation Linkbase Document"
+        },
+        "DEF": {
+            "": "XBRL Definition Linkbase Document"
+        },
+        "LAB": {
+            "": "XBRL Taxonomy Label Linkbase Document"
+        },
+        "PRE": {
+            "": "XBRL Taxonomy Presentation Linkbase Document"
+        }
+    },
+    "Table_230": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_231": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_232": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_233": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_234": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_235": {
+        "": {
+            "": "-Melissa K. Caen Attorney-in-fact"
+        },
+        "By": {
+            "": "/s/ Melissa K.\nCaen"
+        }
+    },
+    "Table_236": {
+        "Art P. BeattieExecutive Vice President and Chief Financial Officer": {
+            "$1,125,000": "$628732"
+        },
+        "W. Paul BowersExecutive Vice President of the Company,President and Chief Executive Officer of Georgia Power Company": {
+            "$1,125,000": "$743585"
+        },
+        "Charles D. McCraryExecutive Vice President of the Company,President and Chief Executive Officer of Alabama Power Company": {
+            "$1,125,000": "$781369"
+        },
+        "Anthony J. TopaziExecutive Vice President and Chief OperatingOfficer": {
+            "$1,125,000": "$646089"
+        }
+    },
+    "Table_237": {
+        "Philip C. RaymondExecutive Vice President, Chief Financial Officer,and Treasurer": {
+            "$781,369": "$284591"
+        },
+        "Theodore J. McCulloughSenior Vice President": {
+            "$781,369": "$225884"
+        },
+        "Zeke W. SmithExecutive Vice President": {
+            "$781,369": "$283541"
+        },
+        "Steven R. SpencerExecutive Vice President": {
+            "$781,369": "$428784"
+        }
+    },
+    "Table_238": {
+        "Ronnie R. LabratoExecutive Vice President, Chief FinancialOfficer and Treasurer": {
+            "$743,585": "$302575"
+        },
+        "W. Craig BarrsExecutive Vice President": {
+            "$743,585": "$312000"
+        },
+        "Mickey A. Brown*Executive Vice President": {
+            "$743,585": "$383877"
+        },
+        "Joseph A. MillerExecutive Vice President": {
+            "$743,585": "$403065"
+        }
+    },
+    "Table_248": {
+        "Moses H. FeaginVice President, Treasurer and Chief Financial Officer": {
+            "$407,056": "$234073"
+        },
+        "Thomas O. Anderson, IVVice President": {
+            "$407,056": "$194461"
+        },
+        "John W. AthertonVice President": {
+            "$407,056": "$234073"
+        },
+        "Jeff G. FranklinVice President": {
+            "$407,056": "$237652"
+        },
+        "Donald R. Horsley*Vice President": {
+            "$407,056": "$300706"
+        }
+    },
+    "Table_253": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_255": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_260": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_262": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_267": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_269": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_274": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_276": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_281": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_283": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_288": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_290": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_295": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_297": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_302": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_304": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_309": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_311": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_316": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_318": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_323": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_325": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_330": {
+        "(b)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Designed such internal control over financial reporting or caused such internal control over financial reporting to be designed under our supervision to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;"
+        },
+        "(c)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and"
+        },
+        "(d)": {
+            "Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;": "Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter -the registrant’s fourth fiscal quarter in the case of an annual report that has materially affected or is reasonably likely to materially affect the registrant’s internal control over financial reporting; and"
+        }
+    },
+    "Table_332": {
+        "(b)": {
+            "All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and": "Any fraud whether or not material that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting."
+        }
+    },
+    "Table_333": {
+        "": {
+            "such Quarterly Report on Form 10-Q of The Southern Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of The Southern Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of The Southern Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of The Southern Company."
+        }
+    },
+    "Table_334": {
+        "": {
+            "/s/Thomas A FanningThomas A. FanningChairman, President andChief Executive Officer": "/s/Art P. BeattieArt P. BeattieExecutive Vice President andChief Financial Officer"
+        }
+    },
+    "Table_335": {
+        "": {
+            "such Quarterly Report on Form 10-Q of Alabama Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of Alabama Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of Alabama Power Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of Alabama Power Company."
+        }
+    },
+    "Table_336": {
+        "": {
+            "/s/Charles D. McCraryCharles D. McCraryPresident and Chief Executive Officer": "/s/Philip C. RaymondPhilip C. RaymondExecutive Vice PresidentChief Financial Officer and Treasurer"
+        }
+    },
+    "Table_337": {
+        "": {
+            "such Quarterly Report on Form 10-Q of Georgia Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of Georgia Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of Georgia Power Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of Georgia Power Company."
+        }
+    },
+    "Table_338": {
+        "": {
+            "/s/W. Paul BowersW. Paul BowersPresident and Chief Executive Officer": "/s/Ronnie R. LabratoRonnie R. LabratoExecutive Vice PresidentChief Financial Officer and Treasurer"
+        }
+    },
+    "Table_339": {
+        "": {
+            "such Quarterly Report on Form 10-Q of Gulf Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of Gulf Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of Gulf Power Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of Gulf Power Company."
+        }
+    },
+    "Table_340": {
+        "": {
+            "/s/Mark A. CrosswhiteMark A. CrosswhitePresident and Chief Executive Officer": "/s/Richard S. TeelRichard S. TeelVice President and Chief Financial Officer"
+        }
+    },
+    "Table_341": {
+        "": {
+            "such Quarterly Report on Form 10-Q of Mississippi Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of Mississippi Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of Mississippi Power Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of Mississippi Power Company."
+        }
+    },
+    "Table_342": {
+        "": {
+            "/s/Edward Day, VIEdward Day, VIPresident and Chief Executive Officer": "/s/Moses H. FeaginMoses H. FeaginVice President Treasurer andChief Financial Officer"
+        }
+    },
+    "Table_343": {
+        "": {
+            "such Quarterly Report on Form 10-Q of Southern Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": ""
+        },
+        "(2)": {
+            "such Quarterly Report on Form 10-Q of Southern Power Company for the quarter ended March 31, 2012, which this statement accompanies, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and": "the information contained in such Quarterly Report on Form 10-Q of Southern Power Company for the quarter ended March 31 2012 fairly presents in all material respects the financial condition and results of operations of Southern Power Company."
+        }
+    },
+    "Table_344": {
+        "": {
+            "/s/Oscar C. Harper IVOscar C. Harper IVPresident and Chief Executive Officer": "/s/Michael W. SouthernMichael W. SouthernSenior Vice President Treasurer andChief Financial Officer"
+        }
+    },
+    "Table_345": {
+        "Mar. 31, 2012": {
+            "3 Months Ended": "Mar. 31 2011"
+        },
+        "Effective Tax Rate and Unrecognized Tax Benefits (Textual) [Abstract]": {
+            "3 Months Ended": ""
+        },
+        "Effective tax rate": {
+            "3 Months Ended": "31.30%"
+        },
+        "Significantly increase or decrease in the amount of the unrecognized tax benefits associated with a majority of Southern": {
+            "3 Months Ended": "Next 12 Months"
+        },
+        "Alabama Power [Member]": {
+            "3 Months Ended": ""
+        },
+        "Georgia Power [Member]": {
+            "3 Months Ended": ""
+        },
+        "Gulf Power [Member]": {
+            "3 Months Ended": ""
+        },
+        "Mississippi Power [Member]": {
+            "3 Months Ended": ""
+        },
+        "Southern Power [Member]": {
+            "3 Months Ended": ""
+        }
+    },
+    "Table_346": {
+        "- DetailsName:so_EffectiveTaxRateAndUnrecognizedTaxBenefitsTextualAbstractNamespace Prefix:so_Data Type:xbrli:stringItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_347": {
+        "Namespace Prefix:": {
+            "so_EffectiveTaxRateAndUnrecognizedTaxBenefitsTextualAbstract": "so_"
+        },
+        "Data Type:": {
+            "so_EffectiveTaxRateAndUnrecognizedTaxBenefitsTextualAbstract": "xbrli:stringItemType"
+        },
+        "Balance Type:": {
+            "so_EffectiveTaxRateAndUnrecognizedTaxBenefitsTextualAbstract": "na"
+        },
+        "Period Type:": {
+            "so_EffectiveTaxRateAndUnrecognizedTaxBenefitsTextualAbstract": "duration"
+        }
+    },
+    "Table_348": {
+        "- DefinitionSignificantly increase or decrease in the amount of the unrecognized tax benefits.+ ReferencesNo definition available.+ DetailsName:so_SignificantlyIncreaseOrDecreaseInAmountOfUnrecognizedTaxBenefitsNamespace Prefix:so_Data Type:us-types:durationStringItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_349": {
+        "Namespace Prefix:": {
+            "so_SignificantlyIncreaseOrDecreaseInAmountOfUnrecognizedTaxBenefits": "so_"
+        },
+        "Data Type:": {
+            "so_SignificantlyIncreaseOrDecreaseInAmountOfUnrecognizedTaxBenefits": "us-types:durationStringItemType"
+        },
+        "Balance Type:": {
+            "so_SignificantlyIncreaseOrDecreaseInAmountOfUnrecognizedTaxBenefits": "na"
+        },
+        "Period Type:": {
+            "so_SignificantlyIncreaseOrDecreaseInAmountOfUnrecognizedTaxBenefits": "duration"
+        }
+    },
+    "Table_350": {
+        "- DefinitionA ratio calculated by dividing the reported amount of income tax expense attributable to continuing operations for the period by GAAP-basis pretax income from continuing operations.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 740-SubTopic 10-Section 50-Paragraph 12-URI http://asc.fasb.org/extlink&oid=6907707&loc=d3e32687-109319Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 235-SubTopic 10-Section S99-Paragraph 1-Subparagraph (SX 210.4-08.(h)(2))-URI http://asc.fasb.org/extlink&oid=6881521&loc=d3e23780-122690Reference 3: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Statement of Financial Accounting Standard (FAS)-Number 109-Paragraph 47-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 4: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 08-Paragraph h-Subparagraph 2-Article 4Reference 5: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 740-SubTopic 10-Section 50-Paragraph 13-URI http://asc.fasb.org/extlink&oid=6907707&loc=d3e32698-109319+ DetailsName:us-gaap_EffectiveIncomeTaxRateContinuingOperationsNamespace Prefix:us-gaap_Data Type:num:percentItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_351": {
+        "Namespace Prefix:": {
+            "us-gaap_EffectiveIncomeTaxRateContinuingOperations": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_EffectiveIncomeTaxRateContinuingOperations": "num:percentItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_EffectiveIncomeTaxRateContinuingOperations": "na"
+        },
+        "Period Type:": {
+            "us-gaap_EffectiveIncomeTaxRateContinuingOperations": "duration"
+        }
+    },
+    "Table_352": {
+        "Mar. 31, 2012": {
+            "3 Months Ended": "Mar. 31 2011"
+        },
+        "Financial data for Products and Services": {
+            "3 Months Ended": ""
+        },
+        "Electric Utilities Revenues": {
+            "3 Months Ended": "$ 148"
+        },
+        "Retail [Member]": {
+            "3 Months Ended": ""
+        },
+        "Wholesale [Member]": {
+            "3 Months Ended": ""
+        },
+        "Other Electric Revenue [Member]": {
+            "3 Months Ended": ""
+        }
+    },
+    "Table_353": {
+        "- DetailsName:so_FinancialDataForProductsAndServicesAbstractNamespace Prefix:so_Data Type:xbrli:stringItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_354": {
+        "Namespace Prefix:": {
+            "so_FinancialDataForProductsAndServicesAbstract": "so_"
+        },
+        "Data Type:": {
+            "so_FinancialDataForProductsAndServicesAbstract": "xbrli:stringItemType"
+        },
+        "Balance Type:": {
+            "so_FinancialDataForProductsAndServicesAbstract": "na"
+        },
+        "Period Type:": {
+            "so_FinancialDataForProductsAndServicesAbstract": "duration"
+        }
+    },
+    "Table_355": {
+        "- DefinitionAmount of revenue from external customers for the reportable segment. Such disclosure is presented if the amount is: (a) included in the measure of segment profit or loss reviewed by the chief operating decision maker or (b) otherwise regularly provided to the chief operating decision maker, even if not included in that measure of segment profit or loss.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Statement of Financial Accounting Standard (FAS)-Number 131-Paragraph 27-Subparagraph a-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.+ DetailsName:us-gaap_RevenuesFromExternalCustomersNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:creditPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_356": {
+        "Namespace Prefix:": {
+            "us-gaap_RevenuesFromExternalCustomers": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_RevenuesFromExternalCustomers": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_RevenuesFromExternalCustomers": "credit"
+        },
+        "Period Type:": {
+            "us-gaap_RevenuesFromExternalCustomers": "duration"
+        }
+    },
+    "Table_357": {
+        "Mar. 31, 2012": {
+            "3 Months Ended": "Mar. 31 2011",
+            "": "Mar. 31 2011Number of Common shares Treasury [Member]"
+        },
+        "Changes in Stockholders' Equity": {
+            "3 Months Ended": "",
+            "": ""
+        },
+        "Beginning Balance": {
+            "3 Months Ended": "$ 18285000000",
+            "": ""
+        },
+        "Beginning Balance, Shares": {
+            "3 Months Ended": "",
+            "": -539.0
+        },
+        "Net Income After Dividends on Preferred and Preference Stock": {
+            "3 Months Ended": 368000000.0,
+            "": ""
+        },
+        "Other comprehensive income (loss)": {
+            "3 Months Ended": 6000000.0,
+            "": ""
+        },
+        "Stock issued, shares": {
+            "3 Months Ended": "",
+            "": ""
+        },
+        "Stock issued": {
+            "3 Months Ended": 157000000.0,
+            "": ""
+        },
+        "Cash dividends on common stock": {
+            "3 Months Ended": -410000000.0,
+            "": ""
+        },
+        "Other, shares": {
+            "3 Months Ended": "",
+            "": -6.0
+        },
+        "Ending Balance": {
+            "3 Months Ended": "$ 18406000000",
+            "": ""
+        },
+        "Ending Balance, Shares": {
+            "3 Months Ended": "",
+            "": -545.0
+        }
+    },
+    "Table_358": {
+        "- DetailsName:so_ChangesInStockholdersEquityAbstractNamespace Prefix:so_Data Type:xbrli:stringItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_359": {
+        "Namespace Prefix:": {
+            "so_ChangesInStockholdersEquityAbstract": "so_"
+        },
+        "Data Type:": {
+            "so_ChangesInStockholdersEquityAbstract": "xbrli:stringItemType"
+        },
+        "Balance Type:": {
+            "so_ChangesInStockholdersEquityAbstract": "na"
+        },
+        "Period Type:": {
+            "so_ChangesInStockholdersEquityAbstract": "duration"
+        }
+    },
+    "Table_360": {
+        "- DefinitionEquity impact of common stock cash dividends declared by an entity during the period. This element includes paid and unpaid dividends declared during the period.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 04-Article 3Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section S99-Paragraph 1-Subparagraph (SX 210.3-04)-URI http://asc.fasb.org/extlink&oid=6959260&loc=d3e187085-122770+ DetailsName:us-gaap_DividendsCommonStockCashNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:debitPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_361": {
+        "Namespace Prefix:": {
+            "us-gaap_DividendsCommonStockCash": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_DividendsCommonStockCash": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_DividendsCommonStockCash": "debit"
+        },
+        "Period Type:": {
+            "us-gaap_DividendsCommonStockCash": "duration"
+        }
+    },
+    "Table_362": {
+        "- DefinitionNet income after adjustments for dividends on preferred stock (declared in the period) and/or cumulative preferred stock (accumulated for the period).+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Statement of Financial Accounting Standard (FAS)-Number 128-Paragraph 9-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 260-SubTopic 10-Section 45-Paragraph 11-URI http://asc.fasb.org/extlink&oid=6920599&loc=d3e1377-109256+ DetailsName:us-gaap_NetIncomeLossAvailableToCommonStockholdersBasicNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:creditPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_363": {
+        "Namespace Prefix:": {
+            "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic": "credit"
+        },
+        "Period Type:": {
+            "us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic": "duration"
+        }
+    },
+    "Table_364": {
+        "- DefinitionThis element represents Other Comprehensive Income or Loss, Net of Tax, for the period attributable to the parent entity.  Includes deferred gains or losses on qualifying hedges, unrealized holding gains or losses on available-for-sale securities, minimum pension liability, and cumulative translation adjustment.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 45-Paragraph 19-URI http://asc.fasb.org/extlink&oid=6921628&loc=SL4569616-111683Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 50-Paragraph 1A-Subparagraph (c)(3)-URI http://asc.fasb.org/extlink&oid=6921930&loc=SL4573702-111684Reference 3: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Research Bulletin (ARB)-Number 51-Paragraph 30-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 4: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Research Bulletin (ARB)-Number 51-Paragraph 38-Subparagraph c(3)-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 5: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Research Bulletin (ARB)-Number 51-Paragraph 29-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 6: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 45-Paragraph 20-URI http://asc.fasb.org/extlink&oid=6921628&loc=SL4569643-111683+ DetailsName:us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParentNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:creditPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_365": {
+        "Namespace Prefix:": {
+            "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "credit"
+        },
+        "Period Type:": {
+            "us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "duration"
+        }
+    },
+    "Table_366": {
+        "- DefinitionNumber of shares of stock issued as of the balance sheet date, including shares that had been issued and were previously outstanding but which are now held in the treasury.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section 50-Paragraph 2-URI http://asc.fasb.org/extlink&oid=6928386&loc=d3e21463-112644+ DetailsName:us-gaap_SharesIssuedNamespace Prefix:us-gaap_Data Type:xbrli:sharesItemTypeBalance Type:naPeriod Type:instant": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_367": {
+        "Namespace Prefix:": {
+            "us-gaap_SharesIssued": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_SharesIssued": "xbrli:sharesItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_SharesIssued": "na"
+        },
+        "Period Type:": {
+            "us-gaap_SharesIssued": "instant"
+        }
+    },
+    "Table_368": {
+        "- DefinitionTotal of Stockholders' Equity (deficit) items, net of receivables from officers, directors, owners, and affiliates of the entity including portions attributable to both the parent and noncontrolling interests (previously referred to as minority interest), if any. The entity including portions attributable to the parent and noncontrolling interests is sometimes referred to as the economic entity. This excludes temporary equity and is sometimes called permanent equity.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 45-Paragraph 16-URI http://asc.fasb.org/extlink&oid=6921628&loc=SL4568740-111683Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 55-Paragraph 4I-URI http://asc.fasb.org/extlink&oid=6922042&loc=SL4590271-111686Reference 3: http://www.xbrl.org/2003/role/presentationRef-Name Accounting Research Bulletin (ARB)-Publisher AICPA-Number 51-Paragraph 26-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 4: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Research Bulletin (ARB)-Number 51-Paragraph A3-Appendix AReference 5: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Research Bulletin (ARB)-Number 51-Paragraph 25-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 6: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 810-SubTopic 10-Section 45-Paragraph 15-URI http://asc.fasb.org/extlink&oid=6921628&loc=SL4568447-111683+ DetailsName:us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:creditPeriod Type:instant": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_369": {
+        "Namespace Prefix:": {
+            "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "credit"
+        },
+        "Period Type:": {
+            "us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "instant"
+        }
+    },
+    "Table_370": {
+        "- DefinitionThis element represents movements in the number of shares included in the statement of changes in stockholders' equity which are not separately disclosed or provided for elsewhere in the taxonomy.+ ReferencesNo definition available.+ DetailsName:us-gaap_StockholdersEquityOtherSharesNamespace Prefix:us-gaap_Data Type:xbrli:sharesItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_371": {
+        "Namespace Prefix:": {
+            "us-gaap_StockholdersEquityOtherShares": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_StockholdersEquityOtherShares": "xbrli:sharesItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_StockholdersEquityOtherShares": "na"
+        },
+        "Period Type:": {
+            "us-gaap_StockholdersEquityOtherShares": "duration"
+        }
+    },
+    "Table_372": {
+        "- DefinitionNumber of new stock issued during the period.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section S99-Paragraph 1-Subparagraph (SX 210.3-04)-URI http://asc.fasb.org/extlink&oid=6959260&loc=d3e187085-122770Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section 50-Paragraph 2-URI http://asc.fasb.org/extlink&oid=6928386&loc=d3e21463-112644Reference 3: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Principles Board Opinion (APB)-Number 12-Paragraph 10-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 4: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 04-Article 3Reference 5: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 02-Paragraph 29, 30-Article 5+ DetailsName:us-gaap_StockIssuedDuringPeriodSharesNewIssuesNamespace Prefix:us-gaap_Data Type:xbrli:sharesItemTypeBalance Type:naPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_373": {
+        "Namespace Prefix:": {
+            "us-gaap_StockIssuedDuringPeriodSharesNewIssues": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_StockIssuedDuringPeriodSharesNewIssues": "xbrli:sharesItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_StockIssuedDuringPeriodSharesNewIssues": "na"
+        },
+        "Period Type:": {
+            "us-gaap_StockIssuedDuringPeriodSharesNewIssues": "duration"
+        }
+    },
+    "Table_374": {
+        "- DefinitionEquity impact of the value of new stock issued during the period. Includes shares issued in an initial public offering or a secondary public offering.+ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section S99-Paragraph 1-Subparagraph (SX 210.3-04)-URI http://asc.fasb.org/extlink&oid=6959260&loc=d3e187085-122770Reference 2: http://www.xbrl.org/2003/role/presentationRef-Publisher FASB-Name Accounting Standards Codification-Topic 505-SubTopic 10-Section 50-Paragraph 2-URI http://asc.fasb.org/extlink&oid=6928386&loc=d3e21463-112644Reference 3: http://www.xbrl.org/2003/role/presentationRef-Publisher AICPA-Name Accounting Principles Board Opinion (APB)-Number 12-Paragraph 10-LegacyDoc This reference is SUPERSEDED by the Accounting Standards Codification effective for interim and annual periods ending after September 15, 2009.  This reference is included to help users transition from the previous accounting hierarchy and will be removed from future versions of this taxonomy.Reference 4: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 04-Article 3Reference 5: http://www.xbrl.org/2003/role/presentationRef-Publisher SEC-Name Regulation S-X (SX)-Number 210-Section 02-Paragraph 29, 30, 31-Article 5+ DetailsName:us-gaap_StockIssuedDuringPeriodValueNewIssuesNamespace Prefix:us-gaap_Data Type:xbrli:monetaryItemTypeBalance Type:creditPeriod Type:duration": {},
+        "Name:": {},
+        "Namespace Prefix:": {},
+        "Data Type:": {},
+        "Balance Type:": {},
+        "Period Type:": {}
+    },
+    "Table_375": {
+        "Namespace Prefix:": {
+            "us-gaap_StockIssuedDuringPeriodValueNewIssues": "us-gaap_"
+        },
+        "Data Type:": {
+            "us-gaap_StockIssuedDuringPeriodValueNewIssues": "xbrli:monetaryItemType"
+        },
+        "Balance Type:": {
+            "us-gaap_StockIssuedDuringPeriodValueNewIssues": "credit"
+        },
+        "Period Type:": {
+            "us-gaap_StockIssuedDuringPeriodValueNewIssues": "duration"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Operating revenues": {
+        "Utility": 3.0,
+        "Parent & Other": 6.0,
+        "Total": 6.0
+    },
+    "Net income": {
+        "Utility": 3.0,
+        "Parent & Other": 6.0,
+        "Total": 6.0
+    },
+    "Total assets": {
+        "Utility": 3.0,
+        "Parent & Other": null,
+        "Total": 0.2
+    },
+    "Total liabilities": {
+        "Utility": 3.0,
+        "Parent & Other": null,
+        "Total": 0.2
+    },
+    "Cash and cash equivalents": {
+        "Utility": 3.0,
+        "Parent & Other": 6.0,
+        "Total": 6.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 3.0,
+        "Parent & Other": 6.0,
+        "Total": 6.0
+    },
+    "Interest expense": {
+        "Utility": 3.0,
+        "Parent & Other": null,
+        "Total": 0.2
+    },
+    "Report Date": "December-31,-2008"
+}

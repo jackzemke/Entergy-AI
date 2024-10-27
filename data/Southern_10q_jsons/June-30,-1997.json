@@ -1,0 +1,28 @@
+{
+    "Net Income": {
+        "Utility": 214795.0,
+        "Parent & Other": 214795.0,
+        "Entergy": 287260.0
+    },
+    "Operating revenues": {
+        "Utility": 153688.0,
+        "Parent & Other": 6.0,
+        "Entergy": 0.0
+    },
+    "Purchased power": {
+        "Utility": 483176.0,
+        "Parent & Other": 238954.0,
+        "Entergy": 941417.0
+    },
+    "Income taxes": {
+        "Utility": 153706.0,
+        "Parent & Other": 210320.0,
+        "Entergy": 299888.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 286907.0,
+        "Parent & Other": 249217.0,
+        "Entergy": 579031.0
+    },
+    "Report Date": "June-30,-1997"
+}

@@ -1,0 +1,28 @@
+{
+    "Net Income": {
+        "Utility": 245444.0,
+        "Parent & Other": 22431.0,
+        "Entergy": 6.0
+    },
+    "Operating revenues": {
+        "Utility": 131022.0,
+        "Parent & Other": 5.0,
+        "Entergy": 4.0
+    },
+    "Purchased power": {
+        "Utility": 104421.0,
+        "Parent & Other": 27442.0,
+        "Entergy": 6.0
+    },
+    "Income taxes": {
+        "Utility": 61510.0,
+        "Parent & Other": 12476.0,
+        "Entergy": 8.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 377292.0,
+        "Parent & Other": 31508.0,
+        "Entergy": 1.0
+    },
+    "Report Date": "March-31,-2000"
+}

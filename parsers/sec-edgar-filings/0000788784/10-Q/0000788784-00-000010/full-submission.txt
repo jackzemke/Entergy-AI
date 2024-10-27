@@ -1,0 +1,2470 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V7nYw4kZzC35i2HM9UVlzl9yWPFUa1tBJGj/t8BMfnlja7ccdPxVoKRi2yhhqQZY
+ GZ2Gfavip2cgxG0xzLv6cQ==
+
+<SEC-DOCUMENT>0000788784-00-000010.txt : 20000508
+<SEC-HEADER>0000788784-00-000010.hdr.sgml : 20000508
+ACCESSION NUMBER:		0000788784-00-000010
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLIC SERVICE ENTERPRISE GROUP INC
+		CENTRAL INDEX KEY:			0000788784
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				222625848
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-09120
+		FILM NUMBER:		621080
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 PARK PLZ
+		STREET 2:		P O BOX 1171
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07101
+		BUSINESS PHONE:		9734307000
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLIC SERVICE ELECTRIC & GAS CO
+		CENTRAL INDEX KEY:			0000081033
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				221212800
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-00973
+		FILM NUMBER:		621081
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 PARK PLZ
+		STREET 2:		PO BOX 570
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07101
+		BUSINESS PHONE:		2014307000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>PSEG & PSE&G FIRST QUARTER FORM 10-Q
+<TEXT>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+             (Mark One)
+       [ X ] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+             For the quarterly period ended March  31, 2000
+
+                                       OR
+
+       [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+  For the transition period from                  to
+
+Commission      Registrant, State of Incorporation,      I.R.S. Employer
+   File            Address, and Telephone Number         Identification
+  Number                                                      No.
+- ----------  ------------------------------------------  ----------------
+ 1-9120          PUBLIC SERVICE ENTERPRISE GROUP          22-2625848
+                            INCORPORATED
+                   (A New Jersey Corporation)
+                          80 Park Plaza
+                          P.O. Box 1171
+                  Newark, New Jersey 07101-1171
+                          973 430-7000
+                       http://www.pseg.com
+
+  1-973      PUBLIC SERVICE ELECTRIC AND GAS COMPANY      22-1212800
+                   (A New Jersey Corporation)
+                          80 Park Plaza
+                          P.O. Box 570
+                  Newark, New Jersey 07101-0570
+                          973 430-7000
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. Yes X No ___
+
+
+The   number  of   shares  outstanding  of  Public    Service  Enterprise  Group
+Incorporated's  sole class of common stock, as of the latest  practicable  date,
+was as follows:
+
+                     Class: Common Stock, without par value
+                   Outstanding at April 30, 2000: 216,354,551
+
+As of April 30, 2000, Public Service Electric  and  Gas Company had issued and
+outstanding   132,450,344  shares  of  common  stock,   without  nominal  or par
+value,  all of which were privately held,  beneficially  and of record by Public
+Service Enterprise Group Incorporated.
+
+
+================================================================================
+
+<PAGE>
+================================================================================
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+================================================================================
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+                                                                            ----
+PART I.  FINANCIAL INFORMATION
+
+   Item 1. Financial Statements
+
+     Public Service Enterprise Group Incorporated (PSEG)..................     1
+
+     Public Service Electric and Gas Company (PSE&G)......................     5
+
+     Notes to Consolidated Financial Statements -- PSEG...................     9
+
+     Notes to Consolidated Financial Statements -- PSE&G...................   16
+
+   Item 2. Management's Discussion and Analysis of Financial
+           Condition and Results of Operations
+
+       PSEG ..............................................................    17
+
+       PSE&G..............................................................    26
+
+   Item 3. Qualitative and Quantitative Disclosures About Market Risk.....    27
+
+PART II.  OTHER INFORMATION
+
+   Item 1. Legal Proceedings..............................................    28
+
+   Item 4. Submission of Matters to a Vote of Security Holders............    28
+
+   Item 5. Other Information..............................................    29
+
+   Item 6. Exhibits and Reports on Form 8-K...............................    30
+
+   Signatures -- PSEG.....................................................    31
+
+   Signatures -- PSE&G....................................................    31
+
+<PAGE>
+
+================================================================================
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+================================================================================
+
+                          PART I. FINANCIAL INFORMATION
+
+                          ITEM 1. FINANCIAL STATEMENTS
+<PAGE>
+<TABLE>
+
+               PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                        CONSOLIDATED STATEMENTS OF INCOME
+                (Millions of Dollars, except for Per Share Data)
+                                   (Unaudited)
+
+<CAPTION>
+
+                                                         For The Quarters Ended
+                                                                March 31,
+                                                         ----------------------
+                                                            2000         1999
+                                                         ---------    ---------
+<S>                                                           <C>        <C>
+    OPERATING REVENUES
+      Electric Revenues  *
+        Bundled                                               $ -        $ 966
+        Generation                                            558            -
+        Transmission and Distribution                         404            -
+                                                         ---------    ---------
+         Total Electric Revenues                              962          966
+      Gas Distribution                                        747          700
+      Other                                                   215          129
+                                                         ---------    ---------
+         Total Operating Revenues                           1,924        1,795
+                                                         ---------    ---------
+    OPERATING EXPENSES
+      Electric Energy Costs                                   216          225
+      Gas Costs                                               480          449
+      Operation and Maintenance                               485          431
+      Depreciation and Amortization                            90          173
+      Taxes Other Than Income Taxes                            50           56
+                                                         ---------    ---------
+           Total Operating Expenses                         1,321        1,334
+                                                         ---------    ---------
+    OPERATING INCOME                                          603          461
+    Other Income and Deductions                                11            6
+    Interest Expense                                         (137)        (112)
+    Preferred Securities Dividend Requirements                (24)         (24)
+                                                         ---------    ---------
+    INCOME BEFORE INCOME TAXES                                453          331
+    Income Taxes                                             (183)        (143)
+                                                         ---------    ---------
+    NET INCOME                                              $ 270        $ 188
+                                                         =========    =========
+
+    WEIGHTED AVERAGE COMMON SHARES
+        OUTSTANDING (000's)                               216,437      222,703
+                                                         =========    =========
+
+    EARNINGS PER SHARE (BASIC AND DILUTED)                 $ 1.25       $ 0.85
+                                                         =========    =========
+
+    DIVIDENDS PAID PER SHARE OF COMMON STOCK               $ 0.54       $ 0.54
+                                                         =========    =========
+
+    * Note:  Bundled revenues were recorded based on the bundled rates in effect
+      through  7/31/99.  Commencing  with the  unbundling  of  rates on  8/1/99,
+      revenues are disaggregated between Generation Revenue and Transmission and
+      Distribution Revenue.
+
+      See Notes to Consolidated Financial Statements.
+
+</TABLE>
+<PAGE>
+<TABLE>
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                           CONSOLIDATED BALANCE SHEETS
+                                     ASSETS
+                              (Millions of Dollars)
+
+<CAPTION>
+
+                                                       (Unaudited)
+                                                        March 31,   December 31,
+                                                           2000        1999
+                                                       -----------  ------------
+<S>                                                          <C>          <C>
+CURRENT ASSETS
+  Cash and Cash Equivalents                                  $ 121        $ 259
+  Accounts Receivable:
+    Customer Accounts Receivable                               782          646
+    Other Accounts Receivable                                  404          371
+    Allowance for Doubtful Accounts                            (46)         (40)
+  Unbilled Revenues                                            183          241
+  Fuel                                                         165          311
+  Materials and Supplies, net of  valuation
+      reserves - 2000 and 1999, $11                            139          130
+  Prepayments                                                   29           53
+  Miscellaneous Current Assets                                  71           72
+                                                        -----------  -----------
+       Total Current Assets                                  1,848        2,043
+                                                        -----------  -----------
+
+PROPERTY, PLANT AND EQUIPMENT
+  Electric - Generation                                      2,551        2,510
+  Electric - Transmission and Distribution                   5,141        5,093
+  Gas - Distribution                                         3,042        3,019
+  Other                                                        605          534
+                                                        -----------  -----------
+       Total                                                11,339       11,156
+  Accumulated depreciation and amortization                 (4,208)      (4,078)
+                                                        -----------  -----------
+       Net Property, Plant and Equipment                     7,131        7,078
+                                                        -----------  -----------
+
+NONCURRENT ASSETS
+ Regulatory Assets                                           5,027        5,041
+ Long-Term Investments, net of accumulated
+     amortization and net of valuation allowances -
+     2000, $67;1999, $65                                     3,960        3,848
+ Nuclear Decommissioning Fund                                  633          631
+ Other Special Funds                                           140          148
+ Other Noncurrent Assets,  net of accumulated
+     amortization - 2000, $16; 1999, $12                       229          226
+                                                        -----------  -----------
+       Total Noncurrent Assets                               9,989        9,894
+                                                        -----------  -----------
+TOTAL                                                     $ 18,968     $ 19,015
+                                                        ===========  ===========
+
+See Notes to Consolidated Financial Statements.
+
+</TABLE>
+<PAGE>
+<TABLE>
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                           CONSOLIDATED BALANCE SHEETS
+                         LIABILITIES AND CAPITALIZATION
+                              (Millions of Dollars)
+
+
+<CAPTION>
+                                                  (Unaudited)
+                                                   March 31,      December 31,
+                                                      2000           1999
+                                                  -------------   -----------
+<S>                                                      <C>         <C>
+CURRENT LIABILITIES
+  Long-Term Debt Due Within One Year                     $ 973       $ 1,073
+  Commercial Paper and Loans                             1,202         1,972
+  Accounts Payable                                         802           738
+  Accrued Taxes                                            255            70
+  Other                                                    367           324
+                                                  -------------   -----------
+       Total Current Liabilities                         3,599         4,177
+                                                  -------------   -----------
+
+NONCURRENT LIABILITIES
+  Deferred Income Taxes and ITC                          2,961         2,928
+  Regulatory Liabilities                                   582           604
+  Nuclear Decommissioning                                  633           631
+  OPEB Costs                                               405           390
+  Other                                                    502           506
+                                                  -------------   -----------
+       Total Noncurrent Liabilities                      5,083         5,059
+                                                  -------------   -----------
+COMMITMENTS AND CONTINGENT LIABILITIES                       -             -
+                                                  -------------   -----------
+
+CAPITALIZATION:
+  LONG - TERM DEBT                                       4,901         4,575
+                                                  -------------   -----------
+
+  SUBSIDIARIES' PREFERRED SECURITIES:
+    Preferred Stock Without Mandatory Redemption            95            95
+    Preferred Stock With Mandatory Redemption               75            75
+    Guaranteed Preferred Beneficial Interest
+     in Subordinated Debentures                          1,038         1,038
+                                                  -------------   -----------
+       Total Subsidiaries' Preferred Securities          1,208         1,208
+                                                  -------------   -----------
+
+  COMMON STOCKHOLDERS' EQUITY:
+    Common Stock, issued: 231,957,608 shares             3,604         3,604
+    Treasury Stock, at cost: 2000 and 1999
+        - 15,540,390 shares                               (597)         (597)
+    Retained Earnings                                    1,345         1,193
+    Accumulated Other Comprehensive Loss                  (175)         (204)
+                                                  -------------   -----------
+       Total Common Stockholders' Equity                 4,177         3,996
+                                                  -------------   -----------
+            Total Capitalization                        10,286         9,779
+                                                  -------------   -----------
+TOTAL                                                 $ 18,968      $ 19,015
+                                                  =============   ===========
+
+See Notes to Consolidated Financial Statements.
+
+</TABLE>
+<PAGE>
+<TABLE>
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (Millions of Dollars)
+                                   (Unaudited)
+<CAPTION>
+
+                                                             For The Quarters Ended
+                                                                    March 31,
+                                                             -----------------------
+                                                                2000          1999
+                                                             ---------     ---------
+<S>                                                             <C>           <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income                                                    $ 270         $ 188
+  Adjustments to reconcile net income to net cash flows
+   from operating activities:
+    Depreciation and Amortization                                  90           173
+    Amortization of Nuclear Fuel                                   26            12
+    Recovery of Electric Energy and Gas Costs - net                16            89
+    Provision for Deferred Income Taxes and ITC - net              29           (73)
+    Investment Distributions                                       12             3
+    Equity Income from Partnerships                               (11)          (10)
+    Gains on Investments                                          (31)          (14)
+    Leasing Activities                                            (18)          (18)
+    Net Changes in certain current assets and liabilities:
+       Accounts Receivable and Unbilled Revenues                 (105)          (74)
+       Fuel and Materials and Supplies                            137           118
+       Prepayments                                                 24            22
+       Accounts Payable                                            64          (151)
+       Accrued Taxes                                              185           221
+       Other Current Assets and Liabilities                        44           118
+    Other                                                          35             9
+                                                             ---------     ---------
+       Net Cash Provided By Operating Activities                  767           613
+                                                             ---------     ---------
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Additions to Property, Plant and Equipment,
+      excluding Capitalized Interest and AFDC                    (149)          (79)
+  Net Change in Long-Term Investments                             (62)           (2)
+  Contribution to Decommissioning Funds and Other Special Funds    (8)          (12)
+  Other                                                             -            (7)
+                                                             ---------     ---------
+       Net Cash Used In Investing Activities                     (219)         (100)
+                                                             ---------     ---------
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Net Change in Short-Term Debt                                  (770)         (332)
+  Issuance of Long-Term Debt                                      300           252
+  Redemption/Purchase of Long-Term Debt                           (99)         (149)
+  Purchase of Treasury Stock                                        -          (235)
+  Cash Dividends Paid on Common Stock                            (117)         (120)
+                                                             ---------     ---------
+       Net Cash Used In Financing Activities                     (686)         (584)
+                                                             ---------     ---------
+Net Change In Cash And Cash Equivalents                          (138)          (71)
+Cash And Cash Equivalents At Beginning Of Period                  259           140
+                                                             ---------     ---------
+Cash And Cash Equivalents At End Of Period                      $ 121          $ 69
+                                                             =========     =========
+
+Income Taxes Paid                                                $  1         $   1
+Interest Paid                                                    $ 96         $ 107
+
+See Notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+<TABLE>
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                        CONSOLIDATED STATEMENTS OF INCOME
+                              (Millions of Dollars)
+                                   (Unaudited)
+
+<CAPTION>
+
+                                                        For The Quarters Ended
+                                                               March 31,
+                                                      --------------------------
+                                                         2000            1999
+                                                      ----------     -----------
+<S>                                                         <C>           <C>
+    OPERATING REVENUES
+       Electric Revenues  *
+         Bundled                                            $ -           $ 966
+         Generation                                         558               -
+         Transmission and Distribution                      404               -
+                                                      ----------     -----------
+           Total Electric Revenues                          962             966
+       Gas Distribution                                     747             700
+                                                      ----------     -----------
+           Total Operating Revenues                       1,709           1,666
+                                                      ----------     -----------
+    OPERATING EXPENSES
+       Electric Energy Costs                                205             221
+       Gas Costs                                            457             424
+       Operation and Maintenance                            388             387
+       Depreciation and Amortization                         88             172
+       Taxes Other Than Income Taxes                         49              56
+                                                      ----------     -----------
+             Total Operating Expenses                     1,187           1,260
+                                                      ----------     -----------
+    OPERATING INCOME                                        522             406
+    Other Income and Deductions                              10               3
+    Interest Expense                                        (97)            (93)
+    Preferred Securities Dividend Requirements              (11)            (11)
+                                                      ----------     -----------
+    INCOME BEFORE INCOME TAXES                              424             305
+    Income Taxes                                           (174)           (133)
+                                                      ----------     -----------
+    NET INCOME                                              250             172
+    Preferred Stock Dividend Requirement                     (2)             (3)
+                                                      ----------     -----------
+    EARNINGS AVAILABLE TO PUBLIC SERVICE
+     ENTERPRISE GROUP INCORPORATED                        $ 248           $ 169
+                                                      ==========     ===========
+
+    *  Note: Bundled revenues were recorded based on the bundled rates in effect
+       through  7/31/99.  Commencing  with the  unbundling  of rates on  8/1/99,
+       revenues are disaggregated  between  Generation  Revenue and Transmission
+       and Distribution Revenue.
+
+       See Notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+<TABLE>
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                           CONSOLIDATED BALANCE SHEETS
+                                     ASSETS
+                              (Millions of Dollars)
+<CAPTION>
+
+
+                                                           (Unaudited)
+                                                             March 31,     December 31,
+                                                               2000          1999
+                                                            -----------   ------------
+<S>                                                               <C>           <C>
+CURRENT ASSETS
+  Cash and Cash Equivalents                                       $ 31          $ 173
+  Accounts Receivable:
+    Customer Accounts Receivable                                   605            529
+    Other Accounts Receivable                                      370            313
+    Allowance for Doubtful Accounts                                (40)           (35)
+  Unbilled Revenues                                                183            241
+  Fuel                                                             164            308
+  Materials and Supplies, net of
+      valuation reserves - 2000 and 1999, $11                      133            130
+  Prepayments                                                       25             48
+  Miscellaneous Current Assets                                      36             36
+                                                            -----------   ------------
+       Total Current Assets                                      1,507          1,743
+                                                            -----------   ------------
+
+PROPERTY, PLANT AND EQUIPMENT
+  Electric - Generation                                          2,408          2,439
+  Electric - Transmission and Distribution                       5,141          5,093
+  Gas - Distribution                                             3,042          3,019
+  Other                                                            463            457
+                                                            -----------   ------------
+       Total                                                    11,054         11,008
+  Accumulated depreciation and amortization                     (4,166)        (4,046)
+                                                            -----------   ------------
+       Net Property, Plant and Equipment                         6,888          6,962
+                                                            -----------   ------------
+
+NONCURRENT ASSETS
+ Regulatory Assets                                               5,027          5,041
+ Long-Term Investments                                              87             99
+ Nuclear Decommissioning Fund                                      633            631
+ Other Special Funds                                               140            148
+ Other Noncurrent Assets                                            88            100
+                                                            -----------   ------------
+       Total Noncurrent Assets                                   5,975          6,019
+                                                            -----------   ------------
+TOTAL                                                         $ 14,370       $ 14,724
+                                                            ===========   ============
+
+See Notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+<TABLE>
+
+
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                           CONSOLIDATED BALANCE SHEETS
+                         LIABILITIES AND CAPITALIZATION
+                              (Millions of Dollars)
+<CAPTION>
+
+                                                (Unaudited)
+                                                  March 31,      December 31,
+                                                    2000            1999
+                                                 ------------    ------------
+<S>                                                    <C>             <C>
+CURRENT LIABILITIES
+  Long-Term Debt Due Within One Year                   $ 523           $ 623
+  Commercial Paper and Loans                             905           1,475
+  Accounts Payable                                       872             676
+  Accrued Taxes                                          118              70
+  Other                                                  246             211
+                                                 ------------    ------------
+       Total Current Liabilities                       2,664           3,055
+                                                 ------------    ------------
+
+NONCURRENT LIABILITIES
+  Deferred Income Taxes and ITC                        2,050           2,032
+  Regulatory Liabilities                                 582             604
+  Nuclear Decommissioning                                633             631
+  OPEB Costs                                             405             390
+  Other                                                  471             479
+                                                 ------------    ------------
+       Total Noncurrent Liabilities                    4,141           4,136
+                                                 ------------    ------------
+
+COMMITMENTS AND CONTINGENT LIABILITIES                     -               -
+                                                 ------------    ------------
+
+CAPITALIZATION:
+  LONG - TERM DEBT                                     3,100           3,099
+                                                 ------------    ------------
+
+  PREFERRED SECURITIES:
+   Preferred Stock Without Mandatory Redemption           95              95
+   Preferred Stock With Mandatory Redemption              75              75
+   Subsidiaries' Preferred Securities:
+    Guaranteed Preferred Beneficial Interest
+      in Subordinated Debentures                         513             513
+                                                 ------------    ------------
+       Total Preferred Securities                        683             683
+                                                 ------------    ------------
+
+  COMMON STOCKHOLDER'S EQUITY:
+    Common Stock, issued: 132,450,344 shares           2,563           2,563
+    Contributed Capital                                  594             594
+    Retained Earnings                                    628             597
+    Accumulated Other Comprehensive Loss                  (3)             (3)
+                                                 ------------    ------------
+       Total Common Stockholder's Equity               3,782           3,751
+                                                 ------------    ------------
+            Total Capitalization                       7,565           7,533
+                                                 ------------    ------------
+TOTAL                                               $ 14,370        $ 14,724
+                                                 ============    ============
+
+See Notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+<TABLE>
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (Millions of Dollars)
+                                   (Unaudited)
+
+<CAPTION>
+                                                              For The Quarters Ended
+                                                                     March 31,
+                                                              -----------------------
+                                                                2000          1999
+                                                              ----------    ---------
+<S>                                                               <C>          <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income                                                      $ 250        $ 172
+  Adjustments to reconcile net income to net cash flows from
+   operating activities:
+    Depreciation and Amortization                                    88          172
+    Amortization of Nuclear Fuel                                     26           12
+    Recovery of Electric Energy and Gas Costs - net                  16           89
+    Provision for Deferred Income Taxes and ITC - net                18          (59)
+    Net Changes in certain current assets and liabilities:
+       Accounts Receivable and Unbilled Revenues                    (70)         (62)
+       Fuel and Materials and Supplies                              141          116
+       Prepayments                                                   23           21
+       Accounts Payable                                             231          (59)
+       Accrued Taxes                                                 48           78
+       Other Current Assets and Liabilities                          35          144
+    Other                                                            46          (12)
+                                                              ----------    ---------
+       Net Cash Provided By Operating Activities                    852          612
+                                                              ----------    ---------
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Additions to Property, Plant and Equipment,
+      excluding Capitalized Interest and AFDC                      (110)         (79)
+  Contribution to Decommissioning Funds and Other Special Funds      (8)         (12)
+  Other                                                              12           10
+                                                              ----------    ---------
+       Net Cash Used In Investing Activities                       (106)         (81)
+                                                              ----------    ---------
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Net Change in Short-Term Debt                                    (570)        (279)
+  Redemption/Purchase of Long-Term Debt                             (99)           -
+  Cash Dividends Paid on Common Stock                              (217)        (277)
+  Other                                                              (2)          (2)
+                                                              ----------    ---------
+       Net Cash Used In Financing Activities                       (888)        (558)
+                                                              ----------    ---------
+Net Change In Cash And Cash Equivalents                            (142)         (27)
+Cash And Cash Equivalents At Beginning Of Period                    173           42
+                                                              ----------    ---------
+Cash And Cash Equivalents At End Of Period                         $ 31         $ 15
+                                                              ==========    =========
+
+Income Taxes Paid                                                  $  -         $  1
+Interest Paid                                                      $ 90         $ 98
+
+See Notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+================================================================================
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+================================================================================
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1.  Basis of Presentation
+
+Basis of Presentation
+
+     The financial statements included herein have been prepared pursuant to the
+rules and regulations of the Securities and Exchange  Commission (SEC).  Certain
+information  and note  disclosures  normally  included in  financial  statements
+prepared in accordance with generally accepted  accounting  principles have been
+condensed or omitted  pursuant to such rules and  regulations.  However,  in the
+opinion of  management,  the  disclosures  are adequate to make the  information
+presented not misleading.  These consolidated  financial statements and Notes to
+Consolidated Financial Statements (Notes) should be read in conjunction with the
+Registrant's Notes contained in the 1999 Annual Report on Form 10-K. These Notes
+update and supplement matters discussed in the 1999 Annual Report on Form 10-K.
+
+     The unaudited  financial  information  furnished  reflects all  adjustments
+which are, in the opinion of  management,  necessary to fairly state the results
+for the interim periods presented. The year-end consolidated balance sheets were
+derived from the audited consolidated  financial statements included in the 1999
+Annual Report on Form 10-K. Certain  reclassifications of prior period data have
+been made to conform with the current presentation.
+
+Note 2.  Regulatory Issues
+
+New Jersey Energy Master Plan Proceedings and Related Orders
+
+     In January  1999,  the State  Legislature  passed  the New Jersey  Electric
+Discount and Energy  Competition Act (Energy  Competition  Act) which was signed
+into law by the  Governor on February 9, 1999.  Following  the  enactment of the
+Energy Competition Act, the Board of Public Utilities (BPU) rendered its summary
+decision  relating to Public  Service  Electric and Gas  Company's  (PSE&G) rate
+unbundling,  stranded costs and  restructuring  proceedings  (Summary  Order) on
+April 21,  1999 and  subsequently  issued  its Final  Order in these  matters on
+August 24, 1999. The Energy  Competition Act and the related BPU proceedings are
+hereinafter  defined as the Energy Master Plan  Proceedings.  These  proceedings
+opened the New Jersey energy  markets to  competition by allowing all New Jersey
+retail electric customers to select their electric supplier commencing August 1,
+1999 and all New  Jersey  retail  gas  customers  to select  their gas  supplier
+commencing January 1, 2000.
+
+     In October  and  November  1999,  two  appeals  of the Final  Order and two
+appeals of the BPU's order approving  PSE&G's petition  relating to the proposed
+securitization transaction for an irrevocable Bondable Stranded Costs Rate Order
+(Finance Order) were filed in the Appellate  Division of the New Jersey Superior
+Court on behalf of several  customers and the Office of the Ratepayer  Advocate.
+On April 13, 2000, a three-judge panel unanimously  affirmed the Final Order and
+Finance  Order.  On May 2,  2000,  one of the  appellants  filed a notice of its
+intention to request the New Jersey  Supreme Court to exercise its discretion to
+review the unanimous  Appellate Division  decision.  The brief of the appellant,
+specifying  the issues to be reviewed  and the  reasons  why the  Supreme  Court
+should consider its request, must be filed with the Court not later than May 15,
+2000. On May 5, 2000,  PSE&G filed a Notice of Motion for  Accelerated  Briefing
+and  Disposition  of the Petition for  Certification  which,  if granted,  would
+require all briefing to be completed by May 30, 2000.  While PSE&G believes that
+the Court is not  reasonably  likely to exercise  its  discretion  to review the
+Appellate Division decision and that the securitization  transaction is expected
+to be completed by or around the end of the second quarter of 2000,  followed by
+the  generation-related  asset sale, no assurances can be given as to the timing
+or outcome of such matters.
+
+<PAGE>
+
+Note 3. Regulatory Assets and Liabilities
+
+     At March 31, 2000 and December 31, 1999,  respectively,  PSEG and PSE&G had
+deferred the following  regulatory  assets and  liabilities on the  Consolidated
+Balance Sheets:
+<TABLE>
+<CAPTION>
+
+                                                                        March 31,         December 31,
+                                                                          2000                1999
+                                                                      ---------------    -----------------
+                                                                            (Millions of Dollars)
+<S>                                                                          <C>                  <C>
+Regulatory Assets:
+   Stranded Costs to be Securitized...........................               $4,057               $4,057
+   SFAS 109 Income Taxes......................................                  285                  286
+   OPEB Costs.................................................                  232                  237
+   Societal Benefits Charges (SBC)............................                  119                  130
+   Demand Side Management Costs...............................                    7                    7
+   Environmental Costs........................................                  104                   94
+   Unamortized Loss on Reacquired Debt and Debt Expense.......                  113                  117
+   Other......................................................                  110                  113
+                                                                      ---------------    -----------------
+       Total Regulatory Assets................................               $5,027               $5,041
+                                                                      ===============    =================
+
+Regulatory Liabilities:
+   Excess Depreciation Reserve................................                 $537                 $569
+   Non-utility Generation Market Transition Charge (NTC)......                   14                   20
+   Overrecovered Gas Costs....................................                   31                   15
+                                                                      ---------------    -----------------
+       Total Regulatory Liabilities...........................                 $582                 $604
+                                                                      ===============    =================
+</TABLE>
+
+Note 4.  Commitments and Contingent Liabilities
+
+Pending Asset Purchases
+
+     On October 6, 1999,  PSEG Power LLC (Power)  announced  an  agreement  with
+Niagara Mohawk Power  Corporation  (Niagara Mohawk) to purchase its 400 megawatt
+(MW) oil and gas-fired  electric  generating station in Albany, New York (Albany
+Steam  Station)  for $47.5  million.  Payment of Power's  obligation  under such
+agreement has been  guaranteed by PSEG.  Niagara Mohawk could also receive up to
+an  additional  $9.0  million if Power  chooses to pursue  redevelopment  of the
+Albany Steam Station.  Under a transition power supply contract in place through
+September 2003,  Niagara Mohawk will purchase  electricity  from Power at prices
+consistent with those established in Niagara Mohawk's regulatory  agreement with
+the New York  Public  Service  Commission  (NYPSC).  In April  2000,  the  NYPSC
+approved  the sale of the  Albany  Steam  Station  to Power.  Power  expects  to
+complete the transaction in the second quarter of 2000.
+
+     On  September  30,  1999,  Power  announced  an agreement to acquire all of
+Conectiv's  interests in Salem Nuclear Generating Station (Salem) and Hope Creek
+Nuclear Generating Station (Hope Creek) and half of Conectiv's interest in Peach
+Bottom Atomic Power Station  (Peach  Bottom) for an aggregate  purchase price of
+$15.4  million  plus the net book value of  Conectiv's  nuclear fuel at closing.
+Payment of Power's  obligation under such agreement has been guaranteed by PSEG.
+Power will purchase Conectiv's 14.82% interest (328 MW) in Salem,  Conectiv's 5%
+interest (52 MW) in Hope Creek and half of Conectiv's  15.02%  interest (164 MW)
+in Peach Bottom.  Once  completed,  PSEG,  through Power and PSE&G,  would own a
+57.41%  interest  (1,270 MW) in Salem, a 100% interest  (1,031 MW) in Hope Creek
+and a 50%  interest  (1,094  MW)  in  Peach  Bottom.  While  certain  regulatory
+approvals have been obtained, the purchases are still subject to approval by the
+BPU, the Virginia  State  Corporation  Commission  and the  Pennsylvania  Public
+Utility Commission (PPUC). Power expects to complete the purchases in 2000.
+
+<PAGE>
+PSE&G Manufactured Gas Plant Remediation Program
+
+     Since 1988, New Jersey Department of Environmental  Protection  (NJDEP) and
+PSE&G have identified 38 former manufactured gas plant sites. PSE&G is currently
+working  with NJDEP under a program to assess,  investigate  and, if  necessary,
+remediate  environmental  conditions at these sites. The Remediation  Program is
+periodically  reviewed  and revised by PSE&G based on  regulatory  requirements,
+experience with the Remediation Program and available remediation  technologies.
+The long-term costs of the Remediation  Program cannot be reasonably  estimated,
+but  experience to date indicates  that costs of  approximately  $20 million per
+year could be incurred over a period of about 30 years and that the overall cost
+could be material.  The Energy  Competition Act provides for the continuation of
+Remediation  Adjustment Charge (RAC) programs.  The Final Order provides for the
+recovery of costs for this remediation effort through the SBC.
+
+Passaic River Site
+
+     The U.S.  Environmental  Protection  Agency (EPA) has determined that a six
+mile stretch of the Passaic River in Newark,  New Jersey is a "facility"  within
+the meaning of that term under the Federal Comprehensive Environmental Response,
+Compensation  and  Liability  Act of 1980  (CERCLA) and that,  to date, at least
+thirteen corporations, including PSE&G, may be potentially liable for performing
+required  remedial actions to address potential  environmental  pollution at the
+Passaic  River  "facility".  PSE&G  and  certain  of its  predecessors  operated
+industrial  facilities  at  properties  within  the  Passaic  River  "facility",
+including  the former  Harrison Gas Plant and Essex  Generating  Station.  PSE&G
+cannot predict what action,  if any, the EPA or any third party may take against
+PSE&G with  respect to these  matters,  or in such  event,  what costs PSE&G may
+incur to address any such claims. However, such costs may be material.
+
+Note  5.  Financial Instruments and Risk Management
+
+     PSEG's  operations  give rise to exposure to market  risks from  changes in
+commodity prices, interest rates, foreign currency exchange rates and securities
+prices. PSEG's policy is to use derivative financial instruments for the purpose
+of managing market risk consistent with its business plans and prudent  business
+practices.
+<PAGE>
+
+Commodity-Related Instruments -- PSE&G (including Power)
+
+     At March 31, 2000 and December 31, 1999, PSE&G held or issued commodity and
+financial  instruments that reduce exposure to price  fluctuations  from factors
+such as weather,  environmental policies,  changes in demand, changes in supply,
+state and Federal regulatory  policies and other events.  These instruments,  in
+conjunction  with owned  electric  generating  capacity  and physical gas supply
+contracts,   are  designed  to  cover   estimated   electric  and  gas  customer
+commitments. PSE&G uses futures, forwards, swaps and options to manage and hedge
+price risk related to these market exposures.
+
+     At March 31, 2000, PSE&G had outstanding  commodity  financial  instruments
+with a  notional  contract  quantity  of 9.4  million  megawatt-hours  (mWh)  of
+electricity  and 16.7 million MMBTU (million  British  thermal units) of natural
+gas. At December 31, 1999, PSE&G had outstanding commodity financial instruments
+with a notional  contract  quantity of 36.1 million mWh of electricity  and 25.5
+million MMBTU of natural gas. Notional amounts are indicative only of the volume
+of activity and are not a measure of market risk.
+
+     PSE&G's energy trading and related contracts have been marked to market and
+gains and losses from such contracts  were included in earnings.  PSE&G recorded
+$34 million and $18  million of gains in the  quarters  ended March 31, 2000 and
+1999, respectively.
+
+Commodity-Related Instruments -- Energy Holdings
+
+     PSEG Energy  Technologies  Inc. (Energy  Technologies)  enters into futures
+contracts  to buy  natural  gas and  electricity  related to  fixed-price  sales
+commitments.  Such contracts hedged approximately 56% and 85% of its fixed price
+natural gas sales and electric  sales  commitments,  respectively,  at March 31,
+2000 and 64% and 85% of its fixed  price  natural gas sales and  electric  sales
+commitments,  respectively,  at December  31,  1999.  In February  2000,  Energy
+Technologies  entered into a business  arrangement with a third party to provide
+an  internet-based  auction  exchange that will allow  customers an  alternative
+method in purchasing  their energy  requirements.  As a result of this change in
+strategic direction, Energy Technologies will discontinue the business of buying
+and selling natural gas and electricity.
+
+Equity Securities -- Energy Holdings
+
+     PSEG Resources Inc.  (Resources) has  investments in equity  securities and
+limited partnerships.  Resources carries its investments in equity securities at
+their  approximate  fair  value  as of the  reporting  date.  Consequently,  the
+carrying value of these  investments is affected by changes in the fair value of
+the  underlying  securities.  Fair value is  determined  by adjusting the market
+value of the  securities  for liquidity  and market  volatility  factors,  where
+appropriate.  The aggregate fair values of such investments  which had available
+market prices at March 31, 2000 and December 31, 1999 were $157 million and $131
+million,  respectively.  The increase in fair value was  primarily due to higher
+valuation of various  securities  within  Resources'  portfolio.  The  potential
+change in fair value  resulting from a hypothetical  10% change in quoted market
+prices of these  investments  amounted  to $12 million at March 31, 2000 and $11
+million at December 31, 1999.
+
+Foreign Currencies -- Energy Holdings
+
+     In accordance with their growth strategies,  Global and Resources have made
+international  investments  of  approximately  $1.5  billion  and $1.1  billion,
+respectively, as of March 31, 2000.
+
+     Resources'  international  investments  are primarily  leveraged  leases of
+assets  located in  Australia,  New Zealand,  the  Netherlands,  Germany and the
+United  Kingdom  with  associated  revenues  denominated  in U.S.  dollars  and,
+therefore, not subject to foreign currency risk.
+
+     Global's international  investments are primarily in projects that generate
+or distribute  electricity in Argentina,  Brazil,  Chile, China, India, Peru and
+Venezuela.  Investing in foreign  countries  involves certain  additional risks.
+Economic  conditions  that result in higher  comparative  rates of  inflation in
+foreign   countries  likely  result  in  declining  values  in  such  countries'
+currencies.  As  currencies  fluctuate  against  the  U.S.  dollar,  there  is a
+corresponding  change in Global's  investment value in terms of the U.S. dollar.
+Such change is  reflected  as an  increase  or  decrease in other  comprehensive
+income, a separate component of stockholders' equity. Cumulatively,  net foreign
+currency   devaluations  have  reduced  the  reported  amount  of  PSEG's  total
+stockholders' equity by approximately $172 million.
+
+     Global had  consolidated  project debt totaling $89 million as of March 31,
+2000 associated  with Global's  investment in a Brazilian  distribution  company
+that  is  non-recourse  to  Global,  Energy  Holdings  and  PSEG.  The  debt  is
+denominated  in the  Brazilian  Real and is indexed  to a basket of  currencies,
+approximately  58% of which is the U.S.  dollar.  Global is  subject  to foreign
+currency  exchange rate risk as a result of exchange rate movements  between the
+indexed  foreign  currencies and Real and between the Real and the U.S.  dollar.
+Exchange  rate  changes  ultimately  impact  the debt level  outstanding  in the
+reporting  currency  and result in foreign  currency  gains or losses.  Gains or
+losses  resulting from such exchange rate movements are included in other income
+for the period and amounted to a gain of $1 million and a loss of $3 million for
+the quarters ended March 31, 2000 and 1999, respectively.
+
+Interest Rates
+
+     PSEG,  PSE&G and Energy  Holdings  are  subject to the risk of  fluctuating
+interest  rates in the  normal  course of  business.  Their  policy is to manage
+interest  rate risk through the use of fixed rate debt,  floating  rate debt and
+interest rate swaps.  As of March 31, 2000, a hypothetical  10% change in market
+interest  rates would result in a $5 million,  $10 million and $1 million change
+in annual  interest  costs related to short-term and floating rate debt at PSEG,
+PSE&G and Energy Holdings, respectively.
+<PAGE>
+Note 6.  Income Taxes
+
+     PSEG's effective income tax rate is as follows:
+<TABLE>
+<CAPTION>
+
+                                                                                      Quarter Ended March 31,
+                                                                                   -----------------------------
+                                                                                      2000              1999
+                                                                                   -----------      ------------
+
+<S>                                                                                  <C>                 <C>
+     Federal tax provision at statutory rate.............................             35.0%              35.0%
+     New Jersey Corporate Business Tax, net of Federal benefit...........              5.9%               5.9%
+     Other-- net.........................................................             (0.5)%              2.1%
+                                                                                   -----------      ------------
+          Effective Income Tax Rate......................................             40.4%              43.0%
+                                                                                   ===========      ============
+</TABLE>
+
+Note 7.  Financial Information by Business Segments
+
+Basis of Organization
+
+     The reportable segments disclosed herein were determined based on a variety
+of factors  including  the  regulatory  environment  of each of PSEG's  lines of
+business  and the types of products  and services  offered.  Effective  with the
+unbundling  of  PSE&G's  rates on  August 1,  1999 and the  deregulation  of the
+electric generation portion of PSE&G's business,  the basis of segment reporting
+changed  beginning  with the third quarter of 1999.  The  generation  and energy
+trading  portions of PSE&G's  business  are now  separate  reportable  segments,
+whereas they  previously had been part of the Electric  segment.  Estimates have
+been used to separate historical, pre-August 1, 1999, electric segment data into
+the Generation,  Energy  Resources and Trade,  and Transmission and Distribution
+segments of PSE&G's business.
+
+     Information related to the segments of PSEG's business is detailed below:
+<TABLE>
+<CAPTION>
+
+                                                     Energy
+                                                     Resources                                             Consolidated
+                                         Generation  and Trade    T & D   Resources   Global    Other (A)     Total
+                                         --------------------------------------------------------------------------------
+                                                                     (Millions of Dollars)
+<S>                                            <C>          <C>   <C>           <C>        <C>      <C>          <C>
+For the Quarter Ended March 31, 2000:
+     Total Operating Revenues..........        $524         $34   $1,151        $66        $38      $111         $1,924
+     Segment Net Income (Loss).........         109          17      124         27          4       (11)           270
+                                         ================================================================================
+For the Quarter Ended March 31, 1999:
+     Total Operating Revenues..........        $658         $18     $990        $46        $28       $55         $1,795
+     Segment Net Income (Loss).........          76           8       88         19          2        (5)           188
+                                         ================================================================================
+As of March 31, 2000:
+     Total Assets......................      $2,033        $327  $12,010     $2,194     $1,774      $630        $18,968
+                                         ================================================================================
+As of December 31, 1999:
+     Total Assets......................      $2,256        $246  $12,222     $2,096     $1,715      $480        $19,015
+                                         ================================================================================
+</TABLE>
+
+(A)    PSEG's other  activities  include amounts  applicable to PSEG, the parent
+       corporation, and Energy Holdings, excluding Resources and Global.
+<PAGE>
+     Geographic information for PSEG is disclosed below. The foreign investments
+and  operations  noted below were made through Energy  Holdings.  PSE&G does not
+have foreign investments or operations.
+
+<TABLE>
+<CAPTION>
+
+
+                                                       Revenues (1)                        Identifiable Assets
+                                               ------------------------------
+                                                                                  ---------------------------------------
+                                                      Quarter Ended
+                                                        March 31,                  March 31,              December 31,
+                                               ------------------------------     --------------       ------------------
+                                                  2000              1999              2000                   1999
+                                               -------------     ------------     --------------       ------------------
+                                                  (Millions of Dollars)                   (Millions of Dollars)
+
+<S>                                                 <C>              <C>               <C>                      <C>
+United States.............................          $1,876           $1,768            $16,417                  $16,595
+Foreign Countries (2).....................              48               27              2,551                    2,420
+                                               -------------     ------------     --------------       ------------------
+     Total................................          $1,924           $1,795            $18,968                  $19,015
+                                               =============     ============     ==============       ==================
+
+Identifiable investments in foreign countries include:
+      Netherlands                                                                         $697                     $623
+      Chile and Peru                                                                       543                      520
+      Argentina                                                                            362                      356
+      Brazil (3)                                                                           352                      330
+      Other                                                                                597                      591
+                                                                                  --------------       ------------------
+Total                                                                                   $2,551                   $2,420
+                                                                                  ==============       ==================
+
+</TABLE>
+
+- --------------------------------------------------------------------------------
+
+(1)  Revenues  are  attributed  to  countries  based  on  the  locations  of the
+     investments.  Global's  revenue  includes  its share of the net income from
+     joint ventures recorded under the equity method of accounting.
+
+(2)  Total assets are net of foreign currency  translation  adjustment of $(191)
+     million  (pretax)  as of March 31, 2000 and $(222)  million  (pretax) as of
+     December 31, 1999.
+
+(3)  Amount is net of foreign currency translation  adjustment of $(171) million
+     (pretax)  as of March 31, 2000 and $(189)  million  (pretax) as of December
+     31, 1999.
+
+Note 8.  Accounting Matters
+
+     In June  1999,  the  FASB  issued  SFAS  137,  "Accounting  for  Derivative
+Instruments  and Hedging  Activities -- Deferral of the  Effective  Date of FASB
+Statement  No.  133"  (SFAS  137) to  defer  the  effective  date  of SFAS  133,
+"Accounting for Derivative  Instruments and Hedging  Activities"  (SFAS 133) for
+one year.  Consequently,  SFAS 133 will be  effective  for all  fiscal  quarters
+beginning  after January 1, 2001. The FASB also decided to defer by one year the
+transition date regarding embedded derivatives in SFAS 133. SFAS 133 establishes
+accounting  and  reporting  standards  for  derivative  instruments  and hedging
+activities. It requires an entity to recognize all derivatives, within the scope
+of this statement,  as assets or liabilities on the balance sheet at fair value.
+Also,  derivatives  that are not hedges must be  adjusted to fair value  through
+income. If a derivative is a hedge,  changes in the fair value of the derivative
+will  either be offset  against  the change in fair  value of the hedged  asset,
+liability  or  firm  commitment  through  earnings  or be  recognized  in  other
+comprehensive income until the hedged item is recognized in earnings,  depending
+on the  nature  of the  hedge.  The  ineffective  portion  of a  hedge  will  be
+immediately recognized in earnings.  PSEG and PSE&G are currently evaluating the
+impact of SFAS 133 as part of their implementation plan.
+<PAGE>
+Note 9.  Comprehensive Income
+
+Comprehensive Income, Net of Tax:
+<TABLE>
+<CAPTION>
+
+                                                                                       Quarter Ended March 31,
+                                                                                   -----------------------------
+                                                                                       2000             1999
+                                                                                   -----------      ------------
+                                                                                      (Millions of Dollars)
+<S>                                                                                      <C>              <C>
+     Net income..........................................................                $270             $188
+     Foreign currency translation, net of tax of $(3) and
+     $(14) for 2000 and 1999, respectively...............................                  28             (125)
+                                                                                   -----------      ------------
+          Comprehensive income...........................................                $298              $63
+                                                                                   ===========      ============
+</TABLE>
+
+<PAGE>
+================================================================================
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+================================================================================
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     The Notes to Consolidated  Financial Statements of PSEG are incorporated by
+reference insofar as they relate to PSE&G and its subsidiaries:
+
+     Note 1.  Basis of Presentation
+     Note 2.  Regulatory Issues
+     Note 3.  Regulatory Assets and Liabilities
+     Note 4.  Commitments and Contingent Liabilities
+     Note 5.  Financial Instruments and Risk Management
+     Note 7.  Financial Information by Business Segments
+     Note 8.  Accounting Matters
+
+Note 6.  Income Taxes
+
+     PSE&G's effective income tax rate is as follows:
+<TABLE>
+<CAPTION>
+
+                                                                                       Quarter Ended March 31,
+                                                                                   -----------------------------
+                                                                                      2000             1999
+                                                                                   -----------      ------------
+<S>                                                                                     <C>              <C>
+     Federal tax provision at statutory rate.............................               35.0%            35.0%
+     New Jersey Corporate Business Tax, net of Federal benefit...........               5.9%              5.9%
+     Other-- net.........................................................               0.1%              2.9%
+                                                                                   -----------      ------------
+          Effective Income Tax Rate......................................              41.0%             43.8%
+                                                                                   ===========      ============
+</TABLE>
+
+Note 9.  Comprehensive Income
+
+     For the  quarters  ended  March 31,  2000 and 1999,  PSE&G's  comprehensive
+income equaled the consolidated net income of PSE&G.
+
+
+<PAGE>
+
+
+================================================================================
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+================================================================================
+
+                 ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+     Following  are the  significant  changes  in or  additions  to  information
+reported in the Public Service Enterprise Group Incorporated  (PSEG) 1999 Annual
+Report on Form 10-K  affecting  the  consolidated  financial  condition  and the
+results of operations of PSEG and its  subsidiaries.  This discussion  refers to
+the  Consolidated  Financial  Statements   (Statements)  and  related  Notes  to
+Consolidated  Financial  Statements  (Notes)  of  PSEG  and  should  be  read in
+conjunction with such Statements and Notes.
+
+Overview and Future Outlook
+
+     Following  the  enactment  of the New Jersey  Electric  Discount and Energy
+Competition Act (Energy  Competition  Act), the Board of Public  Utilities (BPU)
+rendered  its summary  decision  relating  to Public  Service  Electric  and Gas
+Company's (PSE&G) rate unbundling,  stranded costs and restructuring proceedings
+(Summary Order) and  subsequently  issued its Final Order in these matters.  The
+Energy  Competition Act, the BPU's Summary Order and Final Order and the related
+BPU  proceedings  are referred to as the Energy Master Plan  Proceedings.  These
+proceedings  opened the New Jersey energy markets to competition by allowing all
+New  Jersey  retail  electric   customers  to  select  their  electric  supplier
+commencing  August 1, 1999 and all New  Jersey  retail gas  customers  to select
+their gas supplier commencing January 1, 2000.
+
+     Also in 1999, the BPU issued its order approving  PSE&G's petition relating
+to the proposed securitization  transaction for an irrevocable Bondable Stranded
+Costs  Rate  Order  (Finance  Order)  to  authorize,  among  other  things,  the
+imposition of a non-bypassable  transition bond charge on PSE&G's customers; the
+sale of PSE&G's property right in such charge created by the Energy  Competition
+Act to a  bankruptcy-remote  financing  entity;  the issuance and sale of $2.525
+billion of  transition  bonds by such entity in payment  therefor,  including an
+estimated $125 million of transaction costs; and the application by PSE&G of the
+transition bond proceeds to retire outstanding debt and/or equity. The order was
+consistent  with the  provisions  of the  Energy  Competition  Act and the Final
+Order.
+
+     As set forth in the Final Order, PSE&G has been directed to sell all of its
+electric  generation-related assets and all associated rights and liabilities to
+a separate  corporate  entity to be owned by PSEG. As a result,  PSEG  organized
+PSEG Power LLC (Power) to acquire and manage PSE&G's electric generation-related
+assets. Prior to the execution of such transfer, Power must obtain approval from
+the Pennsylvania  Public Utility Commission (PPUC) to transfer PSE&G's assets in
+Pennsylvania.  In 1999, the Federal Energy Regulatory Commission (FERC) approved
+PSE&G's proposed sale of its generating units to Power and gave exempt wholesale
+generator  (EWG)  status  to PSEG  Fossil  LLC  (Fossil)  and PSEG  Nuclear  LLC
+(Nuclear).  In February  2000,  the  Nuclear  Regulatory  Commission  (NRC) gave
+approval to transfer PSE&G's nuclear  licenses to Nuclear,  conditioned upon BPU
+approval.
+
+     In October  and  November  1999,  two  appeals  of the Final  Order and two
+appeals of the BPU's order approving  PSE&G's petition  relating to the proposed
+securitization transaction for an irrevocable Bondable Stranded Costs Rate Order
+(Finance Order) were filed in the Appellate  Division of the New Jersey Superior
+Court on behalf of several  customers and the Office of the Ratepayer  Advocate.
+On April 13, 2000, a three-judge panel unanimously  affirmed the Final Order and
+Finance  Order.  On May 2,  2000,  one of the  appellants  filed a notice of its
+intention to request the New Jersey  Supreme Court to exercise its discretion to
+review the unanimous  Appellate Division  decision.  The brief of the appellant,
+specifying  the issues to be reviewed  and the  reasons  why the  Supreme  Court
+should consider its request, must be filed with the Court not later than May 15,
+2000. On May 5, 2000,  PSE&G filed a Notice of Motion for  Accelerated  Briefing
+and  Disposition  of the Petition for  Certification  which,  if granted,  would
+require all briefing to be completed by May 30, 2000.  While PSE&G believes that
+the Court is not  reasonably  likely to exercise  its  discretion  to review the
+Appellate Division decision and that the securitization  transaction is expected
+to be completed by or around the end of the second quarter of 2000,  followed by
+the  generation-related  asset sale, no assurances can be given as to the timing
+or outcome of such matters.
+
+     PSEG has positioned PSEG Energy Holdings, Inc. (Energy Holdings) as a major
+part of its planned growth  strategy.  In order to achieve this  strategy,  PSEG
+Global Inc.  (Global)  will focus on  generation  and  distribution  investments
+within targeted high-growth regions. A significant portion of Global's growth is
+expected to occur  internationally  due to the current and anticipated growth in
+electric  capacity required in certain regions of the world. PSEG Resources Inc.
+(Resources) will utilize its market access,  industry  knowledge and transaction
+structuring  capabilities  to expand  its  energy-related  financial  investment
+portfolio.  PSEG Energy Technologies Inc. (Energy Technologies) will continue to
+provide heating,  ventilating and air conditioning  (HVAC) contracting and other
+energy-related  services to industrial and commercial  customers in Northeastern
+and Middle Atlantic United States.
+
+<PAGE>
+     To the  extent  that  the  discussion  that  follows  reports  on  business
+conducted under full monopoly regulation of the utility  businesses,  it must be
+understood  that such  businesses  have changed due to the  deregulation  of the
+electric generation and natural gas commodity sales businesses. Past results are
+not an indication of future business prospects or financial results.
+
+Results of Operations
+<TABLE>
+<CAPTION>
+
+
+                                                              Earnings (Losses)
+                                                        -------------------------------
+                                                                Quarter Ended
+                                                                  March 31,
+                                                        -------------------------------
+                                                            2000               1999
+                                                        ------------       ------------
+                                                             (Millions of Dollars)
+<S>                                                          <C>                <C>
+      PSE&G.......................................           $ 248              $ 169
+      Energy Holdings.............................              25                 19
+      PSEG*.......................................              (3)                --
+                                                        ------------       ------------
+            Total PSEG............................          $ 270               $ 188
+                                                        ============       ============
+
+
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                                          Contribution to Earnings
+                                                                  Per Share
+                                                             (Basic and Diluted)
+                                                        -------------------------------
+                                                                Quarter Ended
+                                                                  March 31,
+                                                        -------------------------------
+                                                            2000               1999
+                                                        ------------       ------------
+<S>                                                          <C>               <C>
+      PSE&G.......................................           $ 1.15            $ 0.76
+      Energy Holdings.............................             0.11              0.09
+      PSEG*.......................................            (0.01)               --
+                                                        ------------       ------------
+            Total PSEG............................           $ 1.25            $ 0.85
+                                                        ============       ============
+
+       * Interest on certain financing transactions.
+
+</TABLE>
+     Basic and diluted  earnings per share of PSEG common stock  (Common  Stock)
+were $1.25 for the quarter  ended March 31,  2000,  representing  an increase of
+$0.40 or 47% per share from the comparable 1999 period.
+
+     PSE&G's  contribution to earnings per share of Common Stock for the quarter
+ended March 31, 2000 increased $0.39 or 51% from the comparable 1999 period. The
+increase  for the  quarter  ended  March  31,  2000 was  primarily  due to lower
+expenses,  including  lower  Electric  Energy Costs and lower  depreciation  and
+amortization   resulting   from   the   lower   net  book   value   of   PSE&G's
+generation-related  assets  and  the  amortization  of the  Excess  Depreciation
+Reserve beginning in January 2000. Also contributing to the increase were higher
+electric  and gas  margins.  Lower  electric  energy  costs  driven  by the high
+capacity  factors of PSE&G's nuclear units,  combined with the continued  strong
+results of PSE&G's  wholesale  trading  operations  more than offset the 5% rate
+reduction in electric rates.
+
+     Energy Holdings' contribution to earnings per share of Common Stock for the
+quarter ended March 31, 2000  increased  $0.02 or 22% from the  comparable  1999
+period,  primarily due to higher income from Resources'  investment portfolio in
+the first quarter of 2000.
+
+     As a result of PSEG's  stock  repurchase  program  which began in September
+1998,  earnings per share of Common  Stock for the quarter  ended March 31, 2000
+increased $0.04 from the comparable 1999 period.  A total of 15.8 million shares
+were  repurchased  at a cost of $607 million  under this program as of March 31,
+2000.
+<PAGE>
+PSE&G -- Revenues
+
+     Electric
+
+     Revenues  decreased $4 million or 0.4% for the quarter ended March 31, 2000
+from the comparable  period in 1999 primarily due to the 5% rate reduction which
+decreased  generation revenues by approximately $46 million.  The rate reduction
+was  substantially  offset by increased sales resulting from the strength of the
+New  Jersey  economy  combined  with  increased  trading   revenues.   Once  the
+securitization  transaction  is complete,  there will be an  additional  2% rate
+reduction.  In addition,  future  customer  migration  from PSE&G could  further
+reduce future basic generation  service (BGS) revenues.  However,  such customer
+migration also creates the  opportunity  to sell  available  energy and capacity
+into the wholesale market. As of March 31, 2000 third party suppliers had gained
+approximately  11% of the customer  load  traditionally  served by PSE&G.  Also,
+since  PSE&G's  distribution   customers  have  the  ability  to  change  energy
+suppliers,  the potential return of migrated customers to PSE&G during high cost
+summer periods could have a material adverse effect on Power and PSEG.
+
+     Gas
+
+     Revenues  increased  $47 million or 7% for the quarter ended March 31, 2000
+from  the  comparable  period  in 1999 due to  several  factors,  including  the
+strength of the New Jersey  economy.  Additional  customer  migration due to the
+opening  of full  competition  in 2000 could  further  reduce  future  revenues.
+However,  since PSE&G earns income through the  distribution  of gas rather than
+the sale of the  commodity,  net  income  would  not be  affected  by  customers
+choosing another supplier.
+
+PSE&G -- Expenses
+
+     Electric Energy Costs
+
+     Electric  Energy Costs  decreased  $16 million or 7% for the quarter  ended
+March 31, 2000 from the comparable 1999 period primarily due to lower generation
+costs due to the high capacity factors of PSE&G's nuclear units and lower prices
+for power purchases beginning in August 1999.
+
+     Gas Costs
+
+     As a result of the  increase in gas  revenues  discussed  above,  Gas Costs
+increased  $33  million  or 8% for the  quarter  ended  March 31,  2000 from the
+comparable 1999 period.
+
+     Depreciation and Amortization
+
+     Depreciation and Amortization  expense decreased $84 million or 49% for the
+quarter ended March 31, 2000 from the comparable  1999 period.  The decrease was
+primarily  due to lower net book value  balances  of PSE&G's  generation-related
+assets  which  were  reduced  as of April 1, 1999 as a result of the  impairment
+recorded   pursuant  to  SFAS  121,   resulting  in  reduced   depreciation   by
+approximately  $60 million for the quarter  ended March 31, 2000.  Additionally,
+for the quarter ended March 31, 2000, the  amortization  of the excess  electric
+distribution  depreciation reserve,  which commenced on January 1, 2000, reduced
+expenses by  approximately  $32 million  for the quarter  ended March 31,  2000.
+These  decreases  were  partially  offset  by  higher   depreciation  rates  for
+generation-related  assets and higher  depreciation  expenses related to capital
+additions to the transmission and distribution business.
+
+     Once the  securitization  transaction  is complete,  the  regulatory  asset
+recorded for PSE&G's  stranded  costs will be amortized  with such  amortization
+expense partially offsetting these decreases.
+<PAGE>
+     Income Taxes
+
+     Income Taxes  increased  $41 million or 31% for the quarter ended March 31,
+2000 from the comparable 1999 period,  primarily due to higher pretax  operating
+income.
+
+Energy Holdings -- Earnings
+<TABLE>
+<CAPTION>
+
+
+                                                                                  Quarter Ended
+                                                                                    March 31,
+                                                                          --------------------------------
+                                                                             2000               1999
+                                                                          -------------      -------------
+                                                                              (Millions of Dollars)
+<S>                                                                             <C>                 <C>
+Earnings Before Interest, Taxes and Preferred Dividends:
+     Resources..................................................                $62                 $43
+     Global.....................................................                 26                  18
+     Energy Technologies........................................                 (8)                 (3)
+                                                                          -------------      -------------
+          Sub-total.............................................                 80                  58
+Interest, Taxes and Preferred Dividends.........................                 55                  39
+                                                                          -------------      -------------
+Total Energy Holdings Earnings..................................                $25                 $19
+                                                                          =============      =============
+</TABLE>
+
+Energy Holdings -- Revenues
+
+     Revenues  increased  $86 million to $215  million from $129 million for the
+quarter  ended  March 31,  2000 as  compared  to the same  period  in 1999.  The
+increase was due to an increase of $19 million at Resources due to higher income
+from  financial   investments   and  higher  income  from  new  leveraged  lease
+investments,  a $56 million increase at Energy  Technologies due to the addition
+of revenues from  acquisitions of various HVAC companies in 1999 and 2000 and an
+$11 million  increase at Global  primarily  due to the addition of revenues from
+distribution  company  investments in Chile and Peru.  Global's revenue includes
+its share of the net income from joint ventures recorded under the equity method
+of accounting.
+
+Energy Holdings -- Operating Expenses
+
+     Operating  expenses  increased $62 million to $136 million from $74 million
+for the quarter ended March 31, 2000 as compared to the same period in 1999. The
+increase  was  primarily  due to the  addition of  operating  expenses  from the
+entities acquired by Energy  Technologies in 1999 and 2000. In addition,  Energy
+Technologies will discontinue buying and selling natural gas and electricity and
+has  entered  into a  business  arrangement  with a third  party to  provide  an
+internet-based  auction exchange that will allow customers an alternative method
+for  purchasing  their  energy  requirements.  As a  result  of this  change  in
+strategic  direction,  Energy  Technologies  recognized  a charge  to  income of
+approximately $7 million relating to severance costs and the write-down of fixed
+assets.
+
+Energy Holdings -- Interest Expense and Preferred Dividends
+
+     Interest  Expense  and  Preferred  Dividends  increased  $16 million to $41
+million from $25 million for the quarter ended March 31, 2000 as compared to the
+same period in 1999. The increase was primarily due to financing 1999 investment
+and acquisition activities.
+<PAGE>
+Liquidity and Capital Resources
+
+     PSEG and PSE&G
+
+     PSEG is a holding  company and, as such,  has no operations of its own. The
+following  discussion  of  PSEG's  liquidity  and  capital  resources  is  on  a
+consolidated  basis,  noting  the uses and  contributions  of PSEG's  two direct
+operating subsidiaries in operation in 2000, PSE&G and Energy Holdings
+
+     On September 17, 1999,  the BPU issued its Finance Order which  authorized,
+among other things, the imposition of a non-bypassable transition bond charge on
+PSE&G's customers;  the sale of PSE&G's property right in such charge created by
+the Energy Competition Act to a bankruptcy-remote financing entity; the issuance
+and sale of $2.525 billion of transition  bonds by such entity as  consideration
+for such  property  right,  including an estimated  $125 million of  transaction
+costs;  and the  application by PSE&G of the transition  bond proceeds to retire
+outstanding  debt and/or  equity.  PSEG and PSE&G expect such sale of transition
+bonds and the receipt of proceeds in 2000.
+
+     Both the right of PSE&G to receive the bondable  transition charge pursuant
+to the  securitization  transaction  and the  proceeds  from the transfer of its
+generation-related  assets to Power are property  subject to the lien of PSE&G's
+First and Refunding Mortgage (Mortgage). All such property will be released from
+the lien of the Mortgage at the time of sale. In accordance  with the provisions
+of the Mortgage,  the net proceeds from the sale of such released  property will
+be deposited with the Trustee.
+
+     The  Mortgage  authorizes  PSE&G to exercise  one or more of the  following
+options as to the application of proceeds of such released property, at its sole
+discretion:
+
+     1.   Withdraw   funds  for  corporate   use  by  utilizing   additions  and
+          improvements and/or retired bonds. (Option 1)
+
+     2.   Direct  the  Trustee  to  invest  the  proceeds  in  U.S.   Government
+          Securities. (Option 2)
+
+     3.   Direct the Trustee to purchase its Mortgage Bonds at the lowest prices
+          obtainable,  at or below  par  value.  If the  Trustee  is  unable  to
+          purchase  sufficient Mortgage Bonds to exhaust such proceeds deposited
+          with it, the  balance  may be applied on a pro rata basis  towards the
+          redemption of eligible  series of Mortgage  Bonds  outstanding at par.
+          (Option 3)
+
+     During the twelve  months  ended March 31,  2000,  $200 million of Mortgage
+Bonds  matured and $322  million of Mortgage  Bonds were  purchased  in the open
+market. At March 31, 2000, PSE&G had a total of $3.627 billion of Mortgage Bonds
+outstanding,  of which  $2.835  billion are taxable  registered  Mortgage  Bonds
+subject to the special  redemption  provisions  outlined in Option 3 (Redeemable
+Bonds).  Approximately  $523 million of these  Redeemable Bonds are scheduled to
+mature by June 30, 2000.  Further,  $777  million of the  Mortgage  Bonds
+outstanding  are  tax-exempt  Pollution  Control  Bonds and $15  million are two
+series of taxable  coupon  Mortgage Bonds due 2037 (Coupon  Bonds).  Neither the
+Pollution  Control  Bonds  nor the  Coupon  Bonds  are  subject  to the  special
+redemption provisions outlined in Option 3.
+<PAGE>
+     PSE&G has not yet made a final  decision as to the amount and the manner in
+which it will retire or redeem its Mortgage Bonds.  Such a decision will be made
+on or about  the  time  the  proceeds  from  securitization  and the sale of the
+generation-related  assets to Power are deposited with the Trustee, on the basis
+of market  conditions and other factors  existing at that time (see Overview and
+Future  Outlook).  Based on current  information,  a likely  utilization  of the
+options available to PSE&G, as noted above, could be as follows:
+
+     A.   Withdraw $2.4 billion of net proceeds from securitization under Option
+          1, above. These proceeds would be used to:
+
+          i.   Redeem $123.5 million of Pollution Control Bonds now redeemable;
+
+          ii.  Retire PSE&G's outstanding short-term debt; and
+
+          iii. Reduce PSE&G common and/or preferred  securities with the balance
+               of proceeds.
+
+     B.   Withdraw  the  proceeds  ($2.4  billion  to  $2.8  billion)  from  the
+          generation-related  asset sale to Power under Option 1. These proceeds
+          will be used to reduce PSE&G common and/or preferred securities.
+
+     As previously reported, in anticipation of securitization,  PSEG's Board of
+Directors  has  authorized  the  repurchase  of up to an aggregate of 30 million
+shares  of  Common  Stock  in the  open  market.  At March  31,  2000,  PSEG had
+repurchased  approximately  15.8 million  shares of Common  Stock,  at a cost of
+approximately  $607 million.  The repurchased  shares have been held as treasury
+stock  or used  for  other  corporate  purposes.  At April  30,  2000,  PSEG had
+repurchased  approximately  16.1  million  shares of  Common  Stock at a cost of
+approximately  $617  million.  In December  1999,  PSEG  entered  into a Forward
+Purchase Agreement with a third party. The transaction may be settled in cash or
+with  shares  of  Common  Stock.  Any  repurchase  of these  shares  will not be
+reflected on PSEG's balance sheet until  settlement of the transaction  which is
+expected in the second quarter of 2000.  Market  conditions and the availability
+of alternative  investments will dictate if and when more shares of Common Stock
+will be repurchased under this authorization.
+
+     Going forward,  cash generated from PSE&G's regulated  business is expected
+to provide  the  majority  of the funds for PSE&G's  business  needs.  Following
+Power's initial  external  financing,  Power's capital needs will be funded with
+cash generated from operations and may be supplemented with external  financings
+and  equity  infusions  from PSEG as  dictated  by its growth  strategy.  Energy
+Holdings'  growth will be funded through external  financings,  equity infusions
+from PSEG and cash generated from operations.
+
+     Dividend  payments  on Common  Stock  were  $0.54  per  share  and  totaled
+approximately  $117 million and $120 million during the three months ended March
+31, 2000 and 1999,  respectively.  PSEG has not  increased  its dividend rate in
+eight years in order to retain additional capital for reinvestment and to reduce
+its payout  ratio as earnings  grow.  Since 1986,  PSE&G has made  regular  cash
+payments  to PSEG in the form of  dividends  on  outstanding  shares of  PSE&G's
+common stock. PSE&G paid common stock dividends of $217 million and $277 million
+to PSEG during the three  months  ended  March 31, 2000 and 1999,  respectively.
+These amounts were used to fund PSEG's  Common Stock  dividends and to support a
+portion of PSEG's stock repurchase program.
+
+     PSEG  believes  that it will have  adequate  earnings  and cash flow in the
+future from PSE&G and Power to maintain dividends at the current level. However,
+the amounts and dates of such  dividends on Common Stock  declared in the future
+will necessarily be dependent upon PSEG's future earnings, cash flows, financial
+requirements and other factors.  Earnings and cash flows required to support the
+dividend will become more volatile as PSEG's  business  changes from one that is
+principally regulated to one that is principally competitive.
+
+     As a result  of the 1992  focused  audit of PSEG's  non-utility  businesses
+(Focused  Audit),  the BPU approved a plan which,  among other things,  provided
+that:  (1) PSEG would not permit Energy  Holdings'  non-utility  investments  to
+exceed 20% of PSEG's  consolidated  assets  without prior notice to the BPU; (2)
+the PSE&G Board of  Directors  would  provide an annual  certification  that the
+business and financing plans of Energy Holdings will not adversely affect PSE&G;
+(3) PSEG would (a) limit debt  supported  by the minimum  net worth  maintenance
+agreement  between  PSEG and PSEG  Capital  Corporation  (PSEG  Capital) to $650
+million and (b) make a  good-faith  effort to  eliminate  such  support by April
+2003; and (4) Energy  Holdings  would pay PSE&G an  affiliation  fee of up to $2
+million a year to be applied by PSE&G to reduce utility rates.  Energy  Holdings
+believes it is capable of  eliminating  PSEG support of PSEG Capital debt within
+the time period set forth in the Focused Audit.
+<PAGE>
+     As a result of the final outcome and the accounting  impacts resulting from
+the  deregulation of the electric  generation  business in New Jersey,  PSEG and
+PSE&G do not believe that the Focused Audit provision requiring  notification to
+the BPU if PSEG's  non-utility  assets  exceed  20% of its  consolidated  assets
+remains appropriate and believe that modifications will be required (such assets
+at March 31, 2000 totaled  approximately 24% of PSEG's consolidated assets). The
+Final Order addressed the Focused Audit, noting that PSEG's non-regulated assets
+would  likely  exceed 20% of total PSEG  assets  once the  utility's  generating
+assets were sold to a  non-regulated  subsidiary  and  directed  PSE&G to file a
+petition  with the BPU to maintain  the  existing  regulatory  parameters  or to
+propose  modifications  to the Focused  Audit order no later than the end of the
+first quarter of 2000. The Final Order also recognized  that, due to significant
+changes in the industry  and, in  particular,  PSEG's  corporate  structure as a
+result of the Final  Order,  modifications  to or relief from the Focused  Audit
+might be warranted.  In March 2000,  PSE&G  submitted a letter to the BPU as its
+initial  compliance with this filing requirement in which it notified the BPU of
+its  intention to make a filing to modify the terms of the Focused  Audit within
+120 days after the Final Order becomes final and non-appealable.
+
+     Regulatory  oversight by the BPU to ensure that there is no harm to utility
+customers from PSEG's non-utility  investments is expected to continue. PSEG and
+PSE&G  believe that these issues will be  satisfactorily  resolved,  although no
+assurances  can be given.  In addition,  if PSEG were no longer exempt under the
+Public Utility Holding Company Act (PUHCA),  PSEG and its subsidiaries  would be
+subject  to  additional  regulation  by the SEC with  respect to  financing  and
+investing activities,  including the amount and type of non-utility investments.
+PSEG believes,  however,  that this would not have a material  adverse impact on
+PSEG and its subsidiaries.
+
+Capital Requirements
+
+     PSE&G (including Power)
+
+     PSE&G  has  substantial  commitments  as part of its  ongoing  construction
+program.  PSE&G's construction program is continuously reviewed and periodically
+revised as a result of changes in economic  conditions,  revised load forecasts,
+business   strategies,   site  changes,   cost  escalations  under  construction
+contracts,  requirements  of regulatory  authorities and laws, the timing of and
+amount of electric and gas transmission and/or distribution rate changes and the
+ability of PSE&G to raise necessary capital.
+
+     In 2000, Power announced that it will construct a 500 MW natural gas-fired,
+combined-cycle  electric generating plant at Bergen Generating Station at a cost
+of approximately $290 million with completion  expected in June 2002. Power will
+also install four new combustions turbines at Burlington  Generating Station and
+two new combustion turbines at Linden Generating Station,  adding 186 MW and 164
+MW, respectively,  of electric generating  capacity,  at a cost of approximately
+$155  million.  The new  combustion  turbines are  expected to be installed  and
+operational  by July 2000.  Project  costs  through  March 31, 2000 totaled $138
+million.
+
+     On October 6, 1999,  Power announced an agreement with Niagara Mohawk Power
+Corporation  (Niagara Mohawk), to purchase its 400 MW oil and gas-fired electric
+generating station in Albany, New York (Albany Steam Station) for $47.5 million.
+On  September  30,  1999,  Power  announced  that it has signed an  agreement to
+acquire all of  Conectiv's  interests in the Salem  Nuclear  Generating  Station
+(Salem) and the Hope Creek Nuclear  Generating  Station (Hope Creek) and half of
+Conectiv's  interest in the Peach Bottom  Atomic Power Station  (Peach  Bottom),
+totaling 544 MW for an aggregate  purchase  price of $15.4  million plus the net
+book value of nuclear  fuel at  closing.  For  further  discussion,  see Note 4.
+Commitments and Contingent Liabilities of Notes.
+
+     For the quarter ended March 31, 2000 PSE&G had net plant  additions of $110
+million,  excluding  Allowance  for Funds Used  During  Construction  (AFDC) and
+capitalized interest, a $31 million increase from the corresponding 1999 period.
+<PAGE>
+     Energy Holdings
+
+         Global
+
+     In  February  2000,  Global and its 50% partner  completed  a $329  million
+project financing for a 1,000 MW gas-fired  combined-cycle  electric  generation
+facility  to be  located  in  Texas.  The  facility  is under  construction  and
+commercial  operation  is  expected in 2001.  The total cost of the  facility is
+estimated to be approximately $528 million, of which Global's equity investment,
+including loans and guarantees, is estimated to be approximately $190 million.
+
+         Resources
+
+     In  January  and  February  2000,  Resources  invested  $73  million in two
+leveraged  lease  transactions  including  a  gas  distribution  system  in  the
+Netherlands and an electric power plant in the United States.
+
+         Energy Technologies
+
+     In January 2000, Energy  Technologies  acquired two mechanical  contracting
+companies in  Pennsylvania  and New York for an aggregate cost of  approximately
+$21 million.
+
+External Financings
+
+     PSEG
+
+     At March 31,  2000,  PSEG had a committed  $150  million  revolving  credit
+facility which expires in December 2002. At March 31, 2000, PSEG had $60 million
+outstanding  under this revolving  credit  facility.  On September 8, 1999, PSEG
+entered into an uncommitted line of credit with a bank for an unlimited  amount.
+At March 31, 2000, PSEG had $105 million outstanding under this line of credit.
+
+     On March 22, 2000, PSEG entered into an $850 million bank credit  facility,
+structured as a $570 million 364 day credit  agreement and a $280 million 5 year
+credit  agreement.  The sole  purpose  of this  credit  facility  is to  provide
+liquidity for the newly  established $850 million PSEG commercial paper program.
+PSEG is expected to begin issuing  commercial paper on May 1, 2000. The proceeds
+from the commercial  paper program will be used for general  corporate  purposes
+and, until  securitization  proceeds are received,  will  temporarily fund share
+repurchases and Power.
+
+     In 1998,  PSEG  issued  $100  million of  Extendible  Notes,  Series A, due
+November 22, 2000.  These Notes were  automatically  tendered to the remarketing
+agent for remarketing in February 2000. The interest rate through maturity is at
+the  three-month  London  Interbank  Offered  Rate  (LIBOR)  plus  0.22%,  reset
+quarterly.
+
+     Also in 1998, PSEG issued $175 million of Extendible  Notes,  Series B, due
+November 22, 2000.  These Notes were  automatically  tendered to the remarketing
+agent for  remarketing in November 1999. The interest rate is at the three-month
+LIBOR plus 0.60%, reset quarterly. These Notes will be automatically tendered to
+the remarketing agent for remarketing in May 2000.
+
+     In 1999, PSEG issued $300 million of Extendible  Notes,  Series C, due June
+15, 2001. These Notes were  automatically  tendered to the remarketing agent for
+remarketing  in March 2000.  The  interest  rate  through  September  2000 is at
+three-month LIBOR plus 0.20% reset quarterly.  These Notes will be automatically
+tendered to the remarketing agent for remarketing in September 2000.
+<PAGE>
+     PSE&G
+
+     In addition to the refinancing of existing long-term debt authorized by the
+BPU in the Final Order, PSE&G will need to obtain BPU authorization to issue any
+incremental debt financing  necessary for its capital program.  PSE&G expects to
+apply for and receive  necessary BPU  authorization  for external  financings to
+meet its requirements over the next five years, as needed.
+
+     On February  1, 2000,  $100  million of PSE&G's  7.625%  Bonds,  Series II,
+matured.
+
+     To provide  liquidity for its commercial  paper program,  PSE&G has an $850
+million  revolving  credit  agreement  expiring in June 2000 and a $650  million
+revolving credit agreement  expiring in June 2002, The latter will be reduced by
+a minimum of $200  million  within 60 days after the sale of  generation-related
+assets to Power.  These agreements are with a group of commercial  banks,  which
+provide for  borrowings of up to one year.  As of March 31, 2000,  there were no
+borrowings outstanding under these credit agreements.
+
+     The BPU has authorized  PSE&G to issue and have outstanding at any one time
+through  January 2, 2001, not more than $2.0 billion of short-term  obligations,
+consisting of commercial  paper and other  unsecured  borrowings  from banks and
+other  lenders.  PSE&G has several  uncommitted  lines of credit with banks.  On
+March 31, 2000, PSE&G had $838 million of short-term debt outstanding, including
+$130 million borrowed against its uncommitted bank lines of credit.
+
+     PSE&G Fuel Corporation (Fuelco) has a $125 million commercial paper program
+to finance a 42.49%  share of Peach  Bottom  nuclear  fuel,  supported by a $125
+million  revolving credit facility with a group of banks,  which expires on June
+28, 2001.  PSE&G has  guaranteed  repayment of Fuelco's  respective  obligations
+under this program.  As of March 31, 2000,  Fuelco had  commercial  paper of $67
+million outstanding.  After the purchase of PSE&G's generation-related assets is
+completed,  it is  anticipated  that Fuelco's  commercial  paper program will be
+discontinued  and financing of Peach Bottom  nuclear fuel will be funded through
+Power.
+
+     Energy Holdings
+
+     In February  2000,  Energy  Holdings  issued $300 million of 9.125%  Senior
+Notes due February 2004. The proceeds of the sale were used for the repayment of
+short-term debt outstanding under Energy Holdings'  revolving credit facilities.
+Borrowings  under  the  revolving   credit   facilities  were  used  to  finance
+investments and acquisitions and for general corporate purposes. Energy Holdings
+expects to file a  registration  statement  with the SEC relating to an exchange
+offer for, or the resale of, these Senior Notes later in 2000.
+
+     Also in February 2000,  Energy  Holdings closed on a $190 million letter of
+credit facility to support a future equity investment in a generation project in
+Texas.
+
+     In October 1999,  Energy Holdings issued $400 million of 10.0% Senior Notes
+due October 2009.  The proceeds  were used for the repayment of short-term  debt
+outstanding under Energy Holdings' revolving credit facilities. Borrowings under
+the  revolving   credit   facilities  were  used  to  finance   investments  and
+acquisitions  and for  general  corporate  purposes.  In  January  2000,  Energy
+Holdings  filed a  registration  statement  with the SEC relating to an exchange
+offer for these Senior Notes.
+
+     At March 31,  2000,  Energy  Holdings  had total debt  outstanding  of $1.8
+billion,   including  debt  at  PSEG  Capital  and  consolidated  debt  that  is
+non-recourse  to PSEG,  Energy  Holdings  and Global.  At March 31,  2000,  PSEG
+Capital had total debt  outstanding of $630 million,  all of which was comprised
+of MTNs with maturities between 2000 and 2003.
+
+<PAGE>
+Foreign Operations
+
+     In accordance with their growth strategies,  Global and Resources have made
+approximately  $1.5 billion and $1.1  billion,  respectively,  of  international
+investments.  As of March 31, 2000,  foreign  investments  represented  13.4% of
+PSEG's   consolidated   assets  and  contributed  2.5%  of  first  quarter  2000
+consolidated  revenues. For discussion of the foreign currency risk, see Note 5.
+Financial Instruments and Risk Management of Notes.
+
+PSE&G
+
+     The information  required by this item is incorporated  herein by reference
+to the  following  portions of PSEG's  Management's  Discussion  and Analysis of
+Financial  Condition and Results of Operations,  insofar as they relate to PSE&G
+and its  subsidiaries:  Overview  and Future  Outlook;  Results  of  Operations;
+Liquidity and Capital Resources; External Financings and Foreign Operations.
+
+Forward Looking Statements
+
+     Except for the  historical  information  contained  herein,  certain of the
+matters discussed in this report constitute "forward-looking  statements" within
+the  meaning of the  Private  Securities  Litigation  Reform  Act of 1995.  Such
+forward-looking  statements are subject to risks and  uncertainties  which could
+cause  actual  results  to  differ  materially  from  those  anticipated.   Such
+statements are based on management's  beliefs as well as assumptions made by and
+information  currently  available to  management.  When used  herein,  the words
+"will",  "anticipate",   "intend",  "estimate",   "believe",  "expect",  "plan",
+"hypothetical",  "potential",  variations of such words and similar  expressions
+are intended to identify forward-looking statements. PSEG and PSE&G undertake no
+obligation to publicly update or revise any forward-looking statements,  whether
+as a result of new information, future events or otherwise. The following review
+of factors  should not be construed as exhaustive or as any admission  regarding
+the adequacy of  disclosures  made by PSEG and PSE&G prior to the effective date
+of the Private Securities Litigation Reform Act of 1995.
+
+     In addition to any assumptions  and other factors  referred to specifically
+in connection with such forward-  looking  statements,  factors that could cause
+actual   results  to  differ   materially   from  those   contemplated   in  any
+forward-looking  statements include,  among others, the following:  deregulation
+and the unbundling of energy  supplies and services and the  establishment  of a
+competitive  energy  marketplace  for products and  services;  managing  rapidly
+changing wholesale energy trading operations in conjunction with electricity and
+gas  production,   transmission  and  distribution  systems;   managing  foreign
+investments  and electric  generation and  distribution  operations in locations
+outside of the  traditional  utility  service  territory;  political and foreign
+currency risks; an increasingly competitive energy marketplace;  sales retention
+and growth  potential in a mature PSE&G service  territory;  ability to complete
+development  or  acquisition  of current  and future  investments;  partner  and
+counterparty risk;  exposure to market price fluctuations and volatility of fuel
+and power supply, power output, marketable securities,  among others; ability to
+obtain  adequate  and timely rate relief,  cost  recovery,  and other  necessary
+regulatory approvals;  ability to obtain securitization proceeds; Federal, state
+and foreign regulatory actions; regulatory oversight with respect to utility and
+non-utility   affiliate  relations  and  activities;   operating   restrictions,
+increased  cost  and   construction   delays   attributable   to   environmental
+regulations;  nuclear decommissioning and the availability of storage facilities
+for spent nuclear fuel;  licensing and regulatory approval necessary for nuclear
+and other operating  stations;  the ability to  economically  and safely operate
+nuclear  facilities in accordance  with regulatory  requirements;  environmental
+concerns;  and market risk and debt and equity market  concerns  associated with
+these issues.
+<PAGE>
+
+                      ITEM 3. QUALITATIVE AND QUANTITATIVE
+                          DISCLOSURES ABOUT MARKET RISK
+
+     The market risk inherent in PSEG's market risk  sensitive  instruments  and
+positions  is the  potential  loss  arising  from  adverse  changes in commodity
+prices,  pollution credits,  equity security prices,  interest rates and foreign
+currency exchange rates as discussed below.  PSEG's policy is to use derivatives
+to manage risk  consistent with its business plans and prudent  practices.  PSEG
+has a Risk Management  Committee  comprised of executive officers which utilizes
+an  independent  risk  oversight  function to ensure  compliance  with corporate
+policies and prudent risk management practices.
+
+     PSEG is  exposed  to  credit  losses  in the  event of  non-performance  or
+non-payment by  counterparties.  PSEG also has a credit management process which
+is used to assess,  monitor and mitigate  counterparty exposure for PSEG and its
+subsidiaries.  In  the  event  of  non-performance  or  non-payment  by a  major
+counterparty,  there  may  be a  material  adverse  impact  on  PSEG's  and  its
+subsidiaries' financial condition,  results of operations or net cash flows. For
+discussion of interest rates and Energy Holdings' commodity-related instruments,
+equity securities and foreign currency risks, see Note 5. Financial  Instruments
+and Risk Management of Notes.
+
+     Commodity-Related Instruments
+
+     The   availability   and  price  of  energy   commodities  are  subject  to
+fluctuations from factors such as weather,  environmental  policies,  changes in
+supply and demand and state and Federal  regulatory  policies.  To reduce  price
+risk caused by market  fluctuations,  PSE&G  enters into  derivative  contracts,
+including forwards, futures, swaps and options with approved counterparties,  to
+hedge its  anticipated  demand.  These  contracts,  in  conjunction  with  owned
+electric generating capacity and physical gas supply contracts,  are designed to
+cover estimated electric and gas customer commitments.
+
+     PSEG uses a value-at-risk  model to assess the market risk of its commodity
+business.  This model includes fixed price sales commitments,  owned generation,
+native  load  requirements,  physical  and  financial  contracts.  Value-at-risk
+represents  the potential  gains or losses for  instruments or portfolios due to
+changes in market  factors,  for a specified time period and  confidence  level.
+PSEG estimates  value-at-risk  across its commodity  business using a model with
+historical volatilities and correlations.
+
+     The measured  value-at-risk using a  variance/co-variance  model with a 95%
+confidence   level  over  a  one-week   time  horizon  at  March  31,  2000  was
+approximately $8 million, compared to the December 31, 1999 level of $3 million.
+PSEG's calculated  value-at-risk  represents an estimate of the potential change
+in the value of its portfolio of physical and financial derivative  instruments.
+These  estimates,  however,  are not  necessarily  indicative of actual results,
+which may differ due to the fact that actual market rate fluctuations may differ
+from forecasted  fluctuations  and due to the fact that the portfolio of hedging
+instruments may change over the holding period.
+
+     Foreign Currencies--Energy Holdings
+
+     For discussion of foreign currency risks, see Note 5. Financial Instruments
+and Risk Management of Notes.
+<PAGE>
+
+
+                           PART II. OTHER INFORMATION
+
+                            ITEM 1. LEGAL PROCEEDINGS
+
+     Certain  information  reported  under  Item 3 of Part I of  Public  Service
+Enterprise  Group  Incorporated's  (PSEG) and Public  Service  Electric  and Gas
+Company's (PSE&G) 1999 Annual Report on Form 10-K is updated below.
+
+(1)  Form 10-K, page 27. In the matter of G.E.  Stricklin v. I. Lerner,  et.al.,
+     Civil Action No.  99-1950,  on March 29, 2000,  the Third  Circuit Court of
+     Appeals  issued an order  affirming  the  lower  courts  dismissal  of this
+     action.
+
+(2)  Form  10-K,  pages 5, 27,  33, 64 and 69.  See Pages 9 and 17.  Proceedings
+     before the BPU in the matter of the Energy  Master Plan Phase II Proceeding
+     to investigate the future structure of the Electric Power Industry,  Docket
+     Nos. EX94120585Y, EO97070462 and EO97070463.
+
+(3)  Form 10-K,  pages 8, 27, 34 and 69. See Pages 9 and 17. Appeals of the BPUs
+     Final Order and Finance Order in the Energy Master Plan Proceedings.
+
+(4)  Form  10-K,  pages 27 and 85.  See Page 11.  Investigation  and  additional
+     investigation by the U.S.  Environmental  Protection Agency (EPA) regarding
+     the Passaic River site.
+
+
+                       ITEM 4. SUBMISSION OF MATTERS TO A
+                            VOTE OF SECURITY HOLDERS
+
+     PSEG's Annual Meeting of Stockholders  was held on April 18, 2000.  Proxies
+for the meeting were  solicited  pursuant to Regulation 14A under the Securities
+Act of 1934.  There was no solicitation of proxies in opposition to management's
+nominees as listed in the proxy statement and all of management's  nominees were
+elected to the Board of Directors. Details of the voting are provided below:
+
+<TABLE>
+<CAPTION>
+
+                                                                         Votes                Votes
+                                                                          For               Withheld
+                                                                    ----------------    -----------------
+<S>                                                                   <C>                   <C>
+Proposal 1 - Election of Directors
+     Class I - Term expiring 2003
+          Ernest H. Drew                                              173,431,000           4,464,737
+          E. James Ferland                                            173,367,655           4,528,082
+          Marilyn M. Pfaltz                                           173,376,996           4,518,741
+     Class II - Term Expiring 2001
+          Forrest J. Remick                                           173,380,142           4,515,595
+
+
+                                                                         Votes                Votes
+                                                                          For                Against          Abstentions
+                                                                    ----------------    -----------------    --------------
+Proposal 2 - Ratification of the Appointment of
+Deloitte & Touche LLP as Independent Auditors for 2000                175,602,560            819,101           1,474,076
+
+</TABLE>
+
+
+With respect to Proposal 2,  abstentions are not counted in the vote totals and,
+therefore, have no effect on the vote.
+<PAGE>
+                            ITEM 5. OTHER INFORMATION
+
+     Certain information reported under PSEG's and PSE&G's 1999 Annual Report to
+the SEC is updated  below.  References are to the related pages on the Form 10-K
+as printed and distributed.
+
+Prevention of Significant Deterioration/New Source Review
+
+     New Matter.  In April 2000,  PSE&G received a request for information  from
+the EPA and the NJDEP  pursuant  to  section  114 of the  Clean Air Act  seeking
+information  concerning  its Hudson  Generation  Station  and Mercer  Generation
+Station to assess those  stations'  compliance  with the EPA's  regulations  for
+Prevention of  Significant  Deterioration/New  Source Review.  Generally,  these
+regulations  require major sources of criteria air pollutants to obtain permits,
+install  pollution control  technology and obtain offsets in some  circumstances
+when  those  sources  undergo  a  "major   modification,"   as  defined  in  the
+regulations.  PSE&G is  collecting  information  responsive  to the  request and
+cannot predict the outcome of the EPA/ NJDEP inquiry.
+
+Service Company Filing
+
+     New Matter.  On April 20,  2000,  PSE&G filed a petition  with the BPU, for
+approval  of  centralizing  corporate  support  services  in a separate  service
+company named PSEG Services Corporation, a direct subsidiary of PSEG. The filing
+specifically  requests BPU approval of a) the transfer of assets/contracts  from
+PSE&G to PSEG Services  Corporation and b) a service agreement between PSE&G and
+PSEG Services Corporation.
+
+PJM Interconnection LLC (PJM)
+
+     Form 10-K,  page 12.  Beginning on June 1, 2000 the PJM Energy  Market will
+transition from a Single  Settlement  System to a Two Settlement  System. In the
+Two  Settlement  System  market  participants  will have the option to "lock in"
+day-ahead  scheduled  quantities at prices based upon predicted day-ahead hourly
+locational  marginal  price (LMP) values (Day Ahead  Settlement).  Actual demand
+will be satisfied  through a real time  balancing  market  based upon  real-time
+hourly  average LMP  values.  PJM advises  that the Two  Settlement  System will
+provide:  (i)  a  means  for  market  participants  to  obtain  increased  price
+certainty; (ii) financial incentive for resources and demand to submit day-ahead
+schedules  that match their actual  schedules;  (iii)  financial  incentive  for
+generation to follow real-time  dispatch.  Management  cannot predict the effect
+that the  implementation  of the Two Settlement  System in the PJM Energy Market
+will have on Electric Energy Costs or the resulting  effect on PSEG's or PSE&G's
+financial condition, results of operations or net cash flows.
+
+Metering, Billing and Account Services
+
+     Form 10-K, page 8. In accordance with the Energy  Competition  Act, the BPU
+has  initiated  a  proceeding  to  determine  the  timeline  and extent to which
+metering,  billing and customer services may become competitive,  along with the
+specific functions and costs that must be considered when it evaluates the issue
+of competition  for these  services.  A decision is expected in August 2000. The
+Company cannot predict the outcome of the proceeding.
+
+Affiliate Standards
+
+     Form  10-K,  page 9. On March 15,  2000,  the BPU  issued a  written-order,
+Affiliate  Relations,  Fair  Competition  and  Accounting  Standards and Related
+Reporting  Requirements  (Affiliate  Standards),   as  required  by  the  Energy
+Competition Act. As a result of these Affiliate Standards,  PSE&G is required to
+file a compliance plan,  within 90 days of the issuance of the written order, to
+describe the internal policy and procedures  necessary to ensure compliance with
+such  Affiliate  Standards.  The BPU  will  subsequently  conduct  an  audit  of
+utilities'  competitive activities and compliance with such Affiliate Standards.
+Management  believes  that the adoption of Affiliate  Standards  will not have a
+material  adverse effect on PSEG's or PSE&G's  financial  condition,  results of
+operations or net cash flows.
+<PAGE>
+
+                    ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(A) A listing of exhibits being filed with this document is as follows:
+
+
+                         PSEG
+  --------------------------------------------------------
+    Exhibit    Document
+    Number
+  --------------------------------------------------------
+      12       Computation of Ratios of Earnings to Fixed
+               Charges (PSEG)
+
+     27(A)     Financial Data Schedule (PSEG)
+
+
+
+                         PSE&G
+
+ ---------------------------------------------------------
+   Exhibit     Document
+   Number
+ ---------------------------------------------------------
+
+     12(A)     Computation of Ratios of Earnings to Fixed
+               Charges (PSE&G)
+
+     12(B)     Computation of Ratios of Earnings to Fixed
+
+     27(B)     Financial Data Schedule (PSE&G
+
+
+(B) Reports on Form 8-K
+
+    None.
+
+
+                                   SIGNATURES
+                                   ----------
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrants  have duly  caused  these  reports to be signed on their  respective
+behalf by the undersigned thereunto duly authorized.
+
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                                  (Registrants)
+
+
+                         By:    PATRICIA A. RADO
+                         -------------------------------
+                                Patricia A. Rado
+                          Vice President and Controller
+                         (Principal Accounting Officer)
+
+
+
+
+
+Date: May 5, 2000
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<DESCRIPTION>PSE&G COMPUTATION OF RATIOS
+<TEXT>
+
+<TABLE>
+<CAPTION>
+                                                                                                                EXHIBIT 12
+- --------------------------------------------------------------------------------------------------------------------------
+                               PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+- --------------------------------------------------------------------------------------------------------------------------
+
+                              COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+
+                                                                                                               12 Months
+                                                                                                                 Ended
+                                                              YEARS ENDED DECEMBER 31,                          March 31,
+                                      -------------  ------------  -------------  ------------   ------------  -----------
+                                          1995          1996           1997          1998           1999          2000
+                                      -------------  ------------  -------------  ------------   ------------  -----------
+<S>                                           <C>           <C>            <C>           <C>           <C>           <C>
+Earnings as Defined in Regulation
+  S-K (A):
+
+Income from Continuing Operations (B)         $627          $588           $560          $644          $723          $805
+Income Taxes (C)                               348           297            284           428           563           603
+Fixed Charges                                  549           527            543           577           615           644
+                                      -------------  ------------  -------------  ------------   -----------   -----------
+Earnings                                    $1,524        $1,412         $1,387        $1,649        $1,901        $2,052
+                                      =============  ============  =============  ============   ===========   ===========
+
+Fixed Charges as Defined in Regulation
+  S-K (D):
+
+Total Interest Expense (E)                    $464          $453           $470          $481          $506          $535
+Interest Factor in Rentals                      12            12             11            11            10            11
+Subsidiaries' Preferred Securities
+    Dividend Requirements                       16            28             44            71            85            86
+Preferred Stock Dividends                       34            22             12             9             9             8
+Adjustment to Preferred Stock
+    Dividends to state on a pre-income
+    tax basis                                   23            12              6             5             5             4
+                                      -------------  ------------  -------------  ------------   -----------   -----------
+Total Fixed Charges                           $549          $527           $543          $577          $615          $644
+                                      =============  ============  =============  ============   ===========   ===========
+
+Ratio of Earnings to Fixed Charges            2.78          2.68           2.55          2.86          3.09          3.19
+                                      =============  ============  =============  ============   ===========   ===========
+
+
+<FN>
+(A)  The term  "earnings"  shall be defined  as pretax  income  from  continuing
+     operations.  Add to pretax income the amount of fixed  charges  adjusted to
+     exclude (a) the amount of any  interest  capitalized  during the period and
+     (b) the actual  amount of any  preferred  stock  dividend  requirements  of
+     majority-owned  subsidiaries  which were  included  in such  fixed  charges
+     amount but not deducted in the determination of pretax income.
+
+(B)  Excludes income from discontinued operations and extraordinary item.
+
+(C)  Includes  State income taxes and Federal  income taxes for other income and
+     excludes taxes applicable to extraordinary item.
+
+(D)  Fixed Charges represent (a) interest, whether expensed or capitalized,  (b)
+     amortization  of debt  discount,  premium and  expense,  (c) an estimate of
+     interest  implicit  in  rentals,  and  (d)  preferred  securities  dividend
+     requirements of subsidiaries  and preferred stock  dividends,  increased to
+     reflect the pretax  earnings  requirements  for Public  Service  Enterprise
+     Group Incorporated.
+
+(E)  Excludes interest expense from discontinued operations.
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.A
+<SEQUENCE>3
+<DESCRIPTION>PSE&G COMPUTATION OF RATIOS
+<TEXT>
+
+<TABLE>
+<CAPTION>
+                                                                                                              EXHIBIT 12 (A)
+- ----------------------------------------------------------------------------------------------------------------------------
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+- ----------------------------------------------------------------------------------------------------------------------------
+
+               COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+
+                                                                                                                  12 Months
+                                                                                                                    Ended
+                                                                YEARS ENDED DECEMBER 31,                          March 31,
+                                           -----------  ------------  -------------  ------------  ------------   ----------
+                                              1995         1996           1997          1998          1999          2000
+                                           -----------  ------------  -------------  ------------  ------------   ----------
+
+<S>                                              <C>           <C>            <C>           <C>           <C>          <C>
+Earnings as Defined in Regulation S-K (A):
+Net Income (B)                                   $617          $535           $528          $602          $653         $731
+Income Taxes (C)                                  326           268            256           404           510          551
+Fixed Charges                                     419           438            450           446           450          453
+                                           -----------  ------------  -------------  ------------  ------------  -----------
+Earnings                                       $1,362        $1,241         $1,234        $1,452        $1,613       $1,735
+                                           ===========  ============  =============  ============  ============  ===========
+
+Fixed Charges as Defined in Regulation
+  S-K (D):
+
+Total Interest Expense                           $407          $399           $395          $390          $394         $397
+Interest Factor in Rentals                         12            11             11            11            10           10
+Subsidiaries' Preferred Securities
+    Dividend Requirements                          --            28             44            45            46           46
+                                           -----------  ------------  -------------  ------------  ------------  -----------
+Total Fixed Charges                              $419          $438           $450          $446          $450         $453
+                                           ===========  ============  =============  ============  ============  ===========
+
+Ratio of Earnings to Fixed Charges               3.25          2.83           2.74          3.27          3.58         3.83
+                                           ===========  ============  =============  ============  ============  ===========
+
+<FN>
+
+(A)  The term  "earnings"  shall be defined  as pretax  income  from  continuing
+     operations.  Add to pretax income the amount of fixed  charges  adjusted to
+     exclude (a) the amount of any  interest  capitalized  during the period and
+     (b) the actual  amount of any  preferred  stock  dividend  requirements  of
+     majority-owned  subsidiaries  which were  included  in such  fixed  charges
+     amount but not deducted in the determination of pretax income.
+
+(B)  Excludes extraordinary item.
+
+(C)  Includes  State income taxes and Federal  income taxes for other income and
+     excludes taxes applicable to extraordinary item.
+
+(D)  Fixed Charges represent (a) interest, whether expensed or capitalized,  (b)
+     amortization  of debt  discount,  premium and  expense,  (c) an estimate of
+     interest  implicit  in  rentals,  and  (d)  Preferred  Securities  Dividend
+     Requirements of subsidiaries.
+
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.B
+<SEQUENCE>4
+<DESCRIPTION>PSE&G COMPUTATION OF RATIOS
+<TEXT>
+
+<TABLE>
+<CAPTION>
+
+                                                                                                               EXHIBIT 12 (B)
+- -----------------------------------------------------------------------------------------------------------------------------
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+- -----------------------------------------------------------------------------------------------------------------------------
+
+               COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+                   PLUS PREFERRED STOCK DIVIDEND REQUIREMENTS
+
+
+                                                                                                                  12 Months
+                                                                                                                    Ended
+                                                                YEARS ENDED DECEMBER 31,                          March 31,
+                                         ------------  -------------  ------------  ------------  -------------  ------------
+                                            1995           1996          1997          1998           1999          2000
+                                         ------------  -------------  ------------  ------------  -------------  ------------
+
+<S>                                             <C>            <C>           <C>           <C>            <C>           <C>
+Earnings as Defined in Regulation S-K
+Net Income (B)                                  $617           $535          $528          $602           $653          $731
+Income Taxes (C)                                 326            268           256           404            510           551
+Fixed Charges                                    419            438           450           446            450           453
+                                         ------------  -------------  ------------  ------------  -------------  ------------
+Earnings                                      $1,362         $1,241        $1,234        $1,452         $1,613        $1,735
+                                         ============  =============  ============  ============  =============  ============
+
+Fixed Charges as Defined in Regulation
+   S-K (D):
+
+Total Interest Expense                          $407           $399          $395          $390           $394          $397
+Interest Factor in Rentals                        12             11            11            11             10            10
+Subsidiaries' Preferred Securities
+    Dividend Requirements                         --             28            44            45             46            46
+Preferred Stock Dividends                         49             23            12             9              9             8
+Adjustment to Preferred Stock
+    Dividends to state on a pre-income
+    tax basis                                     24             12             6             6              7             6
+                                         ------------  -------------  ------------  ------------  -------------  ------------
+Total Fixed Charges                             $492           $473          $468          $461           $466          $467
+                                         ============  =============  ============  ============  =============  ============
+
+Ratio of Earnings to Fixed Charges              2.77           2.62          2.64          3.15           3.46          3.72
+                                         ============  =============  ============  ============  =============  ============
+
+<FN>
+(A)  The term  "earnings"  shall be defined  as pretax  income  from  continuing
+     operations.  Add to pretax income the amount of fixed  charges  adjusted to
+     exclude (a) the amount of any  interest  capitalized  during the period and
+     (b) the actual  amount of any  preferred  stock  dividend  requirements  of
+     majority-owned  subsidiaries  which were  included  in such  fixed  charges
+     amount but not deducted in the determination of pretax income.
+
+(B)  Excludes extraordinary item.
+
+(C)  Includes  State income taxes and Federal  income taxes for other income and
+     excludes taxes applicable to extraordinary item.
+
+(D)  Fixed Charges represent (a) interest, whether expensed or capitalized,  (b)
+     amortization  of debt  discount,  premium and  expense,  (c) an estimate of
+     interest  implicit  in  rentals,  and  (d)  preferred  securities  dividend
+     requirements of subsidiaries  and preferred stock  dividends,  increased to
+     reflect the pretax earnings requirement for Public Service Electric and Gas
+     Company.
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.A
+<SEQUENCE>5
+<DESCRIPTION>FDS PSEG
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> UT
+<LEGEND>
+This schedule  contains summary  financial  information  extracted from SEC Form
+10-Q and is qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<CIK> 0000788784
+<NAME> PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+<MULTIPLIER>1000000
+
+<S>                                         <C>
+<PERIOD-TYPE>                               3-MOS
+<FISCAL-YEAR-END>                                  DEC-31-1999
+<PERIOD-START>                                     JAN-01-2000
+<PERIOD-END>                                       MAR-31-2000
+<BOOK-VALUE>                                          PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                                6,888
+<OTHER-PROPERTY-AND-INVEST>                              4,976
+<TOTAL-CURRENT-ASSETS>                                   1,848
+<TOTAL-DEFERRED-CHARGES>                                 5,256
+<OTHER-ASSETS>                                               0
+<TOTAL-ASSETS>                                          18,968
+<COMMON>                                                 3,007  <F1>
+<CAPITAL-SURPLUS-PAID-IN>                                    0
+<RETAINED-EARNINGS>                                      1,345
+<TOTAL-COMMON-STOCKHOLDERS-EQ>                           4,177  <F2>
+<PREFERRED-MANDATORY>                                    1,113
+<PREFERRED>                                                 95
+<LONG-TERM-DEBT-NET>                                     4,901
+<SHORT-TERM-NOTES>                                           0
+<LONG-TERM-NOTES-PAYABLE>                                    0
+<COMMERCIAL-PAPER-OBLIGATIONS>                           1,202
+<LONG-TERM-DEBT-CURRENT-PORT>                              973
+<PREFERRED-STOCK-CURRENT>                                    0
+<CAPITAL-LEASE-OBLIGATIONS>                                 52
+<LEASES-CURRENT>                                             2
+<OTHER-ITEMS-CAPITAL-AND-LIAB>                           6,453
+<TOT-CAPITALIZATION-AND-LIAB>                           18,968
+<GROSS-OPERATING-REVENUE>                                1,924
+<INCOME-TAX-EXPENSE>                                       183  <F3>
+<OTHER-OPERATING-EXPENSES>                               1,321
+<TOTAL-OPERATING-EXPENSES>                               1,504
+<OPERATING-INCOME-LOSS>                                    420
+<OTHER-INCOME-NET>                                          11
+<INCOME-BEFORE-INTEREST-EXPEN>                             431
+<TOTAL-INTEREST-EXPENSE>                                   161  <F4>
+<NET-INCOME>                                               270
+<PREFERRED-STOCK-DIVIDENDS>                                 24
+<EARNINGS-AVAILABLE-FOR-COMM>                              270
+<COMMON-STOCK-DIVIDENDS>                                   117
+<TOTAL-INTEREST-ON-BONDS>                                   79
+<CASH-FLOW-OPERATIONS>                                     767
+<EPS-BASIC>                                               1.25
+<EPS-DILUTED>                                             1.25
+<FN>
+<F1> Includes Treasury Stock of ($597).
+<F2> Includes Foreign Currency Translation Adjustment of ($172).
+<F3> Federal and State Income Taxes are included in this line item for
+     FDS purposes.
+<F4> Total interest expense includes Preferred Securities Dividends
+     Requirements.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.B
+<SEQUENCE>6
+<DESCRIPTION>FDS PSE&G
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> UT
+<LEGEND>
+This schedule  contains summary  financial  information  extracted from SEC Form
+10-Q and is qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<CIK> 0000081033
+<NAME> PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+<MULTIPLIER>1000000
+
+<S>                                         <C>
+<PERIOD-TYPE>                               3-MOS
+<FISCAL-YEAR-END>                                  DEC-31-1999
+<PERIOD-START>                                     JAN-01-2000
+<PERIOD-END>                                       MAR-31-2000
+<BOOK-VALUE>                                          PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                                6,888
+<OTHER-PROPERTY-AND-INVEST>                                860
+<TOTAL-CURRENT-ASSETS>                                   1,507
+<TOTAL-DEFERRED-CHARGES>                                 5,115
+<OTHER-ASSETS>                                               0
+<TOTAL-ASSETS>                                          14,370
+<COMMON>                                                 2,563
+<CAPITAL-SURPLUS-PAID-IN>                                  594
+<RETAINED-EARNINGS>                                        628
+<TOTAL-COMMON-STOCKHOLDERS-EQ>                           3,782
+<PREFERRED-MANDATORY>                                      588
+<PREFERRED>                                                 95
+<LONG-TERM-DEBT-NET>                                     3,100
+<SHORT-TERM-NOTES>                                           0
+<LONG-TERM-NOTES-PAYABLE>                                    0
+<COMMERCIAL-PAPER-OBLIGATIONS>                             905
+<LONG-TERM-DEBT-CURRENT-PORT>                              523
+<PREFERRED-STOCK-CURRENT>                                    0
+<CAPITAL-LEASE-OBLIGATIONS>                                 52
+<LEASES-CURRENT>                                             2
+<OTHER-ITEMS-CAPITAL-AND-LIAB>                           5,323
+<TOT-CAPITALIZATION-AND-LIAB>                           14,370
+<GROSS-OPERATING-REVENUE>                                1,709
+<INCOME-TAX-EXPENSE>                                       174  <F1>
+<OTHER-OPERATING-EXPENSES>                               1,187
+<TOTAL-OPERATING-EXPENSES>                               1,361
+<OPERATING-INCOME-LOSS>                                    348
+<OTHER-INCOME-NET>                                          10
+<INCOME-BEFORE-INTEREST-EXPEN>                             358
+<TOTAL-INTEREST-EXPENSE>                                   108  <F2>
+<NET-INCOME>                                               250
+<PREFERRED-STOCK-DIVIDENDS>                                  2
+<EARNINGS-AVAILABLE-FOR-COMM>                              248
+<COMMON-STOCK-DIVIDENDS>                                   217
+<TOTAL-INTEREST-ON-BONDS>                                   73
+<CASH-FLOW-OPERATIONS>                                     852
+<EPS-BASIC>                                                  0
+<EPS-DILUTED>                                                0
+<FN>
+<F1> Federal and  State  Income  Taxes  are  included  in this line item for FDS
+purposes.
+<F2> Total  interest expense includes  Preferred  Securities  Dividend
+Requirements.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

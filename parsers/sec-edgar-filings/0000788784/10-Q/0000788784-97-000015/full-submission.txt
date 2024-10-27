@@ -1,0 +1,2149 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DghsrOpkPagI2MxmFF3KEemx+S3CqDSaOU5dv6JhAYhVsgD9n269oHv1Luvow3ql
+ CWWXkfo6WR4FqNDvXS0OMQ==
+
+<SEC-DOCUMENT>0000788784-97-000015.txt : 19970815
+<SEC-HEADER>0000788784-97-000015.hdr.sgml : 19970815
+ACCESSION NUMBER:		0000788784-97-000015
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970814
+SROS:			NYSE
+SROS:			PHLX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLIC SERVICE ENTERPRISE GROUP INC
+		CENTRAL INDEX KEY:			0000788784
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				222625848
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09120
+		FILM NUMBER:		97663082
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 PARK PLZ
+		STREET 2:		P O BOX 1171
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07101
+		BUSINESS PHONE:		2014307000
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLIC SERVICE ELECTRIC & GAS CO
+		CENTRAL INDEX KEY:			0000081033
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				221212800
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00973
+		FILM NUMBER:		97663083
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 PARK PLZ
+		STREET 2:		PO BOX 570
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07101
+		BUSINESS PHONE:		2014307000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+                                   (Mark One)
+            [ X ] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended June 30, 1997
+
+                                       OR
+
+            [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                        For the transition period from to
+
+
+   Commission       Registrant, State of Incorporation,        I.R.S. Employer
+  File Number          Address, and Telephone Number          Identification No.
+- --------------------------------------------------------------------------------
+
+     1-9120    PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED        22-2625848
+                        (A New Jersey Corporation)
+                               80 Park Plaza
+                               P.O. Box 1171
+                       Newark, New Jersey 07101-1171
+                               201 430-7000
+                            http://www.pseg.com
+
+     1-973        PUBLIC SERVICE ELECTRIC AND GAS COMPANY          22-1212800
+                        (A New Jersey Corporation)
+                               80 Park Plaza
+                               P.O. Box 570
+                       Newark, New Jersey 07101-0570
+                               201 430-7000
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.
+                                             Yes  x       No
+
+The  number  of  shares   outstanding   of  Public  Service   Enterprise   Group
+Incorporated's  sole class of common stock, as of the latest  practicable  date,
+was as follows:
+
+                     Class: Common Stock, without par value
+                   Outstanding at July 31, 1997: 231,957,608
+
+As of July 31, 1997, Public  Service  Electric  and  Gas  Company had issued and
+outstanding  132,450,344  shares of common stock,  without nominal or par value,
+all of which were privately held,  beneficially  and of record by Public Service
+Enterprise Group Incorporated.
+
+================================================================================
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+
+PART I.  FINANCIAL INFORMATION
+
+   Item 1.  Financial Statements
+
+     Public Service Enterprise Group Incorporated (Enterprise):
+
+       Consolidated Statements of Income for the Three and Six
+       Months Ended June 30, 1997 and 1996...................................
+
+       Consolidated Balance Sheets as of June 30, 1997
+       and December 31, 1996.................................................
+
+       Consolidated Statements of Cash Flows for the Six
+       Months Ended June 30, 1997 and 1996...................................
+
+       Consolidated Statements of Retained Earnings for the Three and Six
+       Months Ended June 30, 1997 and 1996...................................
+
+     Public Service Electric and Gas Company (PSE&G):
+
+       Consolidated Statements of Income for the Three and Six
+       Months Ended June 30, 1997 and 1996...................................
+
+       Consolidated Balance Sheets as of June 30, 1997
+       and December 31, 1996.................................................
+
+       Consolidated Statements of Cash Flows for the Six
+       Months Ended June 30, 1997 and 1996...................................
+
+       Consolidated Statements of Retained Earnings for the Three and Six
+       Months Ended June 30, 1997 and 1996...................................
+
+     Notes to Consolidated Financial Statements - Enterprise.................
+
+     Notes to Consolidated Financial Statements - PSE&G......................
+
+   Item 2. Management's Discussion and Analysis of Financial
+           Condition and Results of Operations
+     Enterprise..............................................................
+     PSE&G  .................................................................
+
+
+PART II.  OTHER INFORMATION
+
+   Item 1.  Legal Proceedings................................................
+
+   Item 5.  Other Information................................................
+
+   Item 6.  Exhibits and Reports on Form 8-K.................................
+
+   Signatures - Public Service Enterprise Group Incorporated.................
+
+   Signatures - Public Service Electric and Gas Company......................
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                                     CONSOLIDATED STATEMENTS OF INCOME
+                               (Thousands of Dollars, except per share data)
+                                               (Unaudited)
+
+
+                                                                          Three Months Ended                Six Months Ended
+                                                                               June 30,                         June 30,
+                                                                   --------------------------------  -------------------------------
+                                                                         1997            1996             1997             1996
+                                                                   ---------------  ---------------  --------------   --------------
+<S>                                                                <C>              <C>              <C>              <C>          
+OPERATING REVENUES
+   Electric                                                        $      946,006   $      989,145   $   1,906,463    $   1,948,581
+   Gas                                                                    324,179          297,674       1,058,039        1,094,590
+   Nonutility Activities                                                   52,719           50,255          90,954           92,251
+                                                                   ---------------  ---------------  --------------   --------------
+               Total Operating Revenues                                 1,322,904        1,337,074       3,055,456        3,135,422
+                                                                   ---------------  ---------------  --------------   --------------
+OPERATING EXPENSES
+   Operation:
+      Fuel for Electric Generation and Interchanged Power                 242,776          215,972         491,128          432,047
+      Gas Purchased                                                       179,555          186,504         601,388          643,236
+      Other                                                               267,792          250,223         517,132          507,084
+   Maintenance                                                             70,118           87,240         127,671          182,656
+   Depreciation and Amortization                                          155,084          151,555         305,423          303,901
+   Taxes:
+      Federal Income Taxes                                                 49,595           56,092         152,579          154,194
+      New Jersey Gross Receipts Taxes                                     117,077          130,979         289,123          319,415
+      Other                                                                21,557           20,944          42,478           45,886
+                                                                   ---------------  ---------------   -------------   --------------
+               Total Operating Expenses                                 1,103,554        1,099,509       2,526,922        2,588,419
+                                                                   ---------------  ---------------   -------------   --------------
+OPERATING INCOME                                                          219,350          237,565         528,534          547,003
+OTHER INCOME AND DEDUCTIONS
+    Settlement of Salem Litigation - Net of Applicable
+      Taxes of  $28,700                                                         -                -         (53,300)               -
+    Other - net                                                             1,902           (1,273)          4,204           (2,046)
+                                                                   ---------------  ---------------  --------------   --------------
+               Total Other Income and Deductions                            1,902           (1,273)        (49,096)          (2,046)
+                                                                   ---------------  ---------------  --------------   --------------
+INCOME BEFORE INTEREST CHARGES AND DIVIDENDS
+  ON PREFERRED SECURITIES                                                 221,252          236,292         479,438          544,957
+                                                                   ---------------  ---------------  --------------   --------------
+INTEREST EXPENSE AND PREFERRED DIVIDENDS
+   Interest Expense                                                       116,828          111,044         226,377          226,561
+   Allowance for Funds Used During Construction - Debt and
+     Capitalized Interest                                                  (4,300)          (3,921)         (9,846)          (8,468)
+   Preferred Securities Dividend Requirements                              14,430           12,228          28,722           24,469
+   Net Loss (Gain) on Preferred Stock Redemptions                           2,795          (18,493)          3,172          (18,493)
+                                                                   ---------------  ---------------  --------------   --------------
+               Total Interest Expense and Preferred Dividends             129,753          100,858         248,425          224,069
+                                                                   ---------------  ---------------  --------------   --------------
+INCOME FROM CONTINUING OPERATIONS                                          91,499          135,434         231,013          320,888
+Discontinued Operations - Net of Taxes (Note 5)                                 -             (896)              -            7,754
+                                                                   ---------------  ---------------  --------------   --------------
+NET INCOME                                                         $       91,499   $      134,538   $     231,013    $     328,642
+                                                                   ===============  ===============  ==============   ==============
+
+AVERAGE SHARES OF COMMON STOCK OUTSTANDING                            231,957,608      244,697,930     232,014,291      244,697,930
+EARNINGS PER AVERAGE SHARE
+   Income From Continuing Operations                                        $0.39            $0.55           $0.99            $1.31
+   Income From Discontinued Operations                                          -                -               -             0.03
+                                                                   ---------------  ---------------  --------------   --------------
+TOTAL EARNINGS PER AVERAGE SHARE                                            $0.39            $0.55           $0.99            $1.34
+                                                                   ===============  ===============  ==============   ==============
+
+DIVIDENDS PAID PER SHARE OF COMMON STOCK                                    $0.54            $0.54           $1.08            $1.08
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                           CONSOLIDATED BALANCE SHEETS
+                                     ASSETS
+                             (Thousands of Dollars)
+
+
+                                                                                          (Unaudited)
+                                                                                            June 30,           December 31,
+                                                                                             1997                 1996
+                                                                                          -----------          ------------
+<S>                                                                                       <C>                  <C>        
+UTILITY PLANT - Original cost
+   Electric                                                                               $13,548,730          $13,314,033
+   Gas                                                                                      2,625,772            2,555,901
+   Common                                                                                     547,564              530,185
+                                                                                          -----------          -----------
+        Total                                                                              16,722,066           16,400,119
+   Less: Accumulated depreciation and amortization                                          6,158,905            5,889,098
+                                                                                          -----------          -----------
+        Net                                                                                10,563,161           10,511,021
+   Nuclear Fuel in Service, net of accumulated amortization -
+      1997, $293,330; 1996, $259,384                                                          165,327              198,845
+                                                                                          -----------          -----------
+        Net Utility Plant in Service                                                       10,728,488           10,709,866
+   Construction Work in Progress, including Nuclear Fuel in
+     Process - 1997, $108,008; 1996, $70,455                                                  347,659              445,321
+   Plant Held for Future Use                                                                   23,966               23,966
+                                                                                          -----------          -----------
+        Net Utility Plant                                                                  11,100,113           11,179,153
+                                                                                          -----------          -----------
+ INVESTMENTS AND OTHER NONCURRENT ASSETS
+  Long-Term Investments, net of amortization - 1997, $16,728; 1996, $12,679, and
+     net of valuation allowances - 1997, $16,057; 1996,
+     $16,969                                                                                2,257,665            1,854,304
+  Nuclear Decommissioning and Other Special Funds                                             432,350              382,348
+  Other Noncurrent Assets                                                                     154,867              115,332
+                                                                                          -----------          -----------
+        Total Investments and Other Noncurrent Assets                                       2,844,882            2,351,984
+                                                                                          ------------         -----------
+ CURRENT ASSETS
+   Cash and Cash Equivalents                                                                   53,746              278,903
+   Accounts Receivable:
+     Customer Accounts Receivable                                                             456,913              499,858
+     Other Accounts Receivable                                                                214,270              241,483
+     Less: Allowance for Doubtful Accounts                                                     37,284               42,283
+   Unbilled Revenues                                                                          172,050              248,504
+   Fuel, at average cost                                                                      224,724              313,019
+   Materials and Supplies, at average cost, net of inventory valuation
+     reserves - 1997 and 1996, $16,100                                                        147,407              147,757
+   Prepaid Gross Receipts Taxes - net                                                         301,481                    -
+   Miscellaneous Current Assets                                                                67,917               57,186
+                                                                                          -----------          -----------
+        Total Current Assets                                                                1,601,224            1,744,427
+                                                                                          -----------          -----------
+ DEFERRED DEBITS
+   Property Abandonments - net                                                                 45,024               52,573
+   Oil and Gas Property Write-Down                                                             28,347               30,924
+   Unamortized Debt Expense                                                                   132,601              139,067
+   Deferred OPEB Costs                                                                        306,759              226,171
+   Unrecovered Environmental Costs                                                            126,184              125,900
+   Unrecovered Plant and Regulatory Study Costs                                                33,229               33,941
+   Underrecovered Electric Energy and Gas Costs - net                                         160,824              176,055
+   Unrecovered SFAS 109 Deferred Income Taxes                                                 740,627              751,763
+   Decontamination and Decommissioning Costs                                                   46,643               46,643
+   Other                                                                                       81,023               56,730
+                                                                                          -----------          -----------
+        Total Deferred Debits                                                               1,701,261            1,639,767
+                                                                                          -----------          -----------
+ Total                                                                                    $17,247,480          $16,915,331
+                                                                                          ===========          ===========
+<FN>
+ See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                                           CONSOLIDATED BALANCE SHEETS
+                                         CAPITALIZATION AND LIABILITIES
+                                             (Thousands of Dollars)
+
+
+                                                                                        (Unaudited)
+                                                                                          June 30,     December 31,
+                                                                                            1997           1996
+                                                                                         -----------   -----------
+<S>                                                                                      <C>           <C>        
+CAPITALIZATION
+  Common Equity:
+    Common Stock                                                                         $ 3,603,300   $ 3,626,792
+    Retained Earnings                                                                      1,544,421     1,586,256
+                                                                                         -----------   -----------
+       Total Common Equity                                                                 5,147,721     5,213,048
+  Subsidiaries' Preferred Securities:
+    Preferred Stock Without Mandatory Redemption                                              94,523       113,392
+    Preferred Stock With Mandatory Redemption                                                 75,000       150,000
+    Monthly Guaranteed Preferred Beneficial Interest in PSE&G's
+       Subordinated Debentures                                                               210,000       210,000
+    Quarterly Guaranteed Preferred Beneficial Interest in PSE&G's
+      Subordinated Debentures                                                                303,000       208,000
+  Long-Term Debt                                                                           4,713,494     4,580,231
+                                                                                         -----------   -----------
+       Total Capitalization                                                               10,543,738    10,474,671
+                                                                                         -----------   -----------
+OTHER LONG-TERM LIABILITIES
+  Decontamination and Decommissioning Costs                                                   46,643        46,643
+  Environmental Costs                                                                         82,797        85,755
+  Capital Lease Obligations                                                                   51,969        52,371
+                                                                                         -----------   -----------
+       Total Other Long-Term Liabilities                                                     181,409       184,769
+                                                                                         -----------   -----------
+CURRENT LIABILITIES
+  Long-Term Debt due within one year                                                         532,359       547,981
+  Commercial Paper and Loans                                                                 990,991       638,051
+  Accounts Payable                                                                           593,191       697,304
+  Other                                                                                      276,906       388,418
+                                                                                         -----------   -----------
+       Total Current Liabilities                                                           2,393,447     2,271,754
+                                                                                         -----------   -----------
+DEFERRED CREDITS
+  Deferred Income Taxes                                                                    3,306,857     3,250,343
+  Deferred Investment Tax Credits                                                            352,155       361,786
+  Deferred OPEB Costs                                                                        306,759       226,171
+  Other                                                                                      163,115       145,837
+                                                                                         -----------   -----------
+       Total Deferred Credits                                                              4,128,886     3,984,137
+                                                                                         -----------   -----------
+COMMITMENTS AND CONTINGENT LIABILITIES (Note 3)                                                   --            --
+                                                                                         -----------   -----------
+Total                                                                                    $17,247,480   $16,915,331
+                                                                                         ===========   ===========
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                         PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                             CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (Thousands of Dollars)
+                                          (Unaudited)
+
+
+
+                                                                   Six Months Ended June 30,
+                                                                   -------------------------
+                                                                      1997         1996
+                                                                   ---------    ---------
+<S>                                                                <C>          <C>      
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income                                                       $ 231,013    $ 328,642
+  Adjustments to reconcile net income to net cash flows from
+   operating activities:
+    Depreciation and Amortization                                    305,423      303,901
+    Amortization of Nuclear Fuel                                      33,947       26,277
+    Recovery (deferral) of Electric Energy and Gas Costs - net        15,231      (36,344)
+    Unrealized Gains on Investments - net                             (6,653)      (1,985)
+    Provision for Deferred Income Taxes - net                          4,467       44,430
+    Investment Tax Credits - net                                      (9,393)      (9,021)
+    Allowance for Funds Used During Construction - Debt and
+      Capitalized Interest                                            (9,846)      (8,468)
+    Proceeds from Leasing Activities                                  46,755       35,818
+    Changes in certain current assets and liabilities:
+     Net decrease in Accounts Receivable and Unbilled Revenues       141,613      147,076
+     Net decrease in Inventory - Fuel and Materials and Supplies      88,645       59,731
+     Net decrease in Accounts Payable                               (104,113)     (49,550)
+     Net change in Prepaid / Other Accrued Taxes                    (313,597)    (294,823)
+     Net change in Other Current Assets and Liabilities             (110,127)     (33,056)
+    Other                                                            (14,366)       4,349
+    Net cash provided by operating activities - Discontinued
+      Operations                                                        --         61,377
+                                                                   ---------    ---------
+       Net cash provided by operating activities                     298,999      578,354
+                                                                   ---------    ---------
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Additions to Utility Plant, excluding AFDC                        (229,327)    (218,426)
+  Net increase in Long-Term Investments and Real Estate             (384,847)      (8,320)
+  Contribution to Decommissioning Funds and Other Special Funds      (27,655)     (13,444)
+  Cost of Plant Removal - net                                        (16,241)     (13,827)
+  Other                                                              (40,119)      (2,547)
+  Change in Net Assets - Discontinued Operations                        --        (23,947)
+                                                                   ---------    ---------
+       Net cash used in investing activities                        (698,189)    (280,511)
+                                                                   ---------    ---------
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Net increase  in Short-Term Debt                                   352,940      169,613
+  Issuance of Long-Term Debt                                         475,754      368,324
+  Redemption of Long-Term Debt                                      (358,113)    (529,967)
+  Long-Term Debt Issuance and Redemption Costs                        (1,339)     (38,618)
+  Redemption of Preferred Stock                                      (93,869)    (211,602)
+  Issuance of Preferred Securities of Subsidiaries                    95,000      208,000
+  Retirement of Common Stock                                         (42,588)        --
+  Cash Dividends Paid on Common Stock                               (250,514)    (264,274)
+  Preferred Securities Issuance Expenses                              (3,238)      (6,508)
+                                                                   ---------    ---------
+       Net cash provided by (used in) financing activities           174,033     (305,032)
+                                                                   ---------    ---------
+Net decrease in Cash and Cash Equivalents                           (225,157)      (7,189)
+Cash and Cash Equivalents at Beginning of Period                     278,903       61,964
+                                                                   ---------    ---------
+Cash and Cash Equivalents at End of Period                         $  53,746    $  54,775
+                                                                   =========    =========
+
+Income Taxes Paid                                                  $  83,686    $  83,900
+Interest Paid                                                      $ 186,571    $ 271,785
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                   PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                                   CONSOLIDATED STATEMENTS OF RETAINED EARNINGS
+                                              (Thousands of Dollars)
+                                                    (Unaudited)
+
+
+                                                        Three Months Ended June 30,  Six Months Ended June 30,
+                                                        --------------------------- -------------------------
+                                                           1997         1996            1997         1996
+                                                        ----------   ----------     ----------   ----------
+<S>                                                     <C>          <C>            <C>          <C>       
+Balance at Beginning of Period                          $1,578,256   $1,698,939     $1,586,256   $1,636,971
+Add:
+  Net Income                                                91,499      134,538        231,013      328,642
+                                                        ----------   ----------     ----------   ----------
+
+       Total                                             1,669,755    1,833,477      1,817,269    1,965,613
+                                                        ----------   ----------     ----------   ----------
+
+Deduct:
+  Cash Dividends on Common Stock                           125,257      132,136        250,514      264,274
+  Retirement of Common Stock                                  --           --           19,096         --
+  Preferred Securities Issuance Expenses                        77        6,510          3,238        6,508
+                                                        ----------   ----------     ----------   ----------
+
+       Total Deductions                                    125,334      138,646        272,848      270,782
+                                                        ----------   ----------     ----------   ----------
+
+Balance at End of Period                                $1,544,421   $1,694,831     $1,544,421   $1,694,831
+                                                        ==========   ==========     ==========   ==========
+
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+
+
+
+
+
+                      [THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                           PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                              CONSOLIDATED STATEMENTS OF INCOME
+                                   (Thousands of Dollars)
+                                         (Unaudited)
+
+
+                                                             Three Months Ended                Six Months Ended
+                                                                   June 30,                        June 30,
+                                                          --------------------------    --------------------------
+                                                                1997          1996           1997          1996
+                                                          ------------  ------------    ------------  ------------
+<S>                                                       <C>           <C>             <C>           <C>        
+OPERATING REVENUES
+   Electric                                               $    946,006  $    989,145    $ 1,906,463   $ 1,948,581
+   Gas                                                         324,179       297,674      1,058,039     1,094,590
+                                                          ------------  ------------    -----------   -----------
+               Total Operating Revenues                      1,270,185     1,286,819      2,964,502     3,043,171
+                                                          ------------  ------------    -----------   -----------
+OPERATING EXPENSES
+   Operation:
+      Fuel for Electric Generation and Interchanged Power      242,776       215,972        491,128       432,047
+      Gas Purchased                                            179,555       186,504        601,388       643,236
+      Other                                                    246,175       235,410        477,838       478,300
+   Maintenance                                                  70,118        87,240        127,671       182,656
+   Depreciation and Amortization                               154,049       150,869        303,208       302,302
+   Taxes:
+      Federal Income Taxes                                      45,568        48,984        147,475       143,614
+      New Jersey Gross Receipts Taxes                          117,077       130,979        289,123       319,415
+      Other                                                     19,838        19,230         39,523        42,817
+                                                          ------------  ------------    ------------   -----------
+               Total Operating Expenses                      1,075,156     1,075,188      2,477,354     2,544,387
+                                                          ------------  ------------    ------------   -----------
+
+OPERATING INCOME                                               195,029       211,631        487,148       498,784
+
+OTHER INCOME AND DEDUCTIONS
+    Settlement of Salem Litigation - Net of Applicable
+      Taxes of  $28,700                                              -             -        (53,300)            -
+    Other - net                                                  1,905        (1,279)         4,201        (2,057)
+                                                          ------------  ------------    ------------   ------------
+               Total Other Income and Deductions                 1,905        (1,279)       (49,099)       (2,057)
+                                                          ------------  ------------    ------------   ------------
+
+INCOME BEFORE INTEREST CHARGES AND
+  DIVIDENDS ON PREFERRED SECURITIES                            196,934       210,352        438,049       496,727
+                                                          ------------  ------------    ------------   -----------
+
+INTEREST EXPENSE AND PREFERRED SECURITIES
+  DIVIDENDS
+     Interest Expense                                          101,328       100,291        196,811       202,592
+     Allowance for Funds Used During Construction - Debt        (2,855)       (3,471)        (7,666)       (7,762)
+     Preferred Securities Dividend Requirement
+       of Subsidiaries                                          11,131         4,765         21,551         9,480
+                                                          ------------  ------------    ------------   -----------
+        Total Interest Expense and Preferred Securities
+         Dividends                                             109,604       101,585        210,696       204,310
+                                                          ------------  ------------    ------------   -----------
+NET INCOME                                                      87,330       108,767        227,353       292,417
+Preferred Stock Dividend Requirements                            3,299         7,463          7,171        14,989
+Net Loss (Gain) on Preferred Stock Redemptions                   2,795       (18,493)         3,172       (18,493)
+                                                          ------------  ------------    ------------   -----------
+EARNINGS AVAILABLE TO PUBLIC SERVICE
+   ENTERPRISE GROUP INCORPORATED                          $     81,236  $    119,797    $   217,010    $  295,921
+                                                          ============  ============    ===========    ===========
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                   PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                                          CONSOLIDATED BALANCE SHEETS
+                                                    ASSETS
+                                              (Thousands of Dollars)
+
+                                                                                       (Unaudited)
+                                                                                         June 30,    December 31,
+                                                                                           1997          1996
+                                                                                       -----------   -----------
+<S>                                                                                    <C>           <C>
+UTILITY PLANT - Original cost
+  Electric                                                                             $13,548,730   $13,314,033
+  Gas                                                                                    2,625,772     2,555,901
+  Common                                                                                   547,564       530,185
+                                                                                       -----------   -----------
+       Total                                                                            16,722,066    16,400,119
+  Less: Accumulated depreciation and amortization                                        6,158,905     5,889,098
+                                                                                       -----------   -----------
+       Net                                                                              10,563,161    10,511,021
+  Nuclear Fuel in Service, net of accumulated amortization -
+    1997, $293,330; 1996, $259,384                                                         165,327       198,845
+                                                                                       -----------   -----------
+       Net Utility Plant in Service                                                     10,728,488    10,709,866
+  Construction Work in Progress, including Nuclear Fuel in
+    Process - 1997, $108,008; 1996, $70,455                                                347,659       445,321
+  Plant Held for Future Use                                                                 23,966        23,966
+                                                                                       -----------   -----------
+       Net Utility Plant                                                                11,100,113    11,179,153
+                                                                                       -----------   -----------
+INVESTMENTS AND OTHER NONCURRENT ASSETS
+  Long-Term Investments, net of amortization - 1997, $16,728; 1996, $12,679,
+    and net of valuation allowances - 1997, $14,057; 1996, $13,969                         133,699       133,342
+  Nuclear Decommissioning and Other Special Funds                                          432,350       382,348
+  Other Plant, net of accumulated depreciation and
+    amortization - 1997, $1,176; 1996, $1,171                                               19,153        19,157
+                                                                                       -----------   -----------
+       Total Investments and Other Noncurrent Assets                                       585,202       534,847
+                                                                                       -----------   -----------
+CURRENT ASSETS
+  Cash and Cash Equivalents                                                                 19,420        47,639
+  Accounts Receivable:
+    Customer Accounts Receivable                                                           456,913       499,858
+    Other Accounts Receivable                                                              132,805       175,009
+    Less: Allowance for Doubtful Accounts                                                   37,284        42,283
+  Accounts Receivable - Associated Companies - net                                            --           4,308
+  Unbilled Revenues                                                                        172,050       248,504
+  Fuel, at average cost                                                                    224,724       313,019
+  Materials and Supplies, at average cost, net of inventory
+    valuation reserves - 1997 and 1996, $16,100                                            147,407       147,757
+  Prepaid Gross Receipts and Franchise Taxes                                               301,481          --
+  Miscellaneous Current Assets                                                              65,421        53,619
+                                                                                       -----------   -----------
+       Total Current Assets                                                              1,482,937     1,447,430
+                                                                                       -----------   -----------
+DEFERRED DEBITS
+  Property Abandonments - net                                                               45,024        52,573
+  Oil and Gas Property Write-Down                                                           28,347        30,924
+  Unamortized Debt Expense                                                                 131,489       137,606
+  Deferred OPEB Costs                                                                      306,759       226,171
+  Unrecovered Environmental Costs                                                          126,184       125,900
+  Unrecovered Plant and Regulatory Study Costs                                              33,229        33,941
+  Underrecovered Electric Energy and Gas Costs - net                                       160,824       176,055
+  Unrecovered SFAS 109 Deferred Income Taxes                                               740,627       751,763
+  Decontamination and Decommissioning Costs                                                 46,643        46,643
+  Other                                                                                     79,868        56,348
+                                                                                       -----------   -----------
+       Total Deferred Debits                                                             1,698,994     1,637,924
+                                                                                       -----------   -----------
+Total                                                                                  $14,867,246   $14,799,354
+                                                                                       ===========   ===========
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                   PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                                        CONSOLIDATED BALANCE SHEETS
+                                      CAPITALIZATION AND LIABILITIES
+                                           (Thousands of Dollars)
+
+                                                                                     (Unaudited)
+                                                                                       June 30,    December 31,
+                                                                                         1997          1996
+                                                                                     -----------   -----------
+<S>                                                                                  <C>           <C>        
+CAPITALIZATION
+   Common Equity:
+    Common Stock                                                                     $ 2,563,003   $ 2,563,003
+    Contributed Capital from Enterprise                                                  594,395       594,395
+    Retained Earnings                                                                  1,326,675     1,365,003
+                                                                                     -----------   -----------
+       Total Common Equity                                                             4,484,073     4,522,401
+  Preferred Stock Without Mandatory Redemption                                            94,523       113,392
+  Preferred Stock  With Mandatory Redemption                                              75,000       150,000
+  Subsidiaries' Preferred Securities:
+    Monthly Guaranteed Preferred Beneficial Interest in PSE&G's
+       Subordinated Debentures                                                           210,000       210,000
+    Quarterly Guaranteed Preferred Beneficial Interest in PSE&G's
+      Subordinated Debentures                                                            303,000       208,000
+  Long-Term Debt                                                                       4,141,444     4,107,331
+                                                                                     -----------   -----------
+       Total Capitalization                                                            9,308,040     9,311,124
+                                                                                     -----------   -----------
+OTHER LONG-TERM LIABILITIES
+  Decontamination and Decommissioning Costs                                               46,643        46,643
+  Environmental Costs                                                                     82,797        85,755
+  Capital Lease Obligations                                                               51,969        52,371
+                                                                                     -----------   -----------
+       Total Other Long-Term Liabilities                                                 181,409       184,769
+                                                                                     -----------   -----------
+CURRENT LIABILITIES
+  Long-Term Debt due within one year                                                     391,862       423,500
+  Commercial Paper and Loans                                                             861,991       638,051
+  Accounts Payable                                                                       540,523       627,023
+  Accounts Payable - Associated Companies - net                                              651          --
+  Other                                                                                  250,745       341,742
+                                                                                     -----------   -----------
+       Total Current Liabilities                                                       2,045,772     2,030,316
+                                                                                     -----------   -----------
+DEFERRED CREDITS
+  Deferred Income Taxes                                                                2,532,277     2,557,587
+  Deferred Investment Tax Credits                                                        342,253       351,637
+  Deferred OPEB Costs                                                                    306,759       226,171
+  Other                                                                                  150,736       137,750
+                                                                                     -----------   -----------
+       Total Deferred Credits                                                          3,332,025     3,273,145
+                                                                                     -----------   -----------
+COMMITMENTS AND CONTINGENT LIABILITIES (Note 3)                                             --            --
+                                                                                     -----------   -----------
+Total                                                                                $14,867,246   $14,799,354
+                                                                                     ===========   ===========
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Thousands of Dollars)
+                                   (Unaudited)
+
+                                                                                                  Six Months Ended June 30,
+                                                                                          -----------------------------------
+                                                                                               1997                   1996
+                                                                                          -----------             -----------
+<S>                                                                                          <C>                    <C>     
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income                                                                                 $227,353               $292,417
+  Adjustments to reconcile net income to net cash flows from
+   Operating activities:
+    Depreciation and Amortization                                                             303,208                302,302
+    Amortization of Nuclear Fuel                                                               33,947                 26,277
+    Recovery (deferral) of Electric Energy and Gas Costs - net                                 15,231                (36,344)
+    Provision for Deferred Income Taxes - net                                                 (14,174)                29,609
+    Investment Tax Credits - net                                                               (9,384)                (9,486)
+    Allowance for Funds Used During Construction - Debt                                        (7,666)                (7,762)
+    Changes in certain current assets and liabilities:
+     Net decrease in Accounts Receivable and Unbilled Revenues                                160,912                146,124
+     Net decrease in Inventory - Fuel and Materials and Supplies                               88,645                 59,731
+     Net decrease in Accounts Payable                                                         (85,849)               (73,157)
+     Net change in Prepaid / Other Accrued Taxes                                             (301,407)              (279,499)
+     Net change in Other Current Assets and Liabilities                                      (102,873)               (12,712)
+    Other                                                                                     (19,050)                 6,606
+                                                                                          -----------             ----------
+       Net cash provided by operating activities                                              288,893                444,106
+                                                                                          -----------             ----------
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Additions to Utility Plant, excluding AFDC                                                 (229,327)              (218,426)
+  Net increase in Long-Term Investments                                                        (4,419)               (32,377)
+  Contribution to Decommissioning Funds and Other Special Funds                               (27,655)               (13,444)
+  Cost of Plant Removal - net                                                                 (16,241)               (13,827)
+  Other                                                                                             4                    (92)
+                                                                                          -----------             ----------
+       Net cash used in investing activities                                                 (277,638)              (278,166)
+                                                                                          -----------             ----------
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Net increase in Short-Term Debt                                                             223,940                169,613
+  Issuance of Long-Term Debt                                                                  278,720                368,324
+  Redemption of Long-Term Debt                                                               (276,245)              (414,010)
+  Long-Term Debt Issuance and Redemption Costs                                                 (1,339)               (38,573)
+  Redemption of Preferred Stock                                                               (93,869)              (211,602)
+  Net (Loss) Gain on Preferred Stock Redemptions                                               (3,172)                18,493
+  Issuance of Preferred Securities of Subsidiaries                                             95,000                208,000
+  Cash Dividends Paid                                                                        (259,271)              (271,389)
+  Other                                                                                        (3,238)                (6,509)
+                                                                                          -----------             ----------
+       Net cash used in financing activities                                                  (39,474)              (177,653)
+                                                                                          -----------             ----------
+Net decrease in Cash and Cash Equivalents                                                     (28,219)               (11,713)
+Cash and Cash Equivalents at Beginning of Period                                               47,639                 32,373
+                                                                                          -----------             ----------
+Cash and Cash Equivalents at End of Period                                                    $19,420                $20,660
+                                                                                          ===========             ==========
+
+Income Taxes Paid                                                                            $136,599               $142,751
+Interest Paid                                                                                $160,941               $214,403
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                              PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                           CONSOLIDATED STATEMENTS OF RETAINED EARNINGS
+                                        (Thousands of Dollars)
+                                             (Unaudited)
+
+                                                               Three Months Ended June 30,  Six Months Ended June 30,
+                                                               -------------------------    -------------------------
+                                                                   1997          1996           1997          1996
+                                                               -----------   -----------    -----------   -----------
+<S>                                                            <C>           <C>            <C>           <C>        
+Balance at Beginning of Period                                 $ 1,370,816   $ 1,411,839    $ 1,365,003   $ 1,365,915
+Add:
+  Net Income                                                        87,330       108,767        227,353       292,417
+                                                               -----------   -----------    -----------   -----------
+
+       Total                                                     1,458,146     1,520,606      1,592,356     1,658,332
+                                                               -----------   -----------    -----------   -----------
+
+Deduct:
+  Cash Dividends on Common Stock                                   125,300       126,200        252,100       256,400
+  Preferred Stock, at required rates                                 3,299         7,463          7,171        14,989
+  Preferred Securities Issuance Expenses                                77         6,509          3,238         6,509
+                                                               -----------   -----------    -----------   -----------
+
+       Total Deductions                                            128,676       140,172        262,509       277,898
+                                                               -----------   -----------    -----------   -----------
+
+Net Loss (Gain) on Preferred Stock Redemptions                       2,795       (18,493)         3,172       (18,493)
+                                                               -----------   -----------    -----------   -----------
+
+Balance at End of Period                                       $ 1,326,675   $ 1,398,927    $ 1,326,675   $ 1,398,927
+                                                               ===========   ===========    ===========   ===========
+
+
+
+
+<FN>
+See Notes to Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+<PAGE>
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Note 1.  Basis of Presentation
+
+     The financial statements included herein have been prepared pursuant to the
+rules and regulations of the Securities and Exchange  Commission (SEC).  Certain
+information  and note  disclosures  normally  included in  financial  statements
+prepared in accordance with generally accepted  accounting  principles have been
+condensed or omitted  pursuant to such rules and  regulations.  However,  in the
+opinion of  management,  the  disclosures  are adequate to make the  information
+presented not misleading.  These financial  statements and Notes to Consolidated
+Financial  Statements  (Notes)  thereto should be read in  conjunction  with the
+respective  Registrant's Notes contained in the 1996 Annual Report on Form 10-K.
+The Notes contained herein update and supplement  matters  discussed in the 1996
+Annual Report on Form 10-K.
+
+     The  unaudited  financial   information  furnished  herewith  reflects  all
+adjustments  which  are,  in the  opinion  of  management,  necessary  to a fair
+statement of the results for the interim periods presented.
+
+Note 2.  Rate Matters
+
+     Interim Competition Transition Charge (ICTC)
+
+     On April 24, 1997, the New Jersey Board of Public  Utilities (BPU) issued a
+generic order to investigate the policy issues related to whether  customers who
+cease to receive  electric  service from a utility and go to on-site  generation
+should be charged an exit fee.  As a result,  PSE&G's  petition  and the motions
+concerning PSE&G's September 1996 ICTC filing to address this situation has been
+placed in abeyance pending the conclusion of the generic  proceeding.  PSE&G and
+other interested  parties presented  testimony at the public hearing held by the
+BPU under the generic  proceeding on June 19, 1997.  The matter  continues to be
+reviewed by the BPU within the New Jersey Energy Master Plan  proceeding.  PSE&G
+cannot predict the outcome of this proceeding.
+
+     Demand Side Adjustment Factor (DSAF)
+
+     On February 24, 1997,  PSE&G filed a motion with the BPU  requesting a $151
+million increase for its DSAF to reflect  increases in the costs associated with
+PSE&G's Demand Side  Management  (DSM)  Programs.  The increase was requested to
+become effective on May 1, 1997 and continue through December 31, 1998. On March
+26, 1997, this matter was transferred to the Office of Administrative  Law (OAL)
+for hearing.  A hearing has been scheduled before the OAL beginning on September
+17, 1997. PSE&G cannot predict the outcome of this proceeding.
+
+     Remediation Adjustment Charge (RAC)
+
+     On July 30, 1997,  the BPU approved  the  recovery of  remediation  program
+costs incurred during the period August 1, 1995 through July 31, 1996 on a final
+basis.  Also on this  date,  PSE&G  filed a motion  with the BPU  requesting  an
+increase  of $6.8  million  in its RAC in order  to  recover  remediation  costs
+incurred  during the period  August 1, 1996 through July 31, 1997.  PSE&G cannot
+predict the outcome of this proceeding.
+
+     Postretirement Benefits Other Than Pensions (OPEB)
+
+     On July 8, 1997,  PSE&G filed its Phase II Petition with the BPU to resolve
+the regulatory and rate issues associated with Statement of Financial Accounting
+Standards No. 106 "Employers' Accounting for Postretirement  Benefits Other Than
+Pensions"  (SFAS 106).  The petition  requests the BPU to recognize that current
+base rates are  sufficient to recover  PSE&G's  accrued and deferred OPEB costs.
+This  petition  was in response  to a January 8, 1997 BPU Order which  adopted a
+Stipulation of the parties for determining accrual rate recognition under one of
+the rate mechanisms  established in the BPU's Generic  Proceeding,  initiated on
+August 1, 1996. PSE&G cannot predict the outcome of this proceeding.
+
+<PAGE>
+
+     New Jersey Gross Receipts and Franchise Tax (NJGRT)
+
+     Legislation was approved and will become effective on January 1, 1998 which
+repeals the NJGRT  collected by utilities  from their  customers and replaces it
+with a  combination  of corporate  business  tax,  state sales and use tax and a
+transitional  tax assessment  which will be phased out over five years.  The new
+tax structure is expected to improve the competitive position of PSE&G vis-a-vis
+non-utility  energy  providers  in New Jersey who are  currently  not subject to
+NJGRT.
+
+Note 3.  Commitments and Contingent Liabilities
+
+     Hazardous Waste
+
+     Certain Federal and State laws authorize the U.S. Environmental  Protection
+Agency (EPA) and the New Jersey Department of Environmental  Protection (NJDEP),
+among other agencies,  to issue orders and bring  enforcement  actions to compel
+responsible parties to investigate and take remedial actions at any site that is
+determined  to present an imminent and  substantial  danger to the public or the
+environment  because of an actual or threatened release of one or more hazardous
+substances.  Because of the nature of PSE&G's business, including the production
+of electricity,  the distribution of gas and, formerly,  the manufacture of gas,
+various by-products and substances are or were produced or handled which contain
+constituents classified as hazardous.  PSE&G generally provides for the disposal
+or processing  of such  substances  through  licensed  independent  contractors.
+However,  these  statutory  provisions  impose joint and several  responsibility
+without regard to fault on all responsible parties,  including the generators of
+the hazardous  substances,  for certain  investigative  and remediation costs at
+sites where these  substances  were  disposed  of or  processed.  PSE&G has been
+notified  with  respect to a number of such sites and the  remediation  of these
+potentially  hazardous sites is receiving attention from the government agencies
+involved.  Generally,  actions directed at funding such site  investigations and
+remediation  include  all  suspected  or known  responsible  parties.  Except as
+discussed below with respect to its Manufactured Gas Plant  Remediation  Program
+(Remediation Program), Enterprise and PSE&G do not expect their expenditures for
+any such site to have a material effect on their financial condition, results of
+operations and net cash flows.
+
+     PSE&G Manufactured Gas Plant Remediation Program
+
+     In 1988,  NJDEP  notified  PSE&G that it had identified the need for PSE&G,
+pursuant  to  a  formal  arrangement,  to  systematically  investigate  and,  if
+necessary,  resolve environmental concerns extant at PSE&G's former manufactured
+gas plant sites. To date,  NJDEP and PSE&G have identified 38 such sites.  PSE&G
+is currently  working with NJDEP under a program to assess,  investigate and, if
+necessary,  remediate  environmental  concerns at these sites.  The  Remediation
+Program  is  periodically  reviewed  and  revised by PSE&G  based on  regulatory
+requirements,  experience with the Remediation Program and available remediation
+technologies.   The  cost  of  the  Remediation  Program  cannot  be  reasonably
+estimated,  but  experience to date indicates that costs of at least $20 million
+per year  could be  incurred  over a period  of more  than 30 years and that the
+overall cost could be material to Enterprise  and PSE&G's  financial  condition,
+results of operations and net cash flows (see Rate Matters).
+
+Note 4.  Financial Instruments and Risk Management
+
+
+     Enterprise's  operations give rise to exposure to market risks from changes
+in commodity prices,  interest rates, foreign exchange rates and security prices
+of investments.  Enterprise's policy is to use derivative financial  instruments
+for the purpose of managing  market risk  consistent with its business plans and
+prudent practices.
+
+     Natural Gas Hedging
+
+     Through June 30, 1997, Energis Resources  Incorporated  (Energis Resources)
+entered into futures contracts to buy an aggregate of 7,280,000 mmbtu of natural
+gas at an  average  price  of $2.13  per  mmbtu  related  to  fixed-price  sales
+commitments.  Such contracts,  together with physical purchase contracts, hedged
+approximately 89% of its fixed-price sales commitments at June 30, 1997. Energis
+Resources had a deferred unrealized hedge gain of $0.9 million at June 30, 1997.
+
+<PAGE>
+
+
+     Interest Rate Swap
+
+     CEA Americas Operating Company (CEA-AOC),  an indirect 90% owned subsidiary
+of Community Energy Alternatives  Incorporated  (CEA),  entered into an interest
+rate borrowing on June 2, 1997 to swap floating rate  borrowings into fixed rate
+borrowings.  The interest differential to be received or paid under the interest
+rate swap  agreement is accrued over the life of the  agreement as an adjustment
+to the interest expense of the related borrowing. The swap terminates on May 28,
+1999.
+
+     The notional amount and interest rates are as follows:
+
+Pay-fixed swap
+      Notional amount                                  $43,522,000
+      Pay rate                                               6.65%
+      Average receive rate                                   5.69%
+      June 30, 1997 receive rate                             5.69%
+      Receive rate index:  Libor
+
+Note 5.  Discontinued Operations
+
+     Prior year operating results of Energy Development Corporation (EDC) are
+summarized below:
+
+                                   Three Months Ended        Six Months Ended
+                                      June 30, 1996           June 30, 1996
+                                 ----------------------   ----------------------
+
+                                 (Thousands of Dollars)   (Thousands of Dollars)
+Revenues                               $ 58,914                 $126,259
+Operating income                          4,163                   22,457
+Earnings before income taxes             (3,638)                   9,062
+Income taxes                             (2,742)                   1,308
+Net income                                 (896)                   7,754
+
+
+
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     The  Notes  to   Consolidated   Financial   Statements  of  Enterprise  are
+incorporated  herein  by  reference  insofar  as they  relate  to PSE&G  and its
+subsidiaries:
+
+         Note 1.    Basis of Presentation
+         Note 2.    Rate Matters
+         Note 3.    Commitments and Contingent Liabilities
+
+
+<PAGE>
+
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                 ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+     Following  are the  significant  changes  in or  additions  to  information
+reported in the Public Service Enterprise Group  Incorporated  (Enterprise) 1996
+Annual Report on Form 10-K affecting the  consolidated  financial  condition and
+the results of operations of Enterprise and its  subsidiaries.  This  discussion
+refers to the Consolidated  Financial Statements  (Statements) and related Notes
+of Enterprise and should be read in conjunction with such Statements and Notes.
+
+Results of Operations
+
+     Earnings  per share of  Enterprise  common  stock for the  quarter  and six
+months ended June 30, 1997 were $0.39 and $0.99, respectively,  down 29% and 26%
+compared to the same periods in 1996.
+
+     Earnings  per share for the  quarter  and six months  ended  June 30,  1997
+decreased  primarily  due to lower  electric  and gas  sales by  Public  Service
+Electric and Gas Company (PSE&G) resulting from  considerably  cooler weather in
+May and June 1997, as well as milder winter  weather during 1997, the settlement
+of a  lawsuit  filed by two of the  co-owners  of the Salem  Nuclear  Generating
+Station  (Salem),   higher  administrative  costs  attributable  to  legal  fees
+associated with the settlement and a gain in the second quarter of 1996 from the
+repurchase of a portion of PSE&G's  outstanding  cumulative  preferred  stock at
+discounts to par. These decreases were partially offset by lower 1997 operations
+and maintenance  expenses at Hope Creek Nuclear  Generating Station (Hope Creek)
+and Salem.
+
+     Enterprise  Diversified  Holdings  Incorporated's  (EDHI)  contribution  to
+earnings  decreased for the quarter and six months ended June 30, 1997 primarily
+due to lower Public Service Resources  Corporation  (PSRC) earnings in 1997 as a
+result of  leveraged  buy-out fund gains  realized in 1996 and higher  operating
+expenses of Energis Resources Incorporated (Energis Resources).
+
+PSE&G - Revenues
+
+     Electric
+
+                                Increase (Decrease)       Increase (Decrease)
+                               --------------------      ---------------------
+                                Three Months Ended         Six Months Ended
+                                    June 30,                   June 30,
+                                 1997 vs. 1996               1997 vs. 1996
+                               --------------------      -----------------------
+                               (Millions of Dollars)     (Millions of Dollars)
+Kilowatt-hour revenues              $  (62)                   $   (84)
+Recovery of energy costs                30                         61
+Non-margin revenues (A)                 (8)                       (17)
+Other operating revenues                (3)                        (2)
+                               --------------------      -----------------------
+      Total Electric Revenues       $  (43)                   $   (42)
+                               =====================     ======================
+
+     Revenues  decreased  $43  million  or 4.4% and $42  million or 2.2% for the
+quarter  and six  months  ended June 30,  1997,  respectively,  from  comparable
+periods in 1996.  These decreases were primarily due to cooler spring and summer
+weather in 1997,  and a change in estimates  of unbilled  revenue as a result of
+refinements to PSE&G's  methodology,  partially offset by increased energy sales
+to other utilities and to wholesale customers.
+
+
+<PAGE>
+     Gas
+
+                                Increase (Decrease)       Increase (Decrease)
+                               --------------------      ---------------------
+                                Three Months Ended         Six Months Ended
+                                    June 30,                   June 30,
+                                 1997 vs. 1996               1997 vs. 1996
+                               --------------------      ---------------------
+                               (Millions of Dollars)     (Millions of Dollars)
+Therm revenues                      $   40                    $   27 
+Recovery of fuel costs                  (5)                      (36)
+Non-margin revenues (A)                 (9)                      (26)
+Other operating revenues                 1                        (2)
+                               ---------------------      ---------------------
+       Total Gas Revenues           $   27                    $  (37)
+                               =====================     =====================
+
+     Revenues  increased $27 million or 8.9% for the quarter ended June 30, 1997
+over the  comparable  period of 1996  primarily due to cooler weather in May and
+June of 1997 and a change  in  estimates  of  unbilled  revenue  as a result  of
+refinements to PSE&G's  methodology.  Revenues decreased $37 million or 3.3% for
+the six months ended June 30, 1997 over the comparable  period of 1996 primarily
+due to a lower recovery of fuel costs and mild winter weather in 1997.
+
+     (A)   Non-margin  revenues  primarily  reflect  recoveries  for Demand Side
+           Management (DSM) Program costs,  uncollectibles and NJ Gross Receipts
+           and Franchise Taxes (NJGRT).
+
+PSE&G - Expenses
+
+     Fuel for Electric Generation and Interchanged Power
+
+     Fuel for Electric  Generation and Interchanged  Power increased $27 million
+or 12.4% and $59 million or 13.7% for the quarter and six months  ended June 30,
+1997,  respectively,  from the  comparable  1996  periods.  The  increases  were
+primarily due to an increase in energy sales to other utilities and to wholesale
+customers.  Due to the  operation of the Electric  Levelized  Energy  Adjustment
+Clause (LEAC) mechanism, variances in fuel revenues and expenses offset, with no
+direct  effect on earnings.  However,  under the New Jersey  Energy Master Plan,
+future  changes in  electric  fuel and  replacement  power  costs  could  impact
+earnings (see Competitive Environment).
+
+     Other Operation and Maintenance Expenses
+
+     Other operation and maintenance  expenses  decreased $6 million or 2.0% and
+$55  million  or 8.4% for the  quarter  and six  months  ended  June  30,  1997,
+respectively, from the comparable 1996 periods. The decreases were primarily due
+to Hope  Creek's  extended  refueling  outage  in 1996 and  lower  1997  restart
+activity expenses at Salem.
+
+     Net (Loss) Gain on Preferred Stock Redemptions
+
+     Net (Loss) Gain on Preferred  Stock  Redemptions  decreased $21 million and
+$22 million for the quarter and six months  ended June 30,  1997,  respectively,
+from the  comparable  1996 periods.  The decreases  were primarily due to an $18
+million net gain on the repurchase of certain of PSE&G's outstanding  cumulative
+preferred stock at discounts to par in the second quarter of 1996.
+
+
+
+<PAGE>
+
+
+EDHI - Net Income
+
+                                Increase (Decrease)       Increase (Decrease)
+                               --------------------      ---------------------
+                                Three Months Ended         Six Months Ended
+                                    June 30,                   June 30,
+                                 1997 vs. 1996               1997 vs. 1996
+                               --------------------      ---------------------
+                               (Millions of Dollars)     (Millions of Dollars)
+PSRC                                $   (2)                   $   (8)
+CEA                                      -                         2
+Energis Resources                       (3)                       (6)
+EGDC                                     -                         1
+                               ---------------------     ----------------------
+Continuing Operations                   (5)                      (11)
+Discontinued Operations - EDC            1                        (8)
+                               --------------------      -----------------------
+               Total                $   (4)                   $  (19)
+                               =====================     ======================
+
+     Continuing Operations
+
+     EDHI's income from  continuing  operations  was $10 million for the quarter
+and $14  million  for the six months  ended June 30,  1997,  respectively,  a $5
+million  and $11 million  decrease  from the  comparable  1996  periods.  PSRC's
+earnings  decreased  primarily due to leveraged  buy-out fund gains  realized in
+1996. The loss for Energis Resources increased due to higher  administrative and
+general  expenditures.  CEA's income  increased  due to improved  operations  of
+several projects.
+
+     Discontinued Operations
+
+     Energy Development Corporation (EDC) was sold on July 31, 1996.
+
+Liquidity and Capital Resources
+
+     Enterprise
+
+     Cash generated  from  operations is expected to provide the major source of
+funds for growth of the business.  Cash and cash equivalents totaled $54 million
+at June 30, 1997.
+
+     As of June 30,  1997,  Enterprise's  capital  structure  consisted of 48.8%
+common equity, 44.7% long-term debt and 6.5% preferred stock and other preferred
+securities.
+
+     Dividend  payments on Common  Stock were $1.08 per share and  totaled  $251
+million for the six months ended June 30,  1997.  The ability of  Enterprise  to
+declare and pay  dividends is contingent  upon its receipt of dividend  payments
+from its subsidiaries.  Since 1992, Enterprise has maintained a constant rate of
+dividend on its common stock. A key  Enterprise  objective is to keep its common
+stock dividend secure.
+
+     PSE&G
+
+     During the period January 1, 1997 through June 30, 1997,  PSE&G had utility
+plant  additions,  including  AFDC,  of  $237  million,  primarily  due  to  the
+replacement of the Salem Unit 1 steam generators.
+
+     PSE&G  expects  that it will be  able  to  internally  generate  all of its
+construction  and capital  requirements  over the next five years and reduce its
+debt  outstanding  by between $1 and $2 billion,  assuming  adequate  and timely
+recovery  of costs  including  any  costs  potentially  stranded  as a result of
+changes in  federal  and state  regulations,  as to which no  assurances  can be
+given. (See Competitive  Environment and Forward Looking  Statements below; Note
+2, Rate Matters;  Note 3,  Commitments  and  Contingent  Liabilities of Notes to
+Consolidated Financial Statements (Notes).)
+
+
+<PAGE>
+
+
+     EDHI
+
+     During the period January 1, 1997 through June 30, 1997,  PSRC entered into
+leveraged  leases of three power plants:  one located in the United  Kingdom and
+two in the Netherlands.  In July 1997, PSRC entered into an additional leveraged
+lease of a waste-to-energy facility located in the Netherlands. The aggregate of
+these investments is approximately $145 million.
+
+     During the period January 1, 1997 through June 30, 1997,  CEA's  investment
+activities included:
+
+          Acquisition of a 50% interest in a 200 MW natural gas-fired power
+          plant  located in Colombia,  South  America  which is currently  under
+          construction.
+
+          Acquisition  with a partner of a 90% interest in two  Argentinean
+          electric  distribution  companies  serving the Buenos Aires  province.
+          CEA's  indirect  ownership of the two  companies is 30%. Each of these
+          investments is considered an exempt foreign utility company.
+
+          Acquisition  of a 49% interest in an  operating  180 MW oil-fired
+          cogeneration plant located on the island of Oahu in Hawaii.
+
+          Acquisition of an 80% interest in a 30 MW coal-fired cogeneration
+          plant in the  Jiangsu  Province  of China  which  is  currently  under
+          construction.
+
+          Acquisition of 27% and 50% ownership  interests in energy  development
+          companies located in the Philippines and Thailand, respectively.
+
+     The aggregate of these investments is approximately $290 million,  of which
+$97 million was financed with nonrecourse debt.
+
+     Over the next several years,  EDHI and its subsidiaries will be required to
+refinance  a  portion  of their  maturing  debt in order to meet  their  capital
+requirements.  Any inability to extend or replace  maturing debt and/or existing
+agreements at current levels and interest  rates may affect future  earnings and
+result in an increase in EDHI's cost of capital.
+
+External Financings - PSE&G
+
+     PSE&G has New Jersey  Board of Public  Utilities  (BPU)  authority to issue
+approximately  $4.455 billion  aggregate amount of additional  Bonds/Medium-Term
+Notes  (MTNs)/Preferred  Stock/Preferred  Securities  through 1997 for refunding
+purposes.  Under its Mortgage,  PSE&G may issue new First and Refunding Mortgage
+Bonds (Bonds) against previous  additions and improvements  and/or retired Bonds
+provided  that its ratio of earnings  to fixed  charges is at least 2:1. At June
+30, 1997,  this  Mortgage  ratio was 2.92:1.  As of June 30, 1997,  the Mortgage
+would permit up to $3.200 billion aggregate  principal amount of new bonds to be
+issued against previous additions and improvements.
+
+     In February  1997,  PSE&G  Capital  Trust II, a special  purpose  statutory
+business  trust  controlled  by PSE&G,  issued $95  million of 8.125%  Quarterly
+Income Preferred Securities  (Quarterly Guaranteed Preferred Beneficial Interest
+in  PSE&G's  Subordinated  Debentures).  PSE&G  used  the  proceeds  to fund the
+redemption of the remaining  188,684 shares  outstanding of its 6.80% Cumulative
+Preferred Stock $100 par value at $102 per share in January 1997 and all 750,000
+shares of its 7.44%  Cumulative  Preferred  Stock $100 par value at $103.72  per
+share in June 1997.
+
+     In June 1997,  PSE&G issued $235 million of 6.50% Series XX Bonds due 2000.
+The proceeds were used primarily to refund the 8.50% Series LL Bonds due 2022.
+
+
+<PAGE>
+
+
+     The BPU has authorized  PSE&G to issue and have outstanding at any one time
+through  January 2, 1999, not more than $1.3 billion of short-term  obligations,
+consisting of commercial  paper and other  unsecured  borrowings  from banks and
+other  lenders.  On June 30,  1997,  PSE&G had $792 million of  short-term  debt
+outstanding.
+
+     To provide  liquidity for its commercial  paper  program,  PSE&G has a $650
+million one-year  revolving  credit  agreement  expiring in June 1998 and a $650
+million five-year  revolving credit agreement expiring in June 2002 with a group
+of commercial banks, which provide for borrowings of up to one year. On June 30,
+1997, there were no borrowings outstanding under these credit agreements.
+
+     PSE&G Fuel Corporation (Fuelco) has a $125 million commercial paper program
+to finance a 42.49% share of Peach Bottom  Atomic Power  Station  nuclear  fuel,
+supported by a $125 million  revolving  credit  facility  with a group of banks,
+which  expires on June 28,  2001.  PSE&G has  guaranteed  repayment  of Fuelco's
+respective  obligations  under this  program.  As of June 30,  1997,  Fuelco had
+commercial paper of $70 million outstanding under such program.
+
+External Financings - EDHI
+
+     PSEG  Capital  Corporation's   (Capital)  Medium-Term  Note  (MTN)  program
+provides for an aggregate  principal  of up to $650  million.  At June 30, 1997,
+Capital had total debt  outstanding  of $388 million,  including $325 million of
+MTNs.  In July 1997,  Capital  issued an  additional  $100  million of MTNs with
+interest rates of approximately 7%.
+
+     As of June 30, 1997,  Enterprise Capital Funding Corporation  (Funding) had
+$128  million  of debt  outstanding.  The MTN and  Funding  proceeds  were  used
+primarily to fund the investments of PSRC and CEA.
+
+     EDHI,  PSRC and CEA are  subject  to  restrictive  business  and  financial
+covenants contained in existing debt agreements.  EDHI is required to maintain a
+debt to equity ratio of no more than 2.00:1 and a twelve-months  earnings before
+interest  and taxes (EBIT)  coverage  ratio of at least  1.50:1.  As of June 30,
+1997,  EDHI had a  consolidated  debt to equity ratio of 1.45:1.  For the twelve
+months ended June 30, 1997, the EBIT coverage  ratio,  as defined to exclude the
+effects  of EGDC and the 1996 gain on the sale of EDC,  was  2.26:1.  Compliance
+with applicable  financial  covenants will depend upon future financial position
+and levels of earnings, as to which no assurance can be given.
+
+Nuclear Operations
+
+     PSE&G's Salem Units 1 and 2 were taken out of service in the second quarter
+of 1995. The Salem Restart Plan,  which  encompassed a comprehensive  review and
+improvement of personnel,  process and equipment issues,  has been completed for
+Salem Unit 2. On August 6, 1997,  the NRC authorized the restart of Salem 2. The
+NRC stated that it would continue to closely monitor  activities at Salem. Three
+planned  hold  points  were  established  and the NRC  plans to  perform a final
+assessment after  approximately two months of full power  operations.  The NRC's
+June 9, 1995 Confirmatory  Action letter was amended to include the planned hold
+points and the final assessment. The restart process is underway.
+
+     Installation  of Salem Unit 1 steam  generators  has been completed and the
+unit is  expected  to return to service  around the end of the year.  Restart of
+Salem Unit 1 is also subject to NRC  approval.  The  inability  to  successfully
+return these units to continuous,  safe operation could have a material  adverse
+impact on the financial  condition,  results of operations and net cash flows of
+Enterprise and PSE&G (see Forward Looking Statements).
+
+
+<PAGE>
+
+
+Competitive Environment
+
+     New Jersey Energy Master Plan
+
+     On July 15, 1997,  PSE&G filed a proposal  regarding  competition and rates
+with the BPU in  accordance  with the April 30, 1997 final  report of the BPU on
+Phase II of the New Jersey Energy Master Plan (Energy  Master Plan).  The BPU is
+expected to take at least a year to review and hold  public  hearings on PSE&G's
+proposal,  rendering a decision by September  1998.  Enterprise and PSE&G cannot
+predict the outcome of this matter.  PSE&G's  proposal in response to the Energy
+Master Plan includes the following key elements:
+
+          A decrease in rates of between 5% and 10%,  effective January 1, 1999,
+         dependent upon BPU approval of the proposal's several key elements.
+
+          Allow all  customers  in all classes to register  for their  choice of
+         energy supplier  beginning October 1, 1998. Those customers  choosing a
+         supplier  other  than  PSE&G  would be  permitted  to switch to the new
+         supplier effective January 1, 1999.
+
+          A  transition  period of seven years with basic  tariff  rates  capped
+         during the period.  During this transition period, PSE&G would maintain
+         responsibility for system reliability of energy and capacity supply.
+
+          Recovery of transition costs through securitization,  restructuring of
+         certain non-utility  generation  contracts and depreciation  accounting
+         changes.
+
+          Recovery of societal mandated costs,  such as nuclear  decommissioning
+         and demand side management expenses, would be adjusted based on changes
+         in these costs.
+
+          Discontinuation  of PSE&G's LEAC  effective  December 31, 1998.  PSE&G
+         would be  responsible  for all  risks  associated  with  changing  fuel
+         prices,  changes in operations and maintenance  expenses and mitigation
+         of the transition costs of non-securitized generation production assets
+         within the price capped rates.
+
+          Transfer of PSE&G's nuclear and fossil generation  assets, at net book
+         value,  to a separate entity  functionally  independent of PSE&G at the
+         conclusion of the transition period.
+
+          PSE&G  would  file a rate  case or a plan  for a form  of  alternative
+         regulation for its electric distribution delivery service functions one
+         year prior to the end of the transition period.
+
+          At the end of the  transition  period,  responsibility  for generation
+         reliability  would shift to the  marketplace and PSE&G would retain its
+         obligation  to  connect  and  deliver  energy  and  would  offer  basic
+         generation service.
+
+     Stranded Costs
+
+     PSE&G believes its identifiable  potentially stranded costs associated with
+fossil  and  nuclear  generation  stations  is $3.9  billion,  based on  certain
+assumptions,  which include  market prices of  electricity  and  performance  of
+generating  units.  Changes in these and other factors could alter the amount of
+such stranded costs.  PSE&G is proposing to refinance,  through  securitization,
+$2.5  billion of these  costs,  with the  remainder  to be  mitigated,  in part,
+through depreciation changes during the transition period. In addition, PSE&G is
+seeking to restructure  certain of its Non-utility  Generators (NUGs) contracts,
+which are estimated as being $1.5 billion above assumed market prices. Under the
+Energy Master Plan, the cost of power under these contracts would be recoverable
+in rates (see Forward Looking Statements).
+
+     Securitization
+
+     PSE&G is proposing to securitize $2.5 billion of the  potentially  stranded
+costs  through the issuance of  transition  bonds with an  estimated  term of 15
+years. The use of  securitization as a means to reduce rates depends on enabling
+legislation,  which the New Jersey legislature is not expected to consider prior
+to the second  quarter of 1998. If  legislative  approval is not granted,  PSE&G
+would alter its proposal and projected rate reduction range.
+
+     Depreciation
+
+     PSE&G is proposing to lengthen the  depreciable  lives of its  distribution
+assets,  which are  expected  to  remain  regulated,  from 28 to 45  years,  and
+amortize  the excess of the  calculated  theoretical  depreciation  reserves for
+distribution  assets over the seven year transition  period.  This adjustment is
+expected  to  result  in  an  annual   depreciation   expense   associated  with
+distribution  assets  that  would  decline  by $94  million  a year  during  the
+transition period and $32 million a year thereafter.
+
+     Accounting for the Effects of Regulation
+
+     Currently,  PSE&G accounts for the effects of regulation in accordance with
+the Statement of Financial  Accounting  Standards (SFAS) No. 71, "Accounting for
+the Effects of Certain Types of  Regulation"  (SFAS 71). In accordance  with the
+provisions of SFAS 71, PSE&G defers certain expenses  (regulatory assets) on the
+basis that they will be recovered from customers through the ratemaking process.
+The  regulatory  changes  proposed in the Energy Master Plan will create a shift
+from regulated pricing to competitive market pricing.  These proposed regulatory
+changes  will limit  Enterprise's  and  PSE&G's  ability to continue to meet the
+applicable criteria of SFAS 71 for the generation portion of PSE&G's business.
+
+     In  response  to  the  continuing  deregulation  of  the  electric  utility
+industry,  the Financial Accounting Standards Board (FASB), through its Emerging
+Issues Task Force (EITF), has undertaken an initiative  designated as EITF Issue
+No.  97-4,  "Deregulation  of the Pricing of  Electricity".  The purpose of this
+initiative is to develop  guidance for the  application of SFAS 101,  "Regulated
+Enterprises-Accounting  for the Discontinuation of Application of FASB Statement
+No. 71". SFAS 101  addresses how an enterprise  that ceases to meet the criteria
+for  application of SFAS 71 to all or part of its operations  should report that
+event in its general-purpose financial statements.
+
+     In May and July 1997,  the EITF met to  deliberate  EITF Issue No. 97-4. In
+its discussions, the EITF reached a consensus. First, the EITF concluded that an
+enterprise  is  required  to  discontinue  the  application  of  SFAS 71 for the
+deregulated  portion of its business once  legislation is passed or a rate order
+is issued,  which contains a plan to transition from regulated pricing to market
+pricing.  In addition,  the EITF  concluded  that an enterprise  may continue to
+carry on its books the  regulatory  assets  and  regulatory  liabilities  of the
+portion  of the  business  to  which  SFAS 101 is being  applied,  provided  the
+regulators  have  approved a regulated  cash flow  stream.  This also applies to
+costs or  obligations  not yet  recorded  as  regulatory  assets or  liabilities
+regardless  of  when  they  are  incurred.  The  discontinuance  of SFAS 71 also
+requires an enterprise to evaluate the impact of SFAS 121,  "Accounting  for the
+Impairment of Long-Lived  Assets and for  Long-Lived  Assets to be Disposed Of".
+SFAS 121 requires that regulatory  assets be written off once they are no longer
+probable  of recovery  and that  impairment  losses be  recorded  for long lived
+assets when related  future cash flows are less than the  carrying  value of the
+assets.
+
+     The impact to Enterprise and PSE&G will be determined  based on the outcome
+of PSE&G's  proposal  filed in response  to the Energy  Master  Plan.  Under its
+proposal,  PSE&G would have the  opportunity,  through  various  mechanisms,  to
+recover its electric generation related potentially  stranded costs.  Management
+cannot  predict  the impact of EITF Issue No. 97-4 on  Enterprise's  and PSE&G's
+future results of operations and financial condition.  However, depending on the
+legislative and regulatory  actions taken in New Jersey with respect to electric
+utility deregulation, the impact could be material.
+
+     Impact of New Accounting Pronouncements
+
+     In March 1997, FASB issued SFAS 128,  "Earnings per Share" (SFAS 128) which
+is effective for financial  statements  issued after December 15, 1997. SFAS 128
+supersedes  Accounting Principles Board Opinion No. 15 (APB 15) and replaces the
+presentation  of Primary EPS with a presentation  of Basic EPS. It also requires
+presentation  of Basic and Diluted EPS on the income  statement for all entities
+with  complex  capital  structures.  The adoption of SFAS 128 is not expected to
+have a material impact on the financial condition, results of operations and net
+cash flows of Enterprise and PSE&G.
+
+     In June 1997, the FASB issued SFAS 130,  "Reporting  Comprehensive  Income"
+(SFAS 130),  which is effective for fiscal years  beginning  after  December 15,
+1997. SFAS 130 requires that all items that are required to be recognized  under
+accounting  standards as  components  of  comprehensive  income be reported in a
+financial  statement  that is  displayed  with  the  same  prominence  as  other
+financial  statements.  It also requires that an  enterprise  classify  items of
+other comprehensive  income by their nature in a financial statement and display
+the accumulated balance of other  comprehensive  income separately from retained
+earnings and additional  paid-in capital in the equity section of a statement of
+financial position.
+
+     Also in June 1997, FASB issued SFAS 131,  "Disclosures about Segments of an
+Enterprise and Related Information" (SFAS 131), which is effective for financial
+statements for periods  beginning  after December 15, 1997.  This Statement need
+not be  applied to  interim  financial  statements  in the  initial  year of its
+application. SFAS 131 supersedes Statement of Financial Accounting Standards No.
+14, "Financial  Reporting for Segments of a Business  Enterprise" (SFAS 14), and
+requires that  companies  disclose  segment data based on how  management  makes
+decisions   about   allocating   resources  to  segments  and  measuring   their
+performance.
+
+PSE&G
+
+     The information  required by this item is incorporated  herein by reference
+to the following portions of Enterprise's  Management's  Discussion and Analysis
+of  Financial  Condition  and Results of  Operations,  insofar as they relate to
+PSE&G  and its  subsidiaries:  Results  of  Operations;  Liquidity  and  Capital
+Resources;  External  Financings;  Nuclear Operations;  Impact of New Accounting
+Pronouncements and Competitive Environment.
+
+Forward Looking Statements
+
+     The Private  Securities  Litigation Reform Act of 1995 (the Act) provides a
+new "safe harbor" for  forward-looking  statements to encourage such disclosures
+without the threat of litigation  providing  those  statements are identified as
+forward-looking  and  are  accompanied  by  meaningful,   cautionary  statements
+identifying  important  factors  that could  cause the actual  results to differ
+materially  from those  projected in the statement.  Forward-looking  statements
+have been made in this report. Such statements are based on management's beliefs
+as  well  as  assumptions  made  by  and  information   currently  available  to
+management.  When used  herein,  the  words  "will",  "anticipate",  "estimate",
+"expect",   "objective"  and  similar   expressions  are  intended  to  identify
+forward-looking  statements.  In addition to any  assumptions  and other factors
+referred to  specifically in connection  with such  forward-looking  statements,
+factors  that  could  cause  actual  results  to differ  materially  from  those
+contemplated  in any  forward-looking  statements  include,  among  others,  the
+following:  deregulation and the unbundling of energy supplies and services;  an
+increasingly   competitive  energy  marketplace;   sales  retention  and  growth
+potential in a mature service territory and a need to contain costs;  ability to
+obtain adequate and timely rate relief,  cost recovery,  including the potential
+impact of stranded costs, and other necessary regulatory approvals;  federal and
+state  regulatory  actions;  costs  of  construction;   operating  restrictions,
+increased  cost  and   construction   delays   attributable   to   environmental
+regulations;  nuclear  decommissioning  and the availability of reprocessing and
+storage  facilities for spent nuclear fuel;  licensing and  regulatory  approval
+necessary for nuclear and other operating stations;  and credit market concerns.
+Enterprise  and PSE&G  undertake no obligation to publicly  update or revise any
+forward-looking  statements,  whether  as a result  of new  information,  future
+events or otherwise.  The foregoing review of factors pursuant to the Act should
+not be construed as  exhaustive  or as any  admission  regarding the adequacy of
+disclosures made by Enterprise and PSE&G prior to the effective date of the Act.
+
+
+
+<PAGE>
+
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                           PART II. OTHER INFORMATION
+
+
+Item 1.  Legal Proceedings
+
+     Certain  information  reported under Item 3 of Part I of  Enterprise's  and
+PSE&G's 1996 Annual Report to the SEC on Form 10-K is updated below.  References
+are to the related page of the Form 10-K.
+
+     (1)  Pages  17 and 25.  In July  1997  EPA  named  PSE&G  as a  Potentially
+          Responsible Party (PRP) with respect to its Harrison Gas Plant and its
+          Essex Generating Station under the Federal Comprehensive Environmental
+          Response,  Compensation  and  Liability  Act of 1980  (CERCLA)  at the
+          Passaic River Site. There are currently three PRPs named by EPA at the
+          site, and EPA has sent data requests to additional corporations. While
+          certain  remedial  activities  are ongoing,  a report  presenting  the
+          results  thereof is not expected until at least 1999. That report will
+          assess the  requirement  for  remediation  and,  if  determined  to be
+          required,   present  an  assessment  of  and   recommendation   for  a
+          remediation  alternative.  Total  costs  associated  with the  current
+          assessment and  feasibility  study at the site that have been incurred
+          by other parties are expected to approximate $30 million. PSE&G cannot
+          predict what,  if any,  action EPA or other PRPs may take with respect
+          to the  site  or,  in such  event,  what  contributions  PSE&G  may be
+          required to make to the costs of these initiatives.
+
+     (2) Page 24.  PSE&G and the three  other  co-owners  of Salem filed suit in
+         February 1996 in the U.S. District Court for the District of New Jersey
+         against  Westinghouse  Electric  Corporation   (Westinghouse)   seeking
+         damages to recover the cost of replacing the steam  generators at Salem
+         Units 1 and 2. The  suit  alleges  fraud  and  breach  of  contract  by
+         Westinghouse  in  the  sale,   installation   and  maintenance  of  the
+         generators.  In  April  1996,  Westinghouse  filed an  answer  and $2.5
+         million  counterclaim  for unpaid  work  related to  services at Salem.
+         PSE&G cannot predict the outcome of these proceedings.  Ernest H. Drew,
+         a Director  of  Enterprise,  but not of PSE&G  became  Chief  Executive
+         Officer - Industries and Technology  Group of  Westinghouse  on July 1,
+         1997.
+
+     In addition, see the following at the pages indicated:
+
+     (1)  Page 12.  Proceedings  before the BPU relating to PSE&G's  Remediation
+          Adjustment Charge (RAC) filed July 30, 1997, Docket No. GR97080573.
+
+     (2)  Page 12.  General  proceeding  before the BPU relating to Statement of
+          Financial  Accounting  Standards No. 106,  "Employers'  Accounting for
+          Postretirement  Benefits  Other than  Pensions"(SFAS-106),  Docket No.
+          ER97070470.
+
+Item 5.  Other Information
+
+     Certain information reported under Enterprise's and PSE&G's 1996 Annual and
+1997  Quarterly  Reports  to the SEC is  updated  below.  References  are to the
+related  pages of the Form  10-K  and the  first  quarter  10-Q as  printed  and
+distributed.
+
+Other State Regulatory Matters
+
+     Form 10-K, Page 4
+
+     In an Order dated June 25, 1997, the BPU determined to commence  management
+audits of all New Jersey electric utilities,  with the assistance of one or more
+consulting firms,  under the direction of its own audit staff. The audit process
+is to  include,  but not be limited  to,  focused  reviews of  electric  utility
+filings in response to the Energy Master Plan.
+
+
+<PAGE>
+
+
+Pennsylvania - New Jersey - Maryland Interconnection (PJM)
+
+     Form 10-K, Page 6, and First Quarter 10-Q, Page 24
+
+     On June 2, 1997, the PJM Member  Companies,  except for PECO Energy Company
+(PECO), filed a proposal with the Federal Energy Regulatory Commission (FERC) to
+reorganize PJM into an Independent System Operator (ISO). The proposal builds on
+PJM's December 31, 1996 filing with regard to energy market operation and design
+of transmission  tariffs.  The filing was made to meet a commitment made to FERC
+in the  December  31,  1996  filing.  On June 9, 1997,  PECO  filed a  competing
+proposal that continues to advocate a different  design of the energy market and
+transmission  tariffs  consistent  with their  December 31, 1996  filing.  PSE&G
+cannot predict what actions, if any, FERC may take on this matter.
+
+Air Pollution Control
+
+     Form 10-K, Page 15
+
+     In August  1997,  the New Jersey  Department  of  Environmental  Protection
+announced that it would be proposing  regulations to reduce Nitrogen Oxide (NOx)
+emissions in New Jersey by 90% from the 1990 level by 2003. At this time,  PSE&G
+cannot predict the impact such proposed  regulations  may have on its operations
+or any cost associated with compliance.
+
+Nuclear
+
+     On July 8, 1997, a predecisional  enforcement  conference was held with the
+NRC to discuss  apparent  violations at Salem.  These apparent  violations  were
+identified in May and June,  1997,  and concern  emergency  core cooling  system
+switchover and related residual heat removal system flow issues,  and Appendix R
+(fire protection) issues.  PSE&G cannot predict what further actions the NRC may
+take in this matter.
+
+     A predecisional  enforcement conference was held with the NRC on August 12,
+1997, to discuss apparent  violations at Hope Creek relating to the installation
+of cross-tie valves in the residual heat removal system at Hope Creek in 1994.
+PSE&G cannot predict what further actions the NRC may take in this matter.
+
+     PSE&G has been  advised by PECO that on July 17,  1997,  the NRC issued its
+periodic Systematic  Assessment of Licensee  Performance (SALP) Report for Peach
+Bottom Nuclear Generating Station (Peach Bottom) for the period October 15, 1995
+to June 7,  1997.  Peach  Bottom  achieved  ratings of "1" in the areas of Plant
+Operations,  Maintenance and Plant Support.  The area of Engineering  achieved a
+rating of "2". Overall,  the NRC observed excellent  performance at Peach Bottom
+during the assessment period.  The NRC stated that station  management  provided
+excellent oversight and control of engineering activities throughout the period.
+The NRC noted that, while overall  engineering  performance was good, there were
+several instances where operating procedures,  surveillances, and tests were not
+consistent with the design and licensing  bases.  PECO has advised PSE&G that it
+will continue to take actions to improve performance at Peach Bottom.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)  A listing of exhibits being filed with this document is as follows:
+
+
+<PAGE>
+
+
+Exhibit Number    Document
+
+     12           Computation of Ratios of Earnings to Fixed Charges plus
+                  Preferred Securities Dividend Requirements (Enterprise).
+
+     12(A)        Computation of Ratios of Earnings to Fixed Charges (PSE&G).
+
+     12(B)        Computation of Ratios of Earnings to Fixed Charges plus
+                  Preferred Securities Dividend Requirements (PSE&G).
+
+     27(A)        Financial Data Schedule (Enterprise)
+
+     27(B)        Financial Data Schedule (PSE&G)
+
+(b)  Reports on Form 8-K.
+       None
+
+
+<PAGE>
+
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrants  have duly  caused  these  reports to be signed on their  respective
+behalf by the undersigned thereunto duly authorized.
+
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+                                  (Registrants)
+
+                              By: PATRICIA A. RADO
+
+                                Patricia A. Rado
+                          Vice President and Controller
+                         (Principal Accounting Officer)
+
+Date: August 14, 1997
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+
+
+                                                                                                                     EXHIBIT 12
+                  PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+
+               COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+                 PLUS PREFERRED SECURITIES DIVIDEND REQUIREMENTS
+
+
+                                                                                                                  12 Months
+                                                                                                                    Ended
+                                                            YEARS ENDED DECEMBER 31,                              June 30,
+                                    ------------   ------------   ------------   -------------  -------------
+                                       1992           1993           1994            1995           1996            1997
+                                    ------------   ------------   ------------   -------------  ------------- ------------------
+                                                                      (Thousands of Dollars)
+<S>                                     <C>            <C>            <C>             <C>           <C>                 <C>    
+Earnings as Defined in Regulation S-K:
+Net Income (A)                          475,150        549,178        666,521         627,287       587,358             513,967
+Federal Income Taxes (B)                238,270        296,223        320,218         348,324       297,277             268,735
+Fixed Charges                           537,455        538,556        534,859         548,579       527,974             527,756
+                                    ------------   ------------   ------------   -------------  ------------  ------------------
+Earnings                              1,250,875      1,383,957      1,521,598       1,524,190     1,412,609           1,310,458
+                                    ============   ============   ============   =============  ============  ==================
+
+
+Fixed Charges as Defined in Regulation S-K (C):
+
+Total Interest Expense (D)              481,116        470,585        462,189         464,207       453,111             452,927
+Interest Factor in Rentals                9,591         11,090         12,120          11,956        11,490              11,363
+Subsidiaries' Preferred Securities
+    Dividend Requirements                    --             --          1,680          15,664        27,741              39,861
+Preferred Stock Dividends                31,907         38,114         40,467         33,762         23,161              15,343
+Adjustment to Preferred and
+  Preference Stock Dividends to
+  state on a pre-income tax basis        14,841         18,767         18,403         22,990         12,471               8,262
+                                    ------------   ------------   ------------   ------------   -----------   ------------------
+Total Fixed Charges                     537,455        538,556        534,859         548,579       527,974             527,756
+                                    ============   ============   ============   =============  ============  ==================
+
+Ratio of Earnings to Fixed Charges         2.33           2.57           2.84            2.78          2.68                2.48
+                                    ============   ============   ============   =============  ============  ==================
+
+</TABLE>
+
+
+
+(A)  Excludes 1993 cumulative effect of $5.4 million credit to income reflecting
+     a change in income taxes.
+
+(B)  Includes state income taxes and federal income taxes for other incomes.
+
+(C)  Fixed Charges represent (a) interest, whether expensed or capitalized,  (b)
+     amortization  of debt  discount,  premium and  expense,  (c) an estimate of
+     interest   implicit  in  rentals,   (d)   Preferred   Securities   Dividend
+     Requirements   of   subsidiaries,   and  (e)   Preferred   Stock   Dividend
+     Requirements,  increased to reflect the pre-tax  earnings  requirement  for
+     Public Service Enterprise Group Incorporated.
+
+(D)  Excludes  1992  interest  expense  on  decommissioning   costs  of  $5,208.
+     Effective January 1, 1992,  accounting was changed to follow Federal Energy
+     Regulatory Commission guidelines.
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+
+                                                                                                                 EXHIBIT 12 (A)
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+
+               COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+
+
+                                                                                                                   12 Months
+                                                                                                                     Ended
+                                                                                                                   June 30,
+                                    ------------  -------------  -------------   -------------  -------------
+                                       1992           1993           1994            1995           1996             1997
+                                    ------------  -------------  -------------   -------------  -------------   ----------------
+                                                                      (Thousands of Dollars)
+<S>                                     <C>            <C>            <C>            <C>             <C>                <C>    
+Earnings as Defined in
+Regulation S-K:
+Net Income                              475,936        614,868        659,406        616,964         535,071            470,007
+Federal Income Taxes (A)                223,782        307,414        301,447        325,737         267,619            244,390
+Fixed Charges                           411,493        401,046        408,045        418,825         437,812            444,024
+                                    ------------  -------------  -------------   ------------   ------------   -----------------
+Earnings                              1,111,211      1,323,328      1,368,898      1,361,526       1,240,502          1,158,421
+                                    ============  =============  =============   ============   =============  =================
+
+
+Fixed Charges as Defined in
+Regulation S-K (B)
+
+Total Interest Expense (C)              401,902        389,956        395,925        406,869         398,581            392,800
+Interest Factor in Rentals                9,591         11,090         12,120         11,956          11,490             11,363
+Subsidiaries' Preferred Securities
+    Dividend Requirements                    --             --             --             --          27,741             39,861
+                                    ------------  -------------  -------------   ------------   -------------  -----------------
+Total Fixed Charges                     411,493        401,046        408,045        418,825         437,812            444,024
+                                    ============  =============  =============   ============   =============  =================
+
+Ratio of Earnings to Fixed Charges         2.70           3.30           3.35           3.25            2.83               2.61
+                                    ============  =============  =============   ============   =============  =================
+
+</TABLE>
+
+
+(A)   Includes state income taxes and federal income taxes for other income.
+
+(B)   Fixed Charges represent (a) interest, whether expensed or capitalized, (b)
+      amortization  of debt  discount,  premium and expense,  (c) an estimate of
+      interest  implicit  in  rentals,  and (d)  Preferred  Securities  Dividend
+      Requirements of subsidiaries.
+
+(C)   Excludes  1992  interest  expense  on  decommissioning  costs  of  $5,208.
+      Effective January 1, 1992, accounting was changed to follow Federal Energy
+      Regulatory Commission guidelines.
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+                                                                                                                 EXHIBIT 12 (B)
+                     PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+
+               COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+                 PLUS PREFERRED SECURITIES DIVIDEND REQUIREMENTS
+
+
+                                                                                                                  12 Months
+                                                                                                                    Ended
+                                                             YEARS ENDED DECEMBER 31,                              June 30,
+                                    ------------  -------------  -------------   -------------  -------------
+                                       1992           1993           1994            1995           1996             1997
+                                    ------------  -------------  -------------   -------------  -------------  -----------------
+                                                                      (Thousands of Dollars)
+<S>                                     <C>            <C>            <C>             <C>            <C>                <C>    
+Earnings as Defined in Regulation S-K:
+Net Income                              475,936        614,868        659,406         616,964        535,071            470,007
+Federal Income Taxes (A)                223,782        307,414        301,447         325,737        267,619            244,390
+Fixed Charges                           411,493        401,046        408,045         418,825        437,812            444,024
+                                    ------------  -------------  -------------   -------------  ------------   ----------------
+Earnings                              1,111,211      1,323,328      1,368,898       1,361,526      1,240,502          1,158,421
+                                    ============  =============  =============   =============  =============  ================
+
+Fixed Charges as Defined in Regulation S-K (B):
+
+Total Interest Expense (C)              401,902        389,956        395,925         406,869        398,581            392,800
+Interest Factor in Rentals                9,591         11,090         12,120          11,956         11,490             11,363
+Subsidiaries' Preferred Securities
+    Dividend Requirements                    --             --             --              --         27,741             39,861
+Preferred Stock Dividends                31,907         38,114         42,147          49,426         23,161             15,343
+Adjustment to Preferred and
+  Preference Stock Dividends to
+  state on a pre-income tax basis        14,768         18,843         18,763          23,428         12,043              8,262
+                                    ------------  -------------  -------------   -------------  ------------   -----------------
+Total Fixed Charges                     458,168        458,003        468,955         491,679        473,016            467,629
+                                    ============  =============  =============   =============  =============  =================
+
+Ratio of Earnings to Fixed Charges         2.43           2.89           2.92            2.77           2.62               2.48
+                                    ============  =============  =============   =============  =============  =================
+
+</TABLE>
+
+
+(A)  Includes state income taxes and federal income taxes for other income.
+
+(B)  Fixed Charges represent (a) interest, whether expensed or capitalized,  (b)
+     amortization  of debt  discount,  premium and  expense,  (c) an estimate of
+     interest   implicit  in  rentals,   (d)   Preferred   Securities   Dividend
+     Requirements   of   subsidiaries,   and  (e)   Preferred   Stock   Dividend
+     Requirements,  increased to reflect the pre-tax  earnings  requirement  for
+     Public Service Electric and Gas Company.
+
+(C)  Excludes  1992  interest  expense  on  decommissioning   costs  of  $5,208.
+     Effective January 1, 1992,  accounting was changed to follow Federal Energy
+     Regulatory Commission guidelines.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.A
+<SEQUENCE>2
+<DESCRIPTION>FDS ENTERPRISE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> UT
+<LEGEND>
+This schedule  contains summary  financial  information  extracted from SEC Form
+10-Q and is qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<CIK> 0000788784
+<NAME> PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED
+<MULTIPLIER> 1000
+       
+<S>                                         <C>
+<PERIOD-TYPE>                               6-MOS
+<FISCAL-YEAR-END>                                  DEC-31-1996
+<PERIOD-START>                                     JAN-01-1997
+<PERIOD-END>                                       JUN-30-1997
+<BOOK-VALUE>                                          PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                           11,100,113
+<OTHER-PROPERTY-AND-INVEST>                          2,844,882
+<TOTAL-CURRENT-ASSETS>                               1,601,224
+<TOTAL-DEFERRED-CHARGES>                             1,701,261
+<OTHER-ASSETS>                                               0
+<TOTAL-ASSETS>                                      17,247,480
+<COMMON>                                             3,603,300
+<CAPITAL-SURPLUS-PAID-IN>                                    0
+<RETAINED-EARNINGS>                                  1,544,421
+<TOTAL-COMMON-STOCKHOLDERS-EQ>                       5,147,721
+<PREFERRED-MANDATORY>                                  588,000
+<PREFERRED>                                             94,523
+<LONG-TERM-DEBT-NET>                                 4,713,494
+<SHORT-TERM-NOTES>                                           0
+<LONG-TERM-NOTES-PAYABLE>                                    0
+<COMMERCIAL-PAPER-OBLIGATIONS>                         990,991
+<LONG-TERM-DEBT-CURRENT-PORT>                          532,359
+<PREFERRED-STOCK-CURRENT>                                    0
+<CAPITAL-LEASE-OBLIGATIONS>                             51,969
+<LEASES-CURRENT>                                             0
+<OTHER-ITEMS-CAPITAL-AND-LIAB>                       5,128,423
+<TOT-CAPITALIZATION-AND-LIAB>                       17,247,480
+<GROSS-OPERATING-REVENUE>                            3,055,456
+<INCOME-TAX-EXPENSE>                                   129,863  <F1>
+<OTHER-OPERATING-EXPENSES>                           2,370,874
+<TOTAL-OPERATING-EXPENSES>                           2,526,922
+<OPERATING-INCOME-LOSS>                                528,534
+<OTHER-INCOME-NET>                                    (49,096)
+<INCOME-BEFORE-INTEREST-EXPEN>                         479,438
+<TOTAL-INTEREST-EXPENSE>                               226,377
+<NET-INCOME>                                           231,013
+<PREFERRED-STOCK-DIVIDENDS>                             28,722
+<EARNINGS-AVAILABLE-FOR-COMM>                          231,013
+<COMMON-STOCK-DIVIDENDS>                               250,514
+<TOTAL-INTEREST-ON-BONDS>                              192,672
+<CASH-FLOW-OPERATIONS>                                 298,999
+<EPS-PRIMARY>                                              .99
+<EPS-DILUTED>                                              .99
+
+<PAGE>
+<FN>
+<F1>State  Income  Taxes of $3,469 and Federal  Income Taxes for Other Income of
+$(26,185)  were  incorporated  into  this  line  item for FDS  purposes.  In the
+referenced  financial  statements,  State  Income  Taxes are included in Taxes -
+Other and Total  Other  Income and  Deductions  are net of the above  applicable
+federal income taxes.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.B
+<SEQUENCE>3
+<DESCRIPTION>FDS PSE&G
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> UT
+<LEGEND>
+This schedule  contains summary  financial  information  extracted from SEC form
+10-Q and is qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<CIK> 0000081033
+<NAME> PUBLIC SERVICE ELECTRIC AND GAS COMPANY
+<MULTIPLIER> 1000
+       
+<S>                                         <C>
+<PERIOD-TYPE>                               6-MOS
+<FISCAL-YEAR-END>                                  DEC-31-1996
+<PERIOD-START>                                     JAN-01-1997
+<PERIOD-END>                                       JUN-30-1997
+<BOOK-VALUE>                                          PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                           11,100,113
+<OTHER-PROPERTY-AND-INVEST>                            585,202
+<TOTAL-CURRENT-ASSETS>                               1,482,937
+<TOTAL-DEFERRED-CHARGES>                             1,698,994
+<OTHER-ASSETS>                                               0
+<TOTAL-ASSETS>                                      14,867,246
+<COMMON>                                             2,563,003
+<CAPITAL-SURPLUS-PAID-IN>                              594,395
+<RETAINED-EARNINGS>                                  1,326,675
+<TOTAL-COMMON-STOCKHOLDERS-EQ>                       4,484,073
+<PREFERRED-MANDATORY>                                  588,000
+<PREFERRED>                                             94,523
+<LONG-TERM-DEBT-NET>                                 4,141,444
+<SHORT-TERM-NOTES>                                           0
+<LONG-TERM-NOTES-PAYABLE>                                    0
+<COMMERCIAL-PAPER-OBLIGATIONS>                         861,991
+<LONG-TERM-DEBT-CURRENT-PORT>                          391,862
+<PREFERRED-STOCK-CURRENT>                                    0
+<CAPITAL-LEASE-OBLIGATIONS>                             51,969
+<LEASES-CURRENT>                                             0
+<OTHER-ITEMS-CAPITAL-AND-LIAB>                       4,253,384
+<TOT-CAPITALIZATION-AND-LIAB>                       14,867,246
+<GROSS-OPERATING-REVENUE>                            2,964,502
+<INCOME-TAX-EXPENSE>                                   122,127  <F1>
+<OTHER-OPERATING-EXPENSES>                           2,329,042
+<TOTAL-OPERATING-EXPENSES>                           2,477,354
+<OPERATING-INCOME-LOSS>                                487,148
+<OTHER-INCOME-NET>                                    (49,009)
+<INCOME-BEFORE-INTEREST-EXPEN>                         438,049
+<TOTAL-INTEREST-EXPENSE>                               218,362  <F2>
+<NET-INCOME>                                           227,353
+<PREFERRED-STOCK-DIVIDENDS>                              7,171
+<EARNINGS-AVAILABLE-FOR-COMM>                          217,010
+<COMMON-STOCK-DIVIDENDS>                               252,100
+<TOTAL-INTEREST-ON-BONDS>                              165,471
+<CASH-FLOW-OPERATIONS>                                 288,893
+<EPS-PRIMARY>                                                0
+<EPS-DILUTED>                                                0
+
+<PAGE>
+<FN>
+<F1>State  Income  Taxes of $837 and Federal  Income  Taxes for Other  Income of
+$(26,185)  were  incorporated  into  this  line  item for FDS  purposes.  In the
+referenced  financial  statements,  State  Income  Taxes are included in Taxes -
+Other and Total  Other  Income and  Deductions  are net of the above  applicable
+federal income taxes.
+<F2>Total interest expense includes Preferred Securities Dividend Requirements.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

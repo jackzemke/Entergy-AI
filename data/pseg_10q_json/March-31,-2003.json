@@ -1,0 +1,38 @@
+{
+    "Operating revenues": {
+        "Utility": 0.0,
+        "Parent & Other": 0.0,
+        "Total": 2419.0
+    },
+    "Net income": {
+        "Utility": null,
+        "Parent & Other": null,
+        "Total": 0.0
+    },
+    "Total assets": {
+        "Utility": 0.0,
+        "Parent & Other": 0.0,
+        "Total": 12671.0
+    },
+    "Total liabilities": {
+        "Utility": 0.0,
+        "Parent & Other": 0.0,
+        "Total": 12671.0
+    },
+    "Cash and cash equivalents": {
+        "Utility": 0.0,
+        "Parent & Other": 0.0,
+        "Total": 150.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 0.0,
+        "Parent & Other": -5193.0,
+        "Total": 0.0
+    },
+    "Interest expense": {
+        "Utility": 5.0,
+        "Parent & Other": 0.0,
+        "Total": -94.0
+    },
+    "Report Date": "March-31,-2003"
+}

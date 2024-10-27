@@ -1,0 +1,23 @@
+{
+    "Operating revenues": {
+        "Utility": "-",
+        "Parent & Other": "-",
+        "Entergy": 1995.0
+    },
+    "Purchased power": {
+        "Utility": 70551.0,
+        "Parent & Other": 43199.0,
+        "Entergy": 129089.0
+    },
+    "Income taxes": {
+        "Utility": -6641.0,
+        "Parent & Other": -1336.0,
+        "Entergy": 5039.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 216720.0,
+        "Parent & Other": 202176.0,
+        "Entergy": 429041.0
+    },
+    "Report Date": "June-30,-1995"
+}
