@@ -1,0 +1,119 @@
+{
+    "-in millions except per share amounts": {
+        "Three Months Ended June 30,": 2020,
+        "Six Months Ended June 30,": 2020
+    },
+    "Operating Revenues": {},
+    "Regulated electric": {
+        "Three Months Ended June 30,": 4963,
+        "Six Months Ended June 30,": 10087
+    },
+    "Regulated natural gas": {
+        "Three Months Ended June 30,": 263,
+        "Six Months Ended June 30,": 901
+    },
+    "Nonregulated electric and other": {
+        "Three Months Ended June 30,": 195,
+        "Six Months Ended June 30,": 382
+    },
+    "Total operating revenues": {
+        "Three Months Ended June 30,": 5421,
+        "Six Months Ended June 30,": 11370
+    },
+    "Operating Expenses": {},
+    "Fuel used in electric generation and purchased power": {
+        "Three Months Ended June 30,": 1349,
+        "Six Months Ended June 30,": 2796
+    },
+    "Cost of natural gas": {
+        "Three Months Ended June 30,": 59,
+        "Six Months Ended June 30,": 258
+    },
+    "Operation maintenance and other": {
+        "Three Months Ended June 30,": 1353,
+        "Six Months Ended June 30,": 2692
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended June 30,": 1150,
+        "Six Months Ended June 30,": 2280
+    },
+    "Property and other taxes": {
+        "Three Months Ended June 30,": 334,
+        "Six Months Ended June 30,": 679
+    },
+    "Impairment of assets and other charges": {
+        "Three Months Ended June 30,": 6,
+        "Six Months Ended June 30,": 8
+    },
+    "Total operating expenses": {
+        "Three Months Ended June 30,": 4251,
+        "Six Months Ended June 30,": 8713
+    },
+    "Gains on Sales of Other Assets and Other net": {
+        "Three Months Ended June 30,": 7,
+        "Six Months Ended June 30,": 8
+    },
+    "Operating Income": {
+        "Three Months Ended June 30,": 1177,
+        "Six Months Ended June 30,": 2665
+    },
+    "Other Income and Expenses": {},
+    "Equity in earnings -losses of unconsolidated affiliates": {
+        "Three Months Ended June 30,": -1968,
+        "Six Months Ended June 30,": -1924
+    },
+    "Other income and expenses net": {
+        "Three Months Ended June 30,": 137,
+        "Six Months Ended June 30,": 183
+    },
+    "Total other income and expenses": {
+        "Three Months Ended June 30,": -1831,
+        "Six Months Ended June 30,": -1741
+    },
+    "Interest Expense": {
+        "Three Months Ended June 30,": 554,
+        "Six Months Ended June 30,": 1105
+    },
+    "Income -Loss Before Income Taxes": {
+        "Three Months Ended June 30,": -1208,
+        "Six Months Ended June 30,": -181
+    },
+    "Income Tax Expense -Benefit": {
+        "Three Months Ended June 30,": -316,
+        "Six Months Ended June 30,": -179
+    },
+    "Net Income -Loss": {
+        "Three Months Ended June 30,": -892,
+        "Six Months Ended June 30,": -2
+    },
+    "Add: Net Loss Attributable to Noncontrolling Interests": {
+        "Three Months Ended June 30,": 90,
+        "Six Months Ended June 30,": 138
+    },
+    "Net Income -Loss Attributable to Duke Energy Corporation": {
+        "Three Months Ended June 30,": -802,
+        "Six Months Ended June 30,": 136
+    },
+    "Less: Preferred Dividends": {
+        "Three Months Ended June 30,": 15,
+        "Six Months Ended June 30,": 54
+    },
+    "Net Income -Loss Available to Duke Energy Corporation Common Stockholders": {
+        "Three Months Ended June 30,": -817,
+        "Six Months Ended June 30,": 82
+    },
+    "Earnings -Loss Per Share  Basic and Diluted": {},
+    "Net income -loss available to Duke Energy Corporation common stockholders": {},
+    "Basic and Diluted": {
+        "Three Months Ended June 30,": 2
+    },
+    "Weighted Average Shares Outstanding": {},
+    "Basic": {
+        "Three Months Ended June 30,": 735,
+        "Six Months Ended June 30,": 734
+    },
+    "Diluted": {
+        "Three Months Ended June 30,": 735,
+        "Six Months Ended June 30,": 735
+    }
+}

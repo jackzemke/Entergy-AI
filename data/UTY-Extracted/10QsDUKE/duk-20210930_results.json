@@ -1,0 +1,112 @@
+{
+    "-in millions except per share amounts": {
+        "Three Months Ended September 30,": 2020,
+        "Nine Months Ended September 30,": 2020
+    },
+    "Operating Revenues": {},
+    "Regulated electric": {
+        "Three Months Ended September 30,": 6315,
+        "Nine Months Ended September 30,": 16402
+    },
+    "Regulated natural gas": {
+        "Three Months Ended September 30,": 214,
+        "Nine Months Ended September 30,": 1115
+    },
+    "Nonregulated electric and other": {
+        "Three Months Ended September 30,": 192,
+        "Nine Months Ended September 30,": 574
+    },
+    "Total operating revenues": {
+        "Three Months Ended September 30,": 6721,
+        "Nine Months Ended September 30,": 18091
+    },
+    "Operating Expenses": {},
+    "Fuel used in electric generation and purchased power": {
+        "Three Months Ended September 30,": 1849,
+        "Nine Months Ended September 30,": 4645
+    },
+    "Cost of natural gas": {
+        "Three Months Ended September 30,": 41,
+        "Nine Months Ended September 30,": 299
+    },
+    "Operation maintenance and other": {
+        "Three Months Ended September 30,": 1450,
+        "Nine Months Ended September 30,": 4142
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended September 30,": 1217,
+        "Nine Months Ended September 30,": 3497
+    },
+    "Property and other taxes": {
+        "Three Months Ended September 30,": 324,
+        "Nine Months Ended September 30,": 1003
+    },
+    "Impairment of assets and other charges": {
+        "Three Months Ended September 30,": 28,
+        "Nine Months Ended September 30,": 36
+    },
+    "Total operating expenses": {
+        "Three Months Ended September 30,": 4909,
+        "Nine Months Ended September 30,": 13622
+    },
+    "Gains on Sales of Other Assets and Other net": {
+        "Three Months Ended September 30,": 2,
+        "Nine Months Ended September 30,": 10
+    },
+    "Operating Income": {
+        "Three Months Ended September 30,": 1814,
+        "Nine Months Ended September 30,": 4479
+    },
+    "Other Income and Expenses": {},
+    "Equity in earnings -losses of unconsolidated affiliates": {
+        "Three Months Ended September 30,": -80,
+        "Nine Months Ended September 30,": -2004
+    },
+    "Other income and expenses net": {
+        "Three Months Ended September 30,": 127,
+        "Nine Months Ended September 30,": 310
+    },
+    "Total other income and expenses": {
+        "Three Months Ended September 30,": 47,
+        "Nine Months Ended September 30,": -1694
+    },
+    "Interest Expense": {
+        "Three Months Ended September 30,": 522,
+        "Nine Months Ended September 30,": 1627
+    },
+    "Income Before Income Taxes": {
+        "Three Months Ended September 30,": 1339,
+        "Nine Months Ended September 30,": 1158
+    },
+    "Income Tax Expense -Benefit": {
+        "Three Months Ended September 30,": 105,
+        "Nine Months Ended September 30,": -74
+    },
+    "Net Income": {
+        "Three Months Ended September 30,": 1234,
+        "Nine Months Ended September 30,": 1232
+    },
+    "Add: Net Loss Attributable to Noncontrolling Interests": {
+        "Three Months Ended September 30,": 70,
+        "Nine Months Ended September 30,": 208
+    },
+    "Net Income Attributable to Duke Energy Corporation": {
+        "Three Months Ended September 30,": 1304,
+        "Nine Months Ended September 30,": 1440
+    },
+    "Less: Preferred Dividends": {
+        "Three Months Ended September 30,": 39,
+        "Nine Months Ended September 30,": 93
+    },
+    "Net Income Available to Duke Energy Corporation Common Stockholders": {
+        "Three Months Ended September 30,": 1265,
+        "Nine Months Ended September 30,": 1347
+    },
+    "Earnings Per Share  Basic and Diluted": {},
+    "Net income available to Duke Energy Corporation common stockholders": {},
+    "Basic and Diluted": {
+        "Three Months Ended September 30,": 735,
+        "Nine Months Ended September 30,": 735
+    },
+    "Weighted Average Shares Outstanding": {}
+}

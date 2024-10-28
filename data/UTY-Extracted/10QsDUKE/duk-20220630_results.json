@@ -1,0 +1,112 @@
+{
+    "-in millions except per share amounts": {
+        "Three Months Ended June 30,": 2021,
+        "Six Months Ended June 30,": 2021
+    },
+    "Operating Revenues": {},
+    "Regulated electric": {
+        "Three Months Ended June 30,": 5258,
+        "Six Months Ended June 30,": 10477
+    },
+    "Regulated natural gas": {
+        "Three Months Ended June 30,": 302,
+        "Six Months Ended June 30,": 1051
+    },
+    "Nonregulated electric and other": {
+        "Three Months Ended June 30,": 198,
+        "Six Months Ended June 30,": 380
+    },
+    "Total operating revenues": {
+        "Three Months Ended June 30,": 5758,
+        "Six Months Ended June 30,": 11908
+    },
+    "Operating Expenses": {},
+    "Fuel used in electric generation and purchased power": {
+        "Three Months Ended June 30,": 1415,
+        "Six Months Ended June 30,": 2858
+    },
+    "Cost of natural gas": {
+        "Three Months Ended June 30,": 79,
+        "Six Months Ended June 30,": 355
+    },
+    "Operation maintenance and other": {
+        "Three Months Ended June 30,": 1410,
+        "Six Months Ended June 30,": 2812
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended June 30,": 1207,
+        "Six Months Ended June 30,": 2433
+    },
+    "Property and other taxes": {
+        "Three Months Ended June 30,": 349,
+        "Six Months Ended June 30,": 702
+    },
+    "Impairment of assets and other charges": {
+        "Three Months Ended June 30,": 131,
+        "Six Months Ended June 30,": 131
+    },
+    "Total operating expenses": {
+        "Three Months Ended June 30,": 4591,
+        "Six Months Ended June 30,": 9291
+    },
+    "Gains on Sales of Other Assets and Other net": {
+        "Three Months Ended June 30,": 2,
+        "Six Months Ended June 30,": 2
+    },
+    "Operating Income": {
+        "Three Months Ended June 30,": 1169,
+        "Six Months Ended June 30,": 2619
+    },
+    "Other Income and Expenses": {},
+    "Equity in earnings -losses of unconsolidated affiliates": {
+        "Three Months Ended June 30,": 9,
+        "Six Months Ended June 30,": -8
+    },
+    "Other income and expenses net": {
+        "Three Months Ended June 30,": 128,
+        "Six Months Ended June 30,": 255
+    },
+    "Total other income and expenses": {
+        "Three Months Ended June 30,": 137,
+        "Six Months Ended June 30,": 247
+    },
+    "Interest Expense": {
+        "Three Months Ended June 30,": 572,
+        "Six Months Ended June 30,": 1107
+    },
+    "Income Before Income Taxes": {
+        "Three Months Ended June 30,": 734,
+        "Six Months Ended June 30,": 1759
+    },
+    "Income Tax Expense": {
+        "Three Months Ended June 30,": 36,
+        "Six Months Ended June 30,": 120
+    },
+    "Net Income": {
+        "Three Months Ended June 30,": 698,
+        "Six Months Ended June 30,": 1639
+    },
+    "Add: Net Loss Attributable to Noncontrolling Interests": {
+        "Three Months Ended June 30,": 67,
+        "Six Months Ended June 30,": 118
+    },
+    "Net Income Attributable to Duke Energy Corporation": {
+        "Three Months Ended June 30,": 765,
+        "Six Months Ended June 30,": 1757
+    },
+    "Less: Preferred Dividends": {
+        "Three Months Ended June 30,": 14,
+        "Six Months Ended June 30,": 53
+    },
+    "Net Income Available to Duke Energy Corporation Common Stockholders": {
+        "Three Months Ended June 30,": 751,
+        "Six Months Ended June 30,": 1704
+    },
+    "Earnings Per Share  Basic and Diluted": {},
+    "Net income available to Duke Energy Corporation common stockholders": {},
+    "Basic and Diluted": {
+        "Three Months Ended June 30,": 769,
+        "Six Months Ended June 30,": 769
+    },
+    "Weighted Average Shares Outstanding": {}
+}

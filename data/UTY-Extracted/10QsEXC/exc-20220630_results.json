@@ -1,0 +1,240 @@
+{
+    "Operating revenues": {},
+    "Electric operating revenues": {
+        "Three Months EndedJune 30, 2022": 3934,
+        "Three Months EndedJune 30, 2021": 3739,
+        "Six Months EndedJune 30, 2022": 8415,
+        "Six Months EndedJune 30, 2021": 7609
+    },
+    "Natural gas operating revenues": {
+        "Three Months EndedJune 30, 2022": 307,
+        "Three Months EndedJune 30, 2021": 234,
+        "Six Months EndedJune 30, 2022": 1124,
+        "Six Months EndedJune 30, 2021": 867
+    },
+    "Revenues from alternative revenue programs": {
+        "Three Months EndedJune 30, 2022": -2,
+        "Three Months EndedJune 30, 2021": 47,
+        "Six Months EndedJune 30, 2022": 27,
+        "Six Months EndedJune 30, 2021": 176
+    },
+    "Total operating revenues": {
+        "Three Months EndedJune 30, 2022": 4239,
+        "Three Months EndedJune 30, 2021": 4020,
+        "Six Months EndedJune 30, 2022": 9566,
+        "Six Months EndedJune 30, 2021": 8652
+    },
+    "Operating expenses": {},
+    "Purchased power": {
+        "Three Months EndedJune 30, 2022": 1167,
+        "Three Months EndedJune 30, 2021": 1006,
+        "Six Months EndedJune 30, 2022": 2748,
+        "Six Months EndedJune 30, 2021": 2146
+    },
+    "Purchased fuel": {
+        "Three Months EndedJune 30, 2022": 107,
+        "Three Months EndedJune 30, 2021": 58,
+        "Six Months EndedJune 30, 2022": 445,
+        "Six Months EndedJune 30, 2021": 276
+    },
+    "Purchased power and fuel from affiliates": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 257,
+        "Six Months EndedJune 30, 2022": 159,
+        "Six Months EndedJune 30, 2021": 550
+    },
+    "Operating and maintenance": {
+        "Three Months EndedJune 30, 2022": 1109,
+        "Three Months EndedJune 30, 2021": 1073,
+        "Six Months EndedJune 30, 2022": 2288,
+        "Six Months EndedJune 30, 2021": 2155
+    },
+    "Depreciation and amortization": {
+        "Three Months EndedJune 30, 2022": 830,
+        "Three Months EndedJune 30, 2021": 736,
+        "Six Months EndedJune 30, 2022": 1647,
+        "Six Months EndedJune 30, 2021": 1494
+    },
+    "Taxes other than income taxes": {
+        "Three Months EndedJune 30, 2022": 330,
+        "Three Months EndedJune 30, 2021": 314,
+        "Six Months EndedJune 30, 2022": 684,
+        "Six Months EndedJune 30, 2021": 631
+    },
+    "Total operating expenses": {
+        "Three Months EndedJune 30, 2022": 3543,
+        "Three Months EndedJune 30, 2021": 3444,
+        "Six Months EndedJune 30, 2022": 7971,
+        "Six Months EndedJune 30, 2021": 7252
+    },
+    "-Loss gain on sales of assets and businesses": {
+        "Three Months EndedJune 30, 2022": -2,
+        "Three Months EndedJune 30, 2021": 4,
+        "Six Months EndedJune 30, 2022": -2,
+        "Six Months EndedJune 30, 2021": 4
+    },
+    "Operating income": {
+        "Three Months EndedJune 30, 2022": 694,
+        "Three Months EndedJune 30, 2021": 580,
+        "Six Months EndedJune 30, 2022": 1593,
+        "Six Months EndedJune 30, 2021": 1404
+    },
+    "Other income and -deductions": {},
+    "Interest expense net": {
+        "Three Months EndedJune 30, 2022": -352,
+        "Three Months EndedJune 30, 2021": -318,
+        "Six Months EndedJune 30, 2022": -684,
+        "Six Months EndedJune 30, 2021": -630
+    },
+    "Interest expense to affiliates": {
+        "Three Months EndedJune 30, 2022": -6,
+        "Three Months EndedJune 30, 2021": -6,
+        "Six Months EndedJune 30, 2022": -13,
+        "Six Months EndedJune 30, 2021": -13
+    },
+    "Other net": {
+        "Three Months EndedJune 30, 2022": 175,
+        "Three Months EndedJune 30, 2021": 73,
+        "Six Months EndedJune 30, 2022": 313,
+        "Six Months EndedJune 30, 2021": 131
+    },
+    "Total other income and -deductions": {
+        "Three Months EndedJune 30, 2022": -183,
+        "Three Months EndedJune 30, 2021": -251,
+        "Six Months EndedJune 30, 2022": -384,
+        "Six Months EndedJune 30, 2021": -512
+    },
+    "Income from continuing operations before income taxes": {
+        "Three Months EndedJune 30, 2022": 511,
+        "Three Months EndedJune 30, 2021": 329,
+        "Six Months EndedJune 30, 2022": 1209,
+        "Six Months EndedJune 30, 2021": 892
+    },
+    "Income taxes": {
+        "Three Months EndedJune 30, 2022": 46,
+        "Three Months EndedJune 30, 2021": 3,
+        "Six Months EndedJune 30, 2022": 263,
+        "Six Months EndedJune 30, 2021": 42
+    },
+    "Equity in earnings of unconsolidated affiliates": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": "",
+        "Six Months EndedJune 30, 2022": "",
+        "Six Months EndedJune 30, 2021": 1
+    },
+    "Net income from continuing operations after income taxes": {
+        "Three Months EndedJune 30, 2022": 465,
+        "Three Months EndedJune 30, 2021": 326,
+        "Six Months EndedJune 30, 2022": 946,
+        "Six Months EndedJune 30, 2021": 851
+    },
+    "Net income -loss from discontinued operations after income taxes -Note 2": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 150,
+        "Six Months EndedJune 30, 2022": 117,
+        "Six Months EndedJune 30, 2021": -640
+    },
+    "Net income": {
+        "Three Months EndedJune 30, 2022": 465,
+        "Three Months EndedJune 30, 2021": 476,
+        "Six Months EndedJune 30, 2022": 1063,
+        "Six Months EndedJune 30, 2021": 211
+    },
+    "Net income attributable to noncontrolling interests": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 75,
+        "Six Months EndedJune 30, 2022": 1,
+        "Six Months EndedJune 30, 2021": 99
+    },
+    "Net income attributable to common shareholders": {
+        "Three Months EndedJune 30, 2022": 465,
+        "Three Months EndedJune 30, 2021": 401,
+        "Six Months EndedJune 30, 2022": 1062,
+        "Six Months EndedJune 30, 2021": 112
+    },
+    "Amounts attributable to common shareholders:": {},
+    "Net income from continuing operations": {
+        "Three Months EndedJune 30, 2022": 465,
+        "Three Months EndedJune 30, 2021": 326,
+        "Six Months EndedJune 30, 2022": 946,
+        "Six Months EndedJune 30, 2021": 851
+    },
+    "Net income -loss from discontinued operations": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 75,
+        "Six Months EndedJune 30, 2022": 116,
+        "Six Months EndedJune 30, 2021": -739
+    },
+    "Comprehensive income net of income taxes": {},
+    "Other comprehensive income -loss net of income taxes": {},
+    "Pension and non-pension postretirement benefit plans:": {},
+    "Prior service benefit reclassified to periodic benefit cost": {
+        "Three Months EndedJune 30, 2022": 2,
+        "Three Months EndedJune 30, 2021": -1,
+        "Six Months EndedJune 30, 2022": 2,
+        "Six Months EndedJune 30, 2021": -2
+    },
+    "Actuarial loss reclassified to periodic benefit cost": {
+        "Three Months EndedJune 30, 2022": 10,
+        "Three Months EndedJune 30, 2021": 56,
+        "Six Months EndedJune 30, 2022": 24,
+        "Six Months EndedJune 30, 2021": 112
+    },
+    "Pension and non-pension postretirement benefit plan valuation adjustment": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": "",
+        "Six Months EndedJune 30, 2022": "",
+        "Six Months EndedJune 30, 2021": -2
+    },
+    "Unrealized gain on foreign currency translation": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 2,
+        "Six Months EndedJune 30, 2022": "",
+        "Six Months EndedJune 30, 2021": 3
+    },
+    "Other comprehensive income": {
+        "Three Months EndedJune 30, 2022": 12,
+        "Three Months EndedJune 30, 2021": 57,
+        "Six Months EndedJune 30, 2022": 26,
+        "Six Months EndedJune 30, 2021": 111
+    },
+    "Comprehensive income": {
+        "Three Months EndedJune 30, 2022": 477,
+        "Three Months EndedJune 30, 2021": 533,
+        "Six Months EndedJune 30, 2022": 1089,
+        "Six Months EndedJune 30, 2021": 322
+    },
+    "Comprehensive income attributable to noncontrolling interests": {
+        "Three Months EndedJune 30, 2022": "",
+        "Three Months EndedJune 30, 2021": 75,
+        "Six Months EndedJune 30, 2022": 1,
+        "Six Months EndedJune 30, 2021": 99
+    },
+    "Comprehensive income attributable to common shareholders": {
+        "Three Months EndedJune 30, 2022": 477,
+        "Three Months EndedJune 30, 2021": 458,
+        "Six Months EndedJune 30, 2022": 1088,
+        "Six Months EndedJune 30, 2021": 223
+    },
+    "Average shares of common stock outstanding:": {},
+    "Basic": {
+        "Three Months EndedJune 30, 2022": ""
+    },
+    "Assumed exercise and/or distributions of stock-based awards": {
+        "Three Months EndedJune 30, 2022": 1,
+        "Three Months EndedJune 30, 2021": 1,
+        "Six Months EndedJune 30, 2022": 1,
+        "Six Months EndedJune 30, 2021": 1
+    },
+    "Diluted-a": {
+        "Three Months EndedJune 30, 2022": 982,
+        "Three Months EndedJune 30, 2021": 979,
+        "Six Months EndedJune 30, 2022": 982,
+        "Six Months EndedJune 30, 2021": 979
+    },
+    "Earnings per average common share from continuing operations": {},
+    "Diluted": {
+        "Three Months EndedJune 30, 2022": ""
+    },
+    "Earnings -losses per average common share from discontinued operations": {}
+}

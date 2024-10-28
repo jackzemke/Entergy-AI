@@ -1,0 +1,166 @@
+{
+    "": {
+        "Three Months Ended September 30, 2021": 469,
+        "Three Months Ended September 30, 2020": 88,
+        "Nine Months Ended September 30, 2021": 718,
+        "Nine Months Ended September 30, 2020": 329
+    },
+    "Operating Revenues": {},
+    "Utility operations": {
+        "Three Months Ended September 30, 2021": 1875,
+        "Three Months Ended September 30, 2020": 1844,
+        "Nine Months Ended September 30, 2021": 5483,
+        "Nine Months Ended September 30, 2020": 5119
+    },
+    "Non-utility operations": {
+        "Three Months Ended September 30, 2021": 1840,
+        "Three Months Ended September 30, 2020": 1236,
+        "Nine Months Ended September 30, 2021": 4834,
+        "Nine Months Ended September 30, 2020": 3224
+    },
+    "Operating Expenses": {},
+    "Fuel purchased power and gas  utility": {
+        "Three Months Ended September 30, 2021": 477,
+        "Three Months Ended September 30, 2020": 455,
+        "Nine Months Ended September 30, 2021": 1411,
+        "Nine Months Ended September 30, 2020": 1296
+    },
+    "Fuel purchased power gas and other  non-utility": {
+        "Three Months Ended September 30, 2021": 1766,
+        "Three Months Ended September 30, 2020": 1174,
+        "Nine Months Ended September 30, 2021": 4708,
+        "Nine Months Ended September 30, 2020": 2923
+    },
+    "Operation and maintenance": {
+        "Three Months Ended September 30, 2021": 615,
+        "Three Months Ended September 30, 2020": 556,
+        "Nine Months Ended September 30, 2021": 1750,
+        "Nine Months Ended September 30, 2020": 1651
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended September 30, 2021": 344,
+        "Three Months Ended September 30, 2020": 318,
+        "Nine Months Ended September 30, 2021": 1010,
+        "Nine Months Ended September 30, 2020": 949
+    },
+    "Taxes other than income": {
+        "Three Months Ended September 30, 2021": 106,
+        "Three Months Ended September 30, 2020": 100,
+        "Nine Months Ended September 30, 2021": 329,
+        "Nine Months Ended September 30, 2020": 294
+    },
+    "Asset -gains losses and impairments net": {
+        "Three Months Ended September 30, 2021": 2,
+        "Three Months Ended September 30, 2020": -2,
+        "Nine Months Ended September 30, 2021": 29,
+        "Nine Months Ended September 30, 2020": 43
+    },
+    "Operating Income": {
+        "Three Months Ended September 30, 2021": 405,
+        "Three Months Ended September 30, 2020": 479,
+        "Nine Months Ended September 30, 2021": 1080,
+        "Nine Months Ended September 30, 2020": 1187
+    },
+    "Other -Income and Deductions": {},
+    "Interest expense": {
+        "Three Months Ended September 30, 2021": 156,
+        "Three Months Ended September 30, 2020": 149,
+        "Nine Months Ended September 30, 2021": 477,
+        "Nine Months Ended September 30, 2020": 450
+    },
+    "Interest income": {
+        "Three Months Ended September 30, 2021": -6,
+        "Three Months Ended September 30, 2020": -11,
+        "Nine Months Ended September 30, 2021": -16,
+        "Nine Months Ended September 30, 2020": -25
+    },
+    "Non-operating retirement benefits net": {
+        "Three Months Ended September 30, 2021": 3,
+        "Three Months Ended September 30, 2020": 5,
+        "Nine Months Ended September 30, 2021": 10,
+        "Nine Months Ended September 30, 2020": 20
+    },
+    "Loss on extinguishment of debt": {
+        "Three Months Ended September 30, 2021": 376,
+        "Three Months Ended September 30, 2020": "",
+        "Nine Months Ended September 30, 2021": 384,
+        "Nine Months Ended September 30, 2020": ""
+    },
+    "Other income": {
+        "Three Months Ended September 30, 2021": -90,
+        "Three Months Ended September 30, 2020": -75,
+        "Nine Months Ended September 30, 2021": -187,
+        "Nine Months Ended September 30, 2020": -188
+    },
+    "Other expenses": {
+        "Three Months Ended September 30, 2021": 30,
+        "Three Months Ended September 30, 2020": 20,
+        "Nine Months Ended September 30, 2021": 50,
+        "Nine Months Ended September 30, 2020": 72
+    },
+    "Income -Loss Before Income Taxes": {
+        "Three Months Ended September 30, 2021": -64,
+        "Three Months Ended September 30, 2020": 391,
+        "Nine Months Ended September 30, 2021": 362,
+        "Nine Months Ended September 30, 2020": 858
+    },
+    "Income Tax Expense -Benefit -Note 2": {
+        "Three Months Ended September 30, 2021": -119,
+        "Three Months Ended September 30, 2020": 21,
+        "Nine Months Ended September 30, 2021": -124,
+        "Nine Months Ended September 30, 2020": 19
+    },
+    "Net Income from Continuing Operations": {
+        "Three Months Ended September 30, 2021": 55,
+        "Three Months Ended September 30, 2020": 370,
+        "Nine Months Ended September 30, 2021": 486,
+        "Nine Months Ended September 30, 2020": 839
+    },
+    "Income -Loss from Discontinued Operations Net of Taxes -Note 4": {
+        "Three Months Ended September 30, 2021": -33,
+        "Three Months Ended September 30, 2020": 107,
+        "Nine Months Ended September 30, 2021": 112,
+        "Nine Months Ended September 30, 2020": 257
+    },
+    "Net Income": {
+        "Three Months Ended September 30, 2021": 22,
+        "Three Months Ended September 30, 2020": 477,
+        "Nine Months Ended September 30, 2021": 598,
+        "Nine Months Ended September 30, 2020": 1096
+    },
+    "Less: Net Income -Loss Attributable to Noncontrolling Interests": {},
+    "Continuing operations": {
+        "Three Months Ended September 30, 2021": 1,
+        "Three Months Ended September 30, 2020": 2,
+        "Nine Months Ended September 30, 2021": 4
+    },
+    "Discontinued operations": {
+        "Three Months Ended September 30, 2021": 1
+    },
+    "Net Income Attributable to DTE Energy Company": {
+        "Three Months Ended September 30, 2021": 25,
+        "Three Months Ended September 30, 2020": 476,
+        "Nine Months Ended September 30, 2021": 601,
+        "Nine Months Ended September 30, 2020": 1093
+    },
+    "Basic Earnings per Common Share": {},
+    "Total": {
+        "Three Months Ended September 30, 2021": 2,
+        "Three Months Ended September 30, 2020": 3,
+        "Nine Months Ended September 30, 2021": 5
+    },
+    "Diluted Earnings per Common Share": {},
+    "Weighted Average Common Shares Outstanding": {},
+    "Basic": {
+        "Three Months Ended September 30, 2021": 193,
+        "Three Months Ended September 30, 2020": 193,
+        "Nine Months Ended September 30, 2021": 193,
+        "Nine Months Ended September 30, 2020": 192
+    },
+    "Diluted": {
+        "Three Months Ended September 30, 2021": 194,
+        "Three Months Ended September 30, 2020": 193,
+        "Nine Months Ended September 30, 2021": 194,
+        "Nine Months Ended September 30, 2020": 193
+    }
+}

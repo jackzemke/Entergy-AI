@@ -1,0 +1,140 @@
+{
+    "": {
+        "Header 1": 86,
+        "Header 2": 60,
+        "Header 3": 266,
+        "Header 4": 219
+    },
+    "Operating Revenues": {},
+    "Utility operations": {
+        "Header 1": 1656,
+        "Header 2": 1669,
+        "Header 3": 4937,
+        "Header 4": 4923
+    },
+    "Non-utility operations": {
+        "Header 1": 1463,
+        "Header 2": 1881,
+        "Header 3": 4584,
+        "Header 4": 5539
+    },
+    "Operating Expenses": {},
+    "Fuel purchased power and gas — utility": {
+        "Header 1": 400,
+        "Header 2": 453,
+        "Header 3": 1342,
+        "Header 4": 1440
+    },
+    "Fuel purchased power and gas — non-utility": {
+        "Header 1": 1257,
+        "Header 2": 1682,
+        "Header 3": 3900,
+        "Header 4": 4898
+    },
+    "Operation and maintenance": {
+        "Header 1": 588,
+        "Header 2": 604,
+        "Header 3": 1739,
+        "Header 4": 1721
+    },
+    "Depreciation and amortization": {
+        "Header 1": 322,
+        "Header 2": 273,
+        "Header 3": 923,
+        "Header 4": 826
+    },
+    "Taxes other than income": {
+        "Header 1": 101,
+        "Header 2": 99,
+        "Header 3": 311,
+        "Header 4": 307
+    },
+    "Asset -gains losses and impairments net": {
+        "Header 1": 1,
+        "Header 2": 10,
+        "Header 3": 14,
+        "Header 4": 8
+    },
+    "Operating Income": {
+        "Header 1": 450,
+        "Header 2": 429,
+        "Header 3": 1292,
+        "Header 4": 1262
+    },
+    "Other -Income and Deductions": {},
+    "Interest expense": {
+        "Header 1": 162,
+        "Header 2": 142,
+        "Header 3": 468,
+        "Header 4": 412
+    },
+    "Interest income": {
+        "Header 1": -4,
+        "Header 2": -3,
+        "Header 3": -11,
+        "Header 4": -9
+    },
+    "Non-operating retirement benefits net": {
+        "Header 1": 9,
+        "Header 2": 9,
+        "Header 3": 28,
+        "Header 4": 27
+    },
+    "Other income": {
+        "Header 1": -98,
+        "Header 2": -99,
+        "Header 3": -259,
+        "Header 4": -262
+    },
+    "Other expenses": {
+        "Header 1": 17,
+        "Header 2": 11,
+        "Header 3": 40,
+        "Header 4": 51
+    },
+    "Income Before Income Taxes": {
+        "Header 1": 364,
+        "Header 2": 369,
+        "Header 3": 1026,
+        "Header 4": 1043
+    },
+    "Income Tax Expense": {
+        "Header 1": 47,
+        "Header 2": 34,
+        "Header 3": 122,
+        "Header 4": 121
+    },
+    "Net Income": {
+        "Header 1": 317,
+        "Header 2": 335,
+        "Header 3": 904,
+        "Header 4": 922
+    },
+    "Less: Net Income -Loss Attributable to Noncontrolling Interests": {
+        "Header 1": -2,
+        "Header 2": 1,
+        "Header 3": 2,
+        "Header 4": -7
+    },
+    "Net Income Attributable to DTE Energy Company": {
+        "Header 1": 1,
+        "Header 2": 1,
+        "Header 3": 4,
+        "Header 4": 5
+    },
+    "Basic Earnings per Common Share": {},
+    "Diluted Earnings per Common Share": {},
+    "Weighted Average Common Shares Outstanding": {},
+    "Basic": {
+        "Header 1": 183,
+        "Header 2": 182,
+        "Header 3": 183,
+        "Header 4": 181
+    },
+    "Diluted": {
+        "Header 1": 184,
+        "Header 2": 182,
+        "Header 3": 184,
+        "Header 4": 181
+    }
+}

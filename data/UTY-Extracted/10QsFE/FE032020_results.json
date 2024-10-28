@@ -1,0 +1,121 @@
+{
+    "-In millions except per share amounts": {
+        "Header 1": 2020,
+        "Header 2": 2019
+    },
+    "REVENUES:": {},
+    "Distribution services and retail generation": {
+        "Header 1": 2124,
+        "Header 2": 2309
+    },
+    "Transmission": {
+        "Header 1": 397,
+        "Header 2": 352
+    },
+    "Other": {
+        "Header 1": 188,
+        "Header 2": 222
+    },
+    "Total revenues-1": {
+        "Header 1": 2709,
+        "Header 2": 2883
+    },
+    "OPERATING EXPENSES:": {},
+    "Fuel": {
+        "Header 1": 98,
+        "Header 2": 131
+    },
+    "Purchased power": {
+        "Header 1": 694,
+        "Header 2": 781
+    },
+    "Other operating expenses": {
+        "Header 1": 749,
+        "Header 2": 779
+    },
+    "Provision for depreciation": {
+        "Header 1": 317,
+        "Header 2": 297
+    },
+    "Amortization of regulatory assets net": {
+        "Header 1": 52,
+        "Header 2": 5
+    },
+    "General taxes": {
+        "Header 1": 267,
+        "Header 2": 261
+    },
+    "Total operating expenses": {
+        "Header 1": 2177,
+        "Header 2": 2254
+    },
+    "OPERATING INCOME": {
+        "Header 1": 532,
+        "Header 2": 629
+    },
+    "OTHER INCOME -EXPENSE:": {},
+    "Miscellaneous income net": {
+        "Header 1": 100,
+        "Header 2": 54
+    },
+    "Pension and OPEB mark-to-market adjustment -Note 5": {
+        "Header 1": -423,
+        "Header 2": "—"
+    },
+    "Interest expense": {
+        "Header 1": -263,
+        "Header 2": -253
+    },
+    "Capitalized financing costs": {
+        "Header 1": 18,
+        "Header 2": 18
+    },
+    "Total other expense": {
+        "Header 1": -568,
+        "Header 2": -181
+    },
+    "INCOME -LOSS BEFORE INCOME TAXES -BENEFITS": {
+        "Header 1": -36,
+        "Header 2": 448
+    },
+    "INCOME TAXES -BENEFITS": {
+        "Header 1": -60,
+        "Header 2": 93
+    },
+    "INCOME FROM CONTINUING OPERATIONS": {
+        "Header 1": 24,
+        "Header 2": 355
+    },
+    "Discontinued operations -Note 3-2": {
+        "Header 1": 50,
+        "Header 2": -35
+    },
+    "NET INCOME": {
+        "Header 1": 74,
+        "Header 2": 320
+    },
+    "INCOME ALLOCATED TO PREFERRED STOCKHOLDERS -Note 4": {
+        "Header 1": "—",
+        "Header 2": 5
+    },
+    "NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS": {
+        "Header 1": 74,
+        "Header 2": 315
+    },
+    "EARNINGS PER SHARE OF COMMON STOCK -Note 4:": {},
+    "Basic - Continuing Operations": {},
+    "Basic - Discontinued Operations": {},
+    "Basic - Net Income Attributable to Common Stockholders": {},
+    "Diluted - Continuing Operations": {},
+    "Diluted - Discontinued Operations": {},
+    "Diluted - Net Income Attributable to Common Stockholders": {},
+    "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING:": {},
+    "Basic": {
+        "Header 1": 541,
+        "Header 2": 530
+    },
+    "Diluted": {
+        "Header 1": 543,
+        "Header 2": 533
+    }
+}

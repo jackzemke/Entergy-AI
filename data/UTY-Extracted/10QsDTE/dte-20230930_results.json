@@ -1,0 +1,128 @@
+{
+    "": {
+        "Three Months Ended September 30, 2023": 184,
+        "Three Months Ended September 30, 2022": 152,
+        "Nine Months Ended September 30, 2023": 503,
+        "Nine Months Ended September 30, 2022": 468
+    },
+    "Operating Revenues": {},
+    "Utility operations": {
+        "Three Months Ended September 30, 2023": 1827,
+        "Three Months Ended September 30, 2022": 2053,
+        "Nine Months Ended September 30, 2023": 5504,
+        "Nine Months Ended September 30, 2022": 6196
+    },
+    "Non-utility operations": {
+        "Three Months Ended September 30, 2023": 1061,
+        "Three Months Ended September 30, 2022": 3198,
+        "Nine Months Ended September 30, 2023": 3847,
+        "Nine Months Ended September 30, 2022": 8556
+    },
+    "Operating Expenses": {},
+    "Fuel purchased power and gas  utility": {
+        "Three Months Ended September 30, 2023": 435,
+        "Three Months Ended September 30, 2022": 594,
+        "Nine Months Ended September 30, 2023": 1364,
+        "Nine Months Ended September 30, 2022": 1901
+    },
+    "Fuel purchased power gas and other  non-utility": {
+        "Three Months Ended September 30, 2023": 864,
+        "Three Months Ended September 30, 2022": 3023,
+        "Nine Months Ended September 30, 2023": 3226,
+        "Nine Months Ended September 30, 2022": 8324
+    },
+    "Operation and maintenance": {
+        "Three Months Ended September 30, 2023": 545,
+        "Three Months Ended September 30, 2022": 608,
+        "Nine Months Ended September 30, 2023": 1650,
+        "Nine Months Ended September 30, 2022": 1803
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended September 30, 2023": 404,
+        "Three Months Ended September 30, 2022": 369,
+        "Nine Months Ended September 30, 2023": 1185,
+        "Nine Months Ended September 30, 2022": 1093
+    },
+    "Taxes other than income": {
+        "Three Months Ended September 30, 2023": 114,
+        "Three Months Ended September 30, 2022": 111,
+        "Nine Months Ended September 30, 2023": 350,
+        "Nine Months Ended September 30, 2022": 349
+    },
+    "Asset -gains losses and impairments net": {
+        "Three Months Ended September 30, 2023": -12,
+        "Three Months Ended September 30, 2022": 1,
+        "Nine Months Ended September 30, 2023": -11,
+        "Nine Months Ended September 30, 2022": -4
+    },
+    "Operating Income": {
+        "Three Months Ended September 30, 2023": 538,
+        "Three Months Ended September 30, 2022": 545,
+        "Nine Months Ended September 30, 2023": 1587,
+        "Nine Months Ended September 30, 2022": 1286
+    },
+    "Other -Income and Deductions": {},
+    "Interest expense": {
+        "Three Months Ended September 30, 2023": 200,
+        "Three Months Ended September 30, 2022": 171,
+        "Nine Months Ended September 30, 2023": 583,
+        "Nine Months Ended September 30, 2022": 486
+    },
+    "Interest income": {
+        "Three Months Ended September 30, 2023": -15,
+        "Three Months Ended September 30, 2022": -10,
+        "Nine Months Ended September 30, 2023": -45,
+        "Nine Months Ended September 30, 2022": -26
+    },
+    "Non-operating retirement benefits net": {
+        "Three Months Ended September 30, 2023": 1,
+        "Three Months Ended September 30, 2022": -5,
+        "Nine Months Ended September 30, 2023": 9,
+        "Nine Months Ended September 30, 2022": -13
+    },
+    "Other income": {
+        "Three Months Ended September 30, 2023": -13,
+        "Three Months Ended September 30, 2022": -16,
+        "Nine Months Ended September 30, 2023": -70,
+        "Nine Months Ended September 30, 2022": -35
+    },
+    "Other expenses": {
+        "Three Months Ended September 30, 2023": 11,
+        "Three Months Ended September 30, 2022": 12,
+        "Nine Months Ended September 30, 2023": 26,
+        "Nine Months Ended September 30, 2022": 56
+    },
+    "Income Before Income Taxes": {
+        "Three Months Ended September 30, 2023": 354,
+        "Three Months Ended September 30, 2022": 393,
+        "Nine Months Ended September 30, 2023": 1084,
+        "Nine Months Ended September 30, 2022": 818
+    },
+    "Income Tax Expense": {
+        "Three Months Ended September 30, 2023": 22,
+        "Three Months Ended September 30, 2022": 6,
+        "Nine Months Ended September 30, 2023": 106,
+        "Nine Months Ended September 30, 2022": ""
+    },
+    "Net Income Attributable to DTE Energy Company": {
+        "Three Months Ended September 30, 2023": 1,
+        "Three Months Ended September 30, 2022": 1,
+        "Nine Months Ended September 30, 2023": 4,
+        "Nine Months Ended September 30, 2022": 4
+    },
+    "Basic Earnings per Common Share": {},
+    "Diluted Earnings per Common Share": {},
+    "Weighted Average Common Shares Outstanding": {},
+    "Basic": {
+        "Three Months Ended September 30, 2023": 206,
+        "Three Months Ended September 30, 2022": 193,
+        "Nine Months Ended September 30, 2023": 206,
+        "Nine Months Ended September 30, 2022": 193
+    },
+    "Diluted": {
+        "Three Months Ended September 30, 2023": 206,
+        "Three Months Ended September 30, 2022": 194,
+        "Nine Months Ended September 30, 2023": 206,
+        "Nine Months Ended September 30, 2022": 194
+    }
+}

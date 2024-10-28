@@ -1,0 +1,113 @@
+{
+    "-millions except per share amounts": {},
+    "Operating Revenue": {
+        "Three Months EndedJune 30, 2016": 2598,
+        "Three Months EndedJune 30, 2015": 2747,
+        "Six Months EndedJune 30, 2016": 5519,
+        "Six Months EndedJune 30, 2015": 6156
+    },
+    "Operating Expenses": {},
+    "Electric fuel and other energy-related purchases": {
+        "Three Months EndedJune 30, 2016": 551,
+        "Three Months EndedJune 30, 2015": 591,
+        "Six Months EndedJune 30, 2016": 1185,
+        "Six Months EndedJune 30, 2015": 1544
+    },
+    "Purchased electric capacity": {
+        "Three Months EndedJune 30, 2016": 45,
+        "Three Months EndedJune 30, 2015": 90,
+        "Six Months EndedJune 30, 2016": 113,
+        "Six Months EndedJune 30, 2015": 184
+    },
+    "Purchased gas": {
+        "Three Months EndedJune 30, 2016": 56,
+        "Three Months EndedJune 30, 2015": 111,
+        "Six Months EndedJune 30, 2016": 175,
+        "Six Months EndedJune 30, 2015": 361
+    },
+    "Other operations and maintenance": {
+        "Three Months EndedJune 30, 2016": 665,
+        "Three Months EndedJune 30, 2015": 709,
+        "Six Months EndedJune 30, 2016": 1368,
+        "Six Months EndedJune 30, 2015": 1311
+    },
+    "Depreciation depletion and amortization": {
+        "Three Months EndedJune 30, 2016": 361,
+        "Three Months EndedJune 30, 2015": 339,
+        "Six Months EndedJune 30, 2016": 712,
+        "Six Months EndedJune 30, 2015": 682
+    },
+    "Other taxes": {
+        "Three Months EndedJune 30, 2016": 139,
+        "Three Months EndedJune 30, 2015": 134,
+        "Six Months EndedJune 30, 2016": 303,
+        "Six Months EndedJune 30, 2015": 299
+    },
+    "Total operating expenses": {
+        "Three Months EndedJune 30, 2016": 1817,
+        "Three Months EndedJune 30, 2015": 1974,
+        "Six Months EndedJune 30, 2016": 3856,
+        "Six Months EndedJune 30, 2015": 4381
+    },
+    "Income from operations": {
+        "Three Months EndedJune 30, 2016": 781,
+        "Three Months EndedJune 30, 2015": 773,
+        "Six Months EndedJune 30, 2016": 1663,
+        "Six Months EndedJune 30, 2015": 1775
+    },
+    "Other income": {
+        "Three Months EndedJune 30, 2016": 72,
+        "Three Months EndedJune 30, 2015": 56,
+        "Six Months EndedJune 30, 2016": 126,
+        "Six Months EndedJune 30, 2015": 116
+    },
+    "Interest and related charges": {
+        "Three Months EndedJune 30, 2016": 239,
+        "Three Months EndedJune 30, 2015": 221,
+        "Six Months EndedJune 30, 2016": 465,
+        "Six Months EndedJune 30, 2015": 444
+    },
+    "Income from operations including noncontrolling interests before income tax expense": {
+        "Three Months EndedJune 30, 2016": 614,
+        "Three Months EndedJune 30, 2015": 608,
+        "Six Months EndedJune 30, 2016": 1324,
+        "Six Months EndedJune 30, 2015": 1447
+    },
+    "Income tax expense": {
+        "Three Months EndedJune 30, 2016": 152,
+        "Three Months EndedJune 30, 2015": 190,
+        "Six Months EndedJune 30, 2016": 331,
+        "Six Months EndedJune 30, 2015": 489
+    },
+    "Net Income Including Noncontrolling Interests": {
+        "Three Months EndedJune 30, 2016": 462,
+        "Three Months EndedJune 30, 2015": 418,
+        "Six Months EndedJune 30, 2016": 993,
+        "Six Months EndedJune 30, 2015": 958
+    },
+    "Noncontrolling Interests": {
+        "Three Months EndedJune 30, 2016": 10,
+        "Three Months EndedJune 30, 2015": 5,
+        "Six Months EndedJune 30, 2016": 17,
+        "Six Months EndedJune 30, 2015": 9
+    },
+    "Net Income Attributable to Dominion": {
+        "Three Months EndedJune 30, 2016": 452,
+        "Three Months EndedJune 30, 2015": 413,
+        "Six Months EndedJune 30, 2016": 976,
+        "Six Months EndedJune 30, 2015": 949
+    },
+    "Earnings Per Common Share": {},
+    "Net income attributable to Dominion - Basic": {
+        "Three Months EndedJune 30, 2016": 1,
+        "Three Months EndedJune 30, 2015": 1
+    },
+    "Net income attributable to Dominion - Diluted": {
+        "Three Months EndedJune 30, 2016": 1,
+        "Three Months EndedJune 30, 2015": 1
+    },
+    "Dividends Declared Per Common Share": {
+        "Three Months EndedJune 30, 2016": 1,
+        "Three Months EndedJune 30, 2015": 1
+    }
+}
