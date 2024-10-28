@@ -1,0 +1,33 @@
+{
+    "Net Income": {
+        "Utility": 224286.0,
+        "Parent & Other": 31954.0,
+        "Entergy": 5.0
+    },
+    "Operating revenues": {
+        "Utility": 2140.0,
+        "Parent & Other": 77.0,
+        "Entergy": -3.0
+    },
+    "Purchased power": {
+        "Utility": 67617.0,
+        "Parent & Other": 11402.0,
+        "Entergy": 6.0
+    },
+    "Interest expense": {
+        "Utility": "",
+        "Parent & Other": 120553.0,
+        "Entergy": 145732.0
+    },
+    "Income taxes": {
+        "Utility": 116386.0,
+        "Parent & Other": 10994.0,
+        "Entergy": 4.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 240389.0,
+        "Parent & Other": 30366.0,
+        "Entergy": 6.0
+    },
+    "Report Date": "March-31,-2002"
+}

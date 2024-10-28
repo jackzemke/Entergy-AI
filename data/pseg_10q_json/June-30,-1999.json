@@ -1,0 +1,33 @@
+{
+    "Operating revenues": {
+        "Utility": 1020.0,
+        "Parent & Other": 980.0,
+        "Total": 1986.0
+    },
+    "Net income": {
+        "Utility": null,
+        "Parent & Other": null,
+        "Total": -609.0
+    },
+    "Total assets": {
+        "Utility": ".........................",
+        "Parent & Other": 12202.0,
+        "Total": 2436.0
+    },
+    "Cash and cash equivalents": {
+        "Utility": 77.0,
+        "Parent & Other": 140.0,
+        "Total": 556.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 122.0,
+        "Parent & Other": 166.0,
+        "Total": 288.0
+    },
+    "Interest expense": {
+        "Utility": 119.0,
+        "Parent & Other": 116.0,
+        "Total": 233.0
+    },
+    "Report Date": "June-30,-1999"
+}

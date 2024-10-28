@@ -1,0 +1,33 @@
+{
+    "Operating revenues": {
+        "Utility": null,
+        "Parent & Other": 966.0,
+        "Total": 558.0
+    },
+    "Net income": {
+        "Utility": 270.0,
+        "Parent & Other": 188.0,
+        "Total": -0.0
+    },
+    "Total assets": {
+        "Utility": "......................",
+        "Parent & Other": 2033.0,
+        "Total": 327.0
+    },
+    "Cash and cash equivalents": {
+        "Utility": 121.0,
+        "Parent & Other": 259.0,
+        "Total": 782.0
+    },
+    "Depreciation and amortization": {
+        "Utility": 90.0,
+        "Parent & Other": 173.0,
+        "Total": 50.0
+    },
+    "Interest expense": {
+        "Utility": -137.0,
+        "Parent & Other": -112.0,
+        "Total": -24.0
+    },
+    "Report Date": "March-31,-2000"
+}
