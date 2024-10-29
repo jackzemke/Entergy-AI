@@ -40,7 +40,7 @@ def headers_regex(rows):
         return headers
     else:
         print("Headers not fully matched; returning placeholders instead.")
-        return ["Three Months ended {\P}", "Header 2"] if len(headers) == 2 else ["Header 1", "Header 2", "Header 3", "Header 4"]
+        return ["Three Months ended {}", "Header 2"] if len(headers) == 2 else ["Header 1", "Header 2", "Header 3", "Header 4"]
 
 def hardstringtoint(text):
     # print(f"Original text: {text}")
