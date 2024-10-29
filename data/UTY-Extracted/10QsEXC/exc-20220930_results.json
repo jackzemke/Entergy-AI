@@ -1,0 +1,234 @@
+{
+    "Operating revenues": {},
+    "Electric operating revenues": {
+        "Three Months EndedSeptember 30, 2022": 4557,
+        "Three Months EndedSeptember 30, 2021": 4736,
+        "Nine Months EndedSeptember 30, 2022": 12972,
+        "Nine Months EndedSeptember 30, 2021": 12344
+    },
+    "Natural gas operating revenues": {
+        "Three Months EndedSeptember 30, 2022": 224,
+        "Three Months EndedSeptember 30, 2021": 174,
+        "Nine Months EndedSeptember 30, 2022": 1348,
+        "Nine Months EndedSeptember 30, 2021": 1041
+    },
+    "Revenues from alternative revenue programs": {
+        "Three Months EndedSeptember 30, 2022": 64,
+        "Three Months EndedSeptember 30, 2021": -47,
+        "Nine Months EndedSeptember 30, 2022": 92,
+        "Nine Months EndedSeptember 30, 2021": 129
+    },
+    "Total operating revenues": {
+        "Three Months EndedSeptember 30, 2022": 4845,
+        "Three Months EndedSeptember 30, 2021": 4863,
+        "Nine Months EndedSeptember 30, 2022": 14412,
+        "Nine Months EndedSeptember 30, 2021": 13514
+    },
+    "Operating expenses": {},
+    "Purchased power": {
+        "Three Months EndedSeptember 30, 2022": 1404,
+        "Three Months EndedSeptember 30, 2021": 1452,
+        "Nine Months EndedSeptember 30, 2022": 4152,
+        "Nine Months EndedSeptember 30, 2021": 3598
+    },
+    "Purchased fuel": {
+        "Three Months EndedSeptember 30, 2022": 80,
+        "Three Months EndedSeptember 30, 2021": 40,
+        "Nine Months EndedSeptember 30, 2022": 524,
+        "Nine Months EndedSeptember 30, 2021": 316
+    },
+    "Purchased power and fuel from affiliates": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 317,
+        "Nine Months EndedSeptember 30, 2022": 159,
+        "Nine Months EndedSeptember 30, 2021": 867
+    },
+    "Operating and maintenance": {
+        "Three Months EndedSeptember 30, 2022": 1148,
+        "Three Months EndedSeptember 30, 2021": 1187,
+        "Nine Months EndedSeptember 30, 2022": 3436,
+        "Nine Months EndedSeptember 30, 2021": 3340
+    },
+    "Depreciation and amortization": {
+        "Three Months EndedSeptember 30, 2022": 825,
+        "Three Months EndedSeptember 30, 2021": 758,
+        "Nine Months EndedSeptember 30, 2022": 2472,
+        "Nine Months EndedSeptember 30, 2021": 2253
+    },
+    "Taxes other than income taxes": {
+        "Three Months EndedSeptember 30, 2022": 377,
+        "Three Months EndedSeptember 30, 2021": 353,
+        "Nine Months EndedSeptember 30, 2022": 1061,
+        "Nine Months EndedSeptember 30, 2021": 983
+    },
+    "Total operating expenses": {
+        "Three Months EndedSeptember 30, 2022": 3834,
+        "Three Months EndedSeptember 30, 2021": 4107,
+        "Nine Months EndedSeptember 30, 2022": 11804,
+        "Nine Months EndedSeptember 30, 2021": 11357
+    },
+    "-Loss gain on sales of assets and businesses": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": "",
+        "Nine Months EndedSeptember 30, 2022": -2,
+        "Nine Months EndedSeptember 30, 2021": 3
+    },
+    "Operating income": {
+        "Three Months EndedSeptember 30, 2022": 1011,
+        "Three Months EndedSeptember 30, 2021": 756,
+        "Nine Months EndedSeptember 30, 2022": 2606,
+        "Nine Months EndedSeptember 30, 2021": 2160
+    },
+    "Other income and -deductions": {},
+    "Interest expense net": {
+        "Three Months EndedSeptember 30, 2022": -359,
+        "Three Months EndedSeptember 30, 2021": -318,
+        "Nine Months EndedSeptember 30, 2022": -1044,
+        "Nine Months EndedSeptember 30, 2021": -947
+    },
+    "Interest expense to affiliates": {
+        "Three Months EndedSeptember 30, 2022": -6,
+        "Three Months EndedSeptember 30, 2021": -6,
+        "Nine Months EndedSeptember 30, 2022": -19,
+        "Nine Months EndedSeptember 30, 2021": -20
+    },
+    "Other net": {
+        "Three Months EndedSeptember 30, 2022": 122,
+        "Three Months EndedSeptember 30, 2021": 60,
+        "Nine Months EndedSeptember 30, 2022": 435,
+        "Nine Months EndedSeptember 30, 2021": 190
+    },
+    "Total other income and -deductions": {
+        "Three Months EndedSeptember 30, 2022": -243,
+        "Three Months EndedSeptember 30, 2021": -264,
+        "Nine Months EndedSeptember 30, 2022": -628,
+        "Nine Months EndedSeptember 30, 2021": -777
+    },
+    "Income from continuing operations before income taxes": {
+        "Three Months EndedSeptember 30, 2022": 768,
+        "Three Months EndedSeptember 30, 2021": 492,
+        "Nine Months EndedSeptember 30, 2022": 1978,
+        "Nine Months EndedSeptember 30, 2021": 1383
+    },
+    "Income taxes": {
+        "Three Months EndedSeptember 30, 2022": 92,
+        "Three Months EndedSeptember 30, 2021": 35,
+        "Nine Months EndedSeptember 30, 2022": 356,
+        "Nine Months EndedSeptember 30, 2021": 76
+    },
+    "Net income from continuing operations after income taxes": {
+        "Three Months EndedSeptember 30, 2022": 676,
+        "Three Months EndedSeptember 30, 2021": 457,
+        "Nine Months EndedSeptember 30, 2022": 1622,
+        "Nine Months EndedSeptember 30, 2021": 1307
+    },
+    "Net income from discontinued operations after income taxes -Note 2": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 772,
+        "Nine Months EndedSeptember 30, 2022": 117,
+        "Nine Months EndedSeptember 30, 2021": 134
+    },
+    "Net income": {
+        "Three Months EndedSeptember 30, 2022": 676,
+        "Three Months EndedSeptember 30, 2021": 1229,
+        "Nine Months EndedSeptember 30, 2022": 1739,
+        "Nine Months EndedSeptember 30, 2021": 1441
+    },
+    "Net income attributable to noncontrolling interests": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 26,
+        "Nine Months EndedSeptember 30, 2022": 1,
+        "Nine Months EndedSeptember 30, 2021": 126
+    },
+    "Net income attributable to common shareholders": {
+        "Three Months EndedSeptember 30, 2022": 676,
+        "Three Months EndedSeptember 30, 2021": 1203,
+        "Nine Months EndedSeptember 30, 2022": 1738,
+        "Nine Months EndedSeptember 30, 2021": 1315
+    },
+    "Amounts attributable to common shareholders:": {},
+    "Net income from continuing operations": {
+        "Three Months EndedSeptember 30, 2022": 676,
+        "Three Months EndedSeptember 30, 2021": 457,
+        "Nine Months EndedSeptember 30, 2022": 1622,
+        "Nine Months EndedSeptember 30, 2021": 1307
+    },
+    "Net income from discontinued operations": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 746,
+        "Nine Months EndedSeptember 30, 2022": 116,
+        "Nine Months EndedSeptember 30, 2021": 8
+    },
+    "Comprehensive income net of income taxes": {},
+    "Other comprehensive income -loss net of income taxes": {},
+    "Pension and non-pension postretirement benefit plans:": {},
+    "Prior service benefit reclassified to periodic benefit cost": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": -1,
+        "Nine Months EndedSeptember 30, 2022": "",
+        "Nine Months EndedSeptember 30, 2021": -4
+    },
+    "Actuarial loss reclassified to periodic benefit cost": {
+        "Three Months EndedSeptember 30, 2022": 9,
+        "Three Months EndedSeptember 30, 2021": 56,
+        "Nine Months EndedSeptember 30, 2022": 33,
+        "Nine Months EndedSeptember 30, 2021": 167
+    },
+    "Pension and non-pension postretirement benefit plan valuation adjustment": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 14,
+        "Nine Months EndedSeptember 30, 2022": 2,
+        "Nine Months EndedSeptember 30, 2021": 15
+    },
+    "Unrealized gain on foreign currency translation": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": -3,
+        "Nine Months EndedSeptember 30, 2022": "",
+        "Nine Months EndedSeptember 30, 2021": -1
+    },
+    "Other comprehensive income": {
+        "Three Months EndedSeptember 30, 2022": 9,
+        "Three Months EndedSeptember 30, 2021": 66,
+        "Nine Months EndedSeptember 30, 2022": 35,
+        "Nine Months EndedSeptember 30, 2021": 177
+    },
+    "Comprehensive income": {
+        "Three Months EndedSeptember 30, 2022": 685,
+        "Three Months EndedSeptember 30, 2021": 1295,
+        "Nine Months EndedSeptember 30, 2022": 1774,
+        "Nine Months EndedSeptember 30, 2021": 1618
+    },
+    "Comprehensive income attributable to noncontrolling interests": {
+        "Three Months EndedSeptember 30, 2022": "",
+        "Three Months EndedSeptember 30, 2021": 26,
+        "Nine Months EndedSeptember 30, 2022": 1,
+        "Nine Months EndedSeptember 30, 2021": 126
+    },
+    "Comprehensive income attributable to common shareholders": {
+        "Three Months EndedSeptember 30, 2022": 685,
+        "Three Months EndedSeptember 30, 2021": 1269,
+        "Nine Months EndedSeptember 30, 2022": 1773,
+        "Nine Months EndedSeptember 30, 2021": 1492
+    },
+    "Average shares of common stock outstanding:": {},
+    "Basic": {
+        "Three Months EndedSeptember 30, 2022": ""
+    },
+    "Assumed exercise and/or distributions of stock-based awards": {
+        "Three Months EndedSeptember 30, 2022": 1,
+        "Three Months EndedSeptember 30, 2021": 1,
+        "Nine Months EndedSeptember 30, 2022": 1,
+        "Nine Months EndedSeptember 30, 2021": 1
+    },
+    "Diluted-a": {
+        "Three Months EndedSeptember 30, 2022": 989,
+        "Three Months EndedSeptember 30, 2021": 980,
+        "Nine Months EndedSeptember 30, 2022": 984,
+        "Nine Months EndedSeptember 30, 2021": 979
+    },
+    "Earnings per average common share from continuing operations": {},
+    "Diluted": {
+        "Three Months EndedSeptember 30, 2022": ""
+    },
+    "Earnings per average common share from discontinued operations": {}
+}

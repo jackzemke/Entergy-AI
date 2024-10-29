@@ -1,0 +1,228 @@
+{
+    "Operating revenues": {},
+    "Competitive businesses revenues": {
+        "Three Months EndedSeptember 30, 2020": 4330,
+        "Three Months EndedSeptember 30, 2019": 4499,
+        "Nine Months EndedSeptember 30, 2020": 12344,
+        "Nine Months EndedSeptember 30, 2019": 13436
+    },
+    "Rate-regulated utility revenues": {
+        "Three Months EndedSeptember 30, 2020": 4533,
+        "Three Months EndedSeptember 30, 2019": 4510,
+        "Nine Months EndedSeptember 30, 2020": 12643,
+        "Nine Months EndedSeptember 30, 2019": 12758
+    },
+    "Revenues from alternative revenue programs": {
+        "Three Months EndedSeptember 30, 2020": -11,
+        "Three Months EndedSeptember 30, 2019": -80,
+        "Nine Months EndedSeptember 30, 2020": -66,
+        "Nine Months EndedSeptember 30, 2019": -98
+    },
+    "Operating revenue from affiliates": {
+        "Three Months EndedSeptember 30, 2020": 1,
+        "Three Months EndedSeptember 30, 2019": "",
+        "Nine Months EndedSeptember 30, 2020": 4,
+        "Nine Months EndedSeptember 30, 2019": ""
+    },
+    "Total operating revenues": {
+        "Three Months EndedSeptember 30, 2020": 8853,
+        "Three Months EndedSeptember 30, 2019": 8929,
+        "Nine Months EndedSeptember 30, 2020": 24925,
+        "Nine Months EndedSeptember 30, 2019": 26096
+    },
+    "Operating expenses": {},
+    "Competitive businesses purchased power and fuel": {
+        "Three Months EndedSeptember 30, 2020": 2311,
+        "Three Months EndedSeptember 30, 2019": 2648,
+        "Nine Months EndedSeptember 30, 2020": 6967,
+        "Nine Months EndedSeptember 30, 2019": 8142
+    },
+    "Rate-regulated utility purchased power and fuel": {
+        "Three Months EndedSeptember 30, 2020": 1303,
+        "Three Months EndedSeptember 30, 2019": 1304,
+        "Nine Months EndedSeptember 30, 2020": 3439,
+        "Nine Months EndedSeptember 30, 2019": 3589
+    },
+    "Operating and maintenance": {
+        "Three Months EndedSeptember 30, 2020": 2732,
+        "Three Months EndedSeptember 30, 2019": 2072,
+        "Nine Months EndedSeptember 30, 2020": 7370,
+        "Nine Months EndedSeptember 30, 2019": 6419
+    },
+    "Depreciation and amortization": {
+        "Three Months EndedSeptember 30, 2020": 1289,
+        "Three Months EndedSeptember 30, 2019": 1083,
+        "Nine Months EndedSeptember 30, 2020": 3312,
+        "Nine Months EndedSeptember 30, 2019": 3237
+    },
+    "Taxes other than income taxes": {
+        "Three Months EndedSeptember 30, 2020": 452,
+        "Three Months EndedSeptember 30, 2019": 452,
+        "Nine Months EndedSeptember 30, 2020": 1299,
+        "Nine Months EndedSeptember 30, 2019": 1316
+    },
+    "Total operating expenses": {
+        "Three Months EndedSeptember 30, 2020": 8087,
+        "Three Months EndedSeptember 30, 2019": 7559,
+        "Nine Months EndedSeptember 30, 2020": 22387,
+        "Nine Months EndedSeptember 30, 2019": 22703
+    },
+    "Gain -Loss on sales of assets and businesses": {
+        "Three Months EndedSeptember 30, 2020": 3,
+        "Three Months EndedSeptember 30, 2019": -17,
+        "Nine Months EndedSeptember 30, 2020": 16,
+        "Nine Months EndedSeptember 30, 2019": 19
+    },
+    "Operating income": {
+        "Three Months EndedSeptember 30, 2020": 769,
+        "Three Months EndedSeptember 30, 2019": 1353,
+        "Nine Months EndedSeptember 30, 2020": 2554,
+        "Nine Months EndedSeptember 30, 2019": 3412
+    },
+    "Other income and -deductions": {},
+    "Interest expense net": {
+        "Three Months EndedSeptember 30, 2020": -398,
+        "Three Months EndedSeptember 30, 2019": -403,
+        "Nine Months EndedSeptember 30, 2020": -1222,
+        "Nine Months EndedSeptember 30, 2019": -1202
+    },
+    "Interest expense to affiliates": {
+        "Three Months EndedSeptember 30, 2020": -6,
+        "Three Months EndedSeptember 30, 2019": -6,
+        "Nine Months EndedSeptember 30, 2020": -19,
+        "Nine Months EndedSeptember 30, 2019": -19
+    },
+    "Other net": {
+        "Three Months EndedSeptember 30, 2020": 421,
+        "Three Months EndedSeptember 30, 2019": 158,
+        "Nine Months EndedSeptember 30, 2020": 352,
+        "Nine Months EndedSeptember 30, 2019": 837
+    },
+    "Total other income and -deductions": {
+        "Three Months EndedSeptember 30, 2020": 17,
+        "Three Months EndedSeptember 30, 2019": -251,
+        "Nine Months EndedSeptember 30, 2020": -889,
+        "Nine Months EndedSeptember 30, 2019": -384
+    },
+    "Income before income taxes": {
+        "Three Months EndedSeptember 30, 2020": 786,
+        "Three Months EndedSeptember 30, 2019": 1102,
+        "Nine Months EndedSeptember 30, 2020": 1665,
+        "Nine Months EndedSeptember 30, 2019": 3028
+    },
+    "Income taxes": {
+        "Three Months EndedSeptember 30, 2020": 216,
+        "Three Months EndedSeptember 30, 2019": 172,
+        "Nine Months EndedSeptember 30, 2020": 141,
+        "Nine Months EndedSeptember 30, 2019": 626
+    },
+    "Equity in losses of unconsolidated affiliates": {
+        "Three Months EndedSeptember 30, 2020": -1,
+        "Three Months EndedSeptember 30, 2019": -170,
+        "Nine Months EndedSeptember 30, 2020": -5,
+        "Nine Months EndedSeptember 30, 2019": -182
+    },
+    "Net income": {
+        "Three Months EndedSeptember 30, 2020": 569,
+        "Three Months EndedSeptember 30, 2019": 760,
+        "Nine Months EndedSeptember 30, 2020": 1519,
+        "Nine Months EndedSeptember 30, 2019": 2220
+    },
+    "Net income -loss attributable to noncontrolling interests": {
+        "Three Months EndedSeptember 30, 2020": 68,
+        "Three Months EndedSeptember 30, 2019": -12,
+        "Nine Months EndedSeptember 30, 2020": -85,
+        "Nine Months EndedSeptember 30, 2019": 56
+    },
+    "Net income attributable to common shareholders": {
+        "Three Months EndedSeptember 30, 2020": 501,
+        "Three Months EndedSeptember 30, 2019": 772,
+        "Nine Months EndedSeptember 30, 2020": 1604,
+        "Nine Months EndedSeptember 30, 2019": 2164
+    },
+    "Comprehensive income net of income taxes": {},
+    "Other comprehensive income -loss net of income taxes": {},
+    "Pension and non-pension postretirement benefit plans:": {},
+    "Prior service benefit reclassified to periodic benefit cost": {
+        "Three Months EndedSeptember 30, 2020": -10,
+        "Three Months EndedSeptember 30, 2019": -16,
+        "Nine Months EndedSeptember 30, 2020": -30,
+        "Nine Months EndedSeptember 30, 2019": -49
+    },
+    "Actuarial loss reclassified to periodic benefit cost": {
+        "Three Months EndedSeptember 30, 2020": 49,
+        "Three Months EndedSeptember 30, 2019": 37,
+        "Nine Months EndedSeptember 30, 2020": 142,
+        "Nine Months EndedSeptember 30, 2019": 111
+    },
+    "Pension and non-pension postretirement benefit plan valuation adjustment": {
+        "Three Months EndedSeptember 30, 2020": -13,
+        "Three Months EndedSeptember 30, 2019": 6,
+        "Nine Months EndedSeptember 30, 2020": -17,
+        "Nine Months EndedSeptember 30, 2019": -32
+    },
+    "Unrealized loss on cash flow hedges": {
+        "Three Months EndedSeptember 30, 2020": -1,
+        "Three Months EndedSeptember 30, 2019": "",
+        "Nine Months EndedSeptember 30, 2020": -2,
+        "Nine Months EndedSeptember 30, 2019": ""
+    },
+    "Unrealized gain on investments in unconsolidated affiliates": {
+        "Three Months EndedSeptember 30, 2020": "",
+        "Three Months EndedSeptember 30, 2019": 5,
+        "Nine Months EndedSeptember 30, 2020": "",
+        "Nine Months EndedSeptember 30, 2019": 1
+    },
+    "Unrealized gain -loss on foreign currency translation": {
+        "Three Months EndedSeptember 30, 2020": 3,
+        "Three Months EndedSeptember 30, 2019": -2,
+        "Nine Months EndedSeptember 30, 2020": -3,
+        "Nine Months EndedSeptember 30, 2019": 2
+    },
+    "Other comprehensive income": {
+        "Three Months EndedSeptember 30, 2020": 28,
+        "Three Months EndedSeptember 30, 2019": 30,
+        "Nine Months EndedSeptember 30, 2020": 90,
+        "Nine Months EndedSeptember 30, 2019": 33
+    },
+    "Comprehensive income": {
+        "Three Months EndedSeptember 30, 2020": 597,
+        "Three Months EndedSeptember 30, 2019": 790,
+        "Nine Months EndedSeptember 30, 2020": 1609,
+        "Nine Months EndedSeptember 30, 2019": 2253
+    },
+    "Comprehensive income -loss attributable to noncontrolling interests": {
+        "Three Months EndedSeptember 30, 2020": 68,
+        "Three Months EndedSeptember 30, 2019": -9,
+        "Nine Months EndedSeptember 30, 2020": -85,
+        "Nine Months EndedSeptember 30, 2019": 57
+    },
+    "Comprehensive income attributable to common shareholders": {
+        "Three Months EndedSeptember 30, 2020": 529,
+        "Three Months EndedSeptember 30, 2019": 799,
+        "Nine Months EndedSeptember 30, 2020": 1694,
+        "Nine Months EndedSeptember 30, 2019": 2196
+    },
+    "Average shares of common stock outstanding:": {},
+    "Basic": {
+        "Three Months EndedSeptember 30, 2020": 1,
+        "Three Months EndedSeptember 30, 2019": 2
+    },
+    "Assumed exercise and/or distributions of stock-based awards": {
+        "Three Months EndedSeptember 30, 2020": 1,
+        "Three Months EndedSeptember 30, 2019": 1,
+        "Nine Months EndedSeptember 30, 2020": "",
+        "Nine Months EndedSeptember 30, 2019": 1
+    },
+    "Diluted-a": {
+        "Three Months EndedSeptember 30, 2020": 977,
+        "Three Months EndedSeptember 30, 2019": 974,
+        "Nine Months EndedSeptember 30, 2020": 976,
+        "Nine Months EndedSeptember 30, 2019": 973
+    },
+    "Earnings per average common share:": {},
+    "Diluted": {
+        "Three Months EndedSeptember 30, 2020": 1,
+        "Three Months EndedSeptember 30, 2019": 2
+    }
+}

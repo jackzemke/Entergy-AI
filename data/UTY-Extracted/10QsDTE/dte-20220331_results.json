@@ -1,0 +1,108 @@
+{
+    "": {
+        "Header 1": 148,
+        "Header 2": 122
+    },
+    "Operating Revenues": {},
+    "Utility operations": {
+        "Header 1": 2234,
+        "Header 2": 1953
+    },
+    "Non-utility operations": {
+        "Header 1": 2343,
+        "Header 2": 1628
+    },
+    "Operating Expenses": {},
+    "Fuel purchased power and gas  utility": {
+        "Header 1": 700,
+        "Header 2": 544
+    },
+    "Fuel purchased power gas and other  non-utility": {
+        "Header 1": 2242,
+        "Header 2": 1595
+    },
+    "Operation and maintenance": {
+        "Header 1": 596,
+        "Header 2": 567
+    },
+    "Depreciation and amortization": {
+        "Header 1": 358,
+        "Header 2": 327
+    },
+    "Taxes other than income": {
+        "Header 1": 123,
+        "Header 2": 115
+    },
+    "Operating Income": {
+        "Header 1": 558,
+        "Header 2": 433
+    },
+    "Other -Income and Deductions": {},
+    "Interest expense": {
+        "Header 1": 154,
+        "Header 2": 155
+    },
+    "Interest income": {
+        "Header 1": -8,
+        "Header 2": -4
+    },
+    "Non-operating retirement benefits net": {
+        "Header 1": -3,
+        "Header 2": 4
+    },
+    "Other income": {
+        "Header 1": -8,
+        "Header 2": -43
+    },
+    "Other expenses": {
+        "Header 1": 13,
+        "Header 2": 10
+    },
+    "Income Before Income Taxes": {
+        "Header 1": 410,
+        "Header 2": 311
+    },
+    "Income Tax Expense -Benefit -Note 2": {
+        "Header 1": 16,
+        "Header 2": -6
+    },
+    "Net Income from Continuing Operations": {
+        "Header 1": 394,
+        "Header 2": 317
+    },
+    "Net Income from Discontinued Operations Net of Taxes -Note 4": {
+        "Header 1": "",
+        "Header 2": 80
+    },
+    "Net Income": {
+        "Header 1": 394,
+        "Header 2": 397
+    },
+    "Less: Net Income -Loss Attributable to Noncontrolling Interests": {},
+    "Continuing operations": {
+        "Header 1": 2,
+        "Header 2": 1
+    },
+    "Discontinued operations": {
+        "Header 1": ""
+    },
+    "Net Income Attributable to DTE Energy Company": {
+        "Header 1": 394,
+        "Header 2": 397
+    },
+    "Basic Earnings per Common Share": {},
+    "Total": {
+        "Header 1": 2,
+        "Header 2": 2
+    },
+    "Diluted Earnings per Common Share": {},
+    "Weighted Average Common Shares Outstanding": {},
+    "Basic": {
+        "Header 1": 193,
+        "Header 2": 194
+    },
+    "Diluted": {
+        "Header 1": 194,
+        "Header 2": 194
+    }
+}

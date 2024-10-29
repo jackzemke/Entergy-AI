@@ -1,0 +1,167 @@
+{
+    "": {
+        "Header 1": "September 30",
+        "Header 2": "September 30"
+    },
+    "-in millions except per share amounts": {
+        "Header 1": 2020,
+        "Header 2": 2019,
+        "Header 3": 2020,
+        "Header 4": 2019
+    },
+    "Operating Revenues": {},
+    "Regulated electric": {
+        "Header 1": 6315,
+        "Header 2": 6515,
+        "Header 3": 16402,
+        "Header 4": 17223
+    },
+    "Regulated natural gas": {
+        "Header 1": 214,
+        "Header 2": 223,
+        "Header 3": 1115,
+        "Header 4": 1231
+    },
+    "Nonregulated electric and other": {
+        "Header 1": 192,
+        "Header 2": 202,
+        "Header 3": 574,
+        "Header 4": 522
+    },
+    "Total operating revenues": {
+        "Header 1": 6721,
+        "Header 2": 6940,
+        "Header 3": 18091,
+        "Header 4": 18976
+    },
+    "Operating Expenses": {},
+    "Fuel used in electric generation and purchased power": {
+        "Header 1": 1849,
+        "Header 2": 1978,
+        "Header 3": 4645,
+        "Header 4": 5228
+    },
+    "Cost of natural gas": {
+        "Header 1": 41,
+        "Header 2": 48,
+        "Header 3": 299,
+        "Header 4": 451
+    },
+    "Operation maintenance and other": {
+        "Header 1": 1450,
+        "Header 2": 1484,
+        "Header 3": 4142,
+        "Header 4": 4337
+    },
+    "Depreciation and amortization": {
+        "Header 1": 1217,
+        "Header 2": 1186,
+        "Header 3": 3497,
+        "Header 4": 3364
+    },
+    "Property and other taxes": {
+        "Header 1": 324,
+        "Header 2": 335,
+        "Header 3": 1003,
+        "Header 4": 1012
+    },
+    "Impairment charges": {
+        "Header 1": 28,
+        "Header 2": -20,
+        "Header 3": 36,
+        "Header 4": -16
+    },
+    "Total operating expenses": {
+        "Header 1": 4909,
+        "Header 2": 5011,
+        "Header 3": 13622,
+        "Header 4": 14376
+    },
+    "Gains on Sales of Other Assets and Other net": {
+        "Header 1": 2,
+        "Header 2": "—",
+        "Header 3": 10,
+        "Header 4": "—"
+    },
+    "Operating Income": {
+        "Header 1": 1814,
+        "Header 2": 1929,
+        "Header 3": 4479,
+        "Header 4": 4600
+    },
+    "Other Income and Expenses": {},
+    "Equity in -losses earnings of unconsolidated affiliates": {
+        "Header 1": -80,
+        "Header 2": 50,
+        "Header 3": -2004,
+        "Header 4": 137
+    },
+    "Other income and expenses net": {
+        "Header 1": 127,
+        "Header 2": 104,
+        "Header 3": 310,
+        "Header 4": 308
+    },
+    "Total other income and expenses": {
+        "Header 1": 47,
+        "Header 2": 154,
+        "Header 3": -1694,
+        "Header 4": 445
+    },
+    "Interest Expense": {
+        "Header 1": 522,
+        "Header 2": 572,
+        "Header 3": 1627,
+        "Header 4": 1657
+    },
+    "Income Before Income Taxes": {
+        "Header 1": 1339,
+        "Header 2": 1511,
+        "Header 3": 1158,
+        "Header 4": 3388
+    },
+    "Income Tax Expense -Benefit": {
+        "Header 1": 105,
+        "Header 2": 188,
+        "Header 3": -74,
+        "Header 4": 424
+    },
+    "Net Income": {
+        "Header 1": 1234,
+        "Header 2": 1323,
+        "Header 3": 1232,
+        "Header 4": 2964
+    },
+    "Add: Net Loss Attributable to Noncontrolling Interests": {
+        "Header 1": 70,
+        "Header 2": 19,
+        "Header 3": 208,
+        "Header 4": 110
+    },
+    "Net Income Attributable to Duke Energy Corporation": {
+        "Header 1": 1304,
+        "Header 2": 1342,
+        "Header 3": 1440,
+        "Header 4": 3074
+    },
+    "Less: Preferred Dividends": {
+        "Header 1": 39,
+        "Header 2": 15,
+        "Header 3": 93,
+        "Header 4": 27
+    },
+    "Net Income Available to Duke Energy Corporation Common Stockholders": {
+        "Header 1": 1265,
+        "Header 2": 1327,
+        "Header 3": 1347,
+        "Header 4": 3047
+    },
+    "Earnings Per Share – Basic and Diluted": {},
+    "Basic and Diluted": {
+        "Header 1": 735,
+        "Header 2": 729,
+        "Header 3": 735,
+        "Header 4": 728
+    },
+    "Weighted Average Shares Outstanding": {}
+}

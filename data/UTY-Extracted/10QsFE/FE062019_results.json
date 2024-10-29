@@ -1,0 +1,183 @@
+{
+    "-In millions except per share amounts": {
+        "Header 1": 2019,
+        "Header 2": 2018,
+        "Header 3": 2019,
+        "Header 4": 2018
+    },
+    "REVENUES:": {},
+    "Distribution services and retail generation": {
+        "Header 1": 1931,
+        "Header 2": 2049,
+        "Header 3": 4240,
+        "Header 4": 4344
+    },
+    "Transmission": {
+        "Header 1": 367,
+        "Header 2": 336,
+        "Header 3": 719,
+        "Header 4": 655
+    },
+    "Other": {
+        "Header 1": 218,
+        "Header 2": 240,
+        "Header 3": 440,
+        "Header 4": 488
+    },
+    "Total revenues-1": {
+        "Header 1": 2516,
+        "Header 2": 2625,
+        "Header 3": 5399,
+        "Header 4": 5487
+    },
+    "OPERATING EXPENSES:": {},
+    "Fuel": {
+        "Header 1": 129,
+        "Header 2": 128,
+        "Header 3": 260,
+        "Header 4": 267
+    },
+    "Purchased power": {
+        "Header 1": 611,
+        "Header 2": 697,
+        "Header 3": 1392,
+        "Header 4": 1517
+    },
+    "Other operating expenses": {
+        "Header 1": 606,
+        "Header 2": 684,
+        "Header 3": 1385,
+        "Header 4": 1624
+    },
+    "Provision for depreciation": {
+        "Header 1": 309,
+        "Header 2": 283,
+        "Header 3": 606,
+        "Header 4": 560
+    },
+    "Amortization -deferral of regulatory assets net": {
+        "Header 1": 37,
+        "Header 2": -107,
+        "Header 3": 42,
+        "Header 4": -255
+    },
+    "General taxes": {
+        "Header 1": 239,
+        "Header 2": 240,
+        "Header 3": 500,
+        "Header 4": 494
+    },
+    "Total operating expenses": {
+        "Header 1": 1931,
+        "Header 2": 1925,
+        "Header 3": 4185,
+        "Header 4": 4207
+    },
+    "OPERATING INCOME": {
+        "Header 1": 585,
+        "Header 2": 700,
+        "Header 3": 1214,
+        "Header 4": 1280
+    },
+    "OTHER INCOME -EXPENSE:": {},
+    "Miscellaneous income net": {
+        "Header 1": 80,
+        "Header 2": 48,
+        "Header 3": 134,
+        "Header 4": 115
+    },
+    "Interest expense": {
+        "Header 1": -259,
+        "Header 2": -355,
+        "Header 3": -512,
+        "Header 4": -603
+    },
+    "Capitalized financing costs": {
+        "Header 1": 16,
+        "Header 2": 16,
+        "Header 3": 34,
+        "Header 4": 31
+    },
+    "Total other expense": {
+        "Header 1": -163,
+        "Header 2": -291,
+        "Header 3": -344,
+        "Header 4": -457
+    },
+    "INCOME BEFORE INCOME TAXES": {
+        "Header 1": 422,
+        "Header 2": 409,
+        "Header 3": 870,
+        "Header 4": 823
+    },
+    "INCOME TAXES": {
+        "Header 1": 81,
+        "Header 2": 101,
+        "Header 3": 174,
+        "Header 4": 334
+    },
+    "INCOME FROM CONTINUING OPERATIONS": {
+        "Header 1": 341,
+        "Header 2": 308,
+        "Header 3": 696,
+        "Header 4": 489
+    },
+    "Discontinued operations -Note 3-2": {
+        "Header 1": -29,
+        "Header 2": -9,
+        "Header 3": -64,
+        "Header 4": 1179
+    },
+    "NET INCOME": {
+        "Header 1": 312,
+        "Header 2": 299,
+        "Header 3": 632,
+        "Header 4": 1668
+    },
+    "INCOME ALLOCATED TO PREFERRED STOCKHOLDERS -Note 4": {
+        "Header 1": 4,
+        "Header 2": 165,
+        "Header 3": 9,
+        "Header 4": 304
+    },
+    "NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS": {
+        "Header 1": 308,
+        "Header 2": 134,
+        "Header 3": 623,
+        "Header 4": 1364
+    },
+    "EARNINGS PER SHARE OF COMMON STOCK -Note 4:": {},
+    "Basic - Continuing Operations": {
+        "Header 1": 1
+    },
+    "Basic - Discontinued Operations": {
+        "Header 1": 2
+    },
+    "Basic - Net Income Attributable to Common Stockholders": {
+        "Header 1": 1,
+        "Header 2": 2
+    },
+    "Diluted - Continuing Operations": {
+        "Header 1": 1
+    },
+    "Diluted - Discontinued Operations": {
+        "Header 1": 2
+    },
+    "Diluted - Net Income Attributable to Common Stockholders": {
+        "Header 1": 1,
+        "Header 2": 2
+    },
+    "WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING:": {},
+    "Basic": {
+        "Header 1": 532,
+        "Header 2": 477,
+        "Header 3": 531,
+        "Header 4": 477
+    },
+    "Diluted": {
+        "Header 1": 533,
+        "Header 2": 479,
+        "Header 3": 533,
+        "Header 4": 478
+    }
+}

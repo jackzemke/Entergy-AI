@@ -1,0 +1,187 @@
+{
+    "": {
+        "Header 1": "June 30",
+        "Header 2": "June 30"
+    },
+    "-in millions except per-share amounts": {
+        "Header 1": 2019,
+        "Header 2": 2018,
+        "Header 3": 2019,
+        "Header 4": 2018
+    },
+    "Operating Revenues": {},
+    "Regulated electric": {
+        "Header 1": 5423,
+        "Header 2": 5178,
+        "Header 3": 10708,
+        "Header 4": 10462
+    },
+    "Regulated natural gas": {
+        "Header 1": 280,
+        "Header 2": 291,
+        "Header 3": 1008,
+        "Header 4": 991
+    },
+    "Nonregulated electric and other": {
+        "Header 1": 170,
+        "Header 2": 174,
+        "Header 3": 320,
+        "Header 4": 325
+    },
+    "Total operating revenues": {
+        "Header 1": 5873,
+        "Header 2": 5643,
+        "Header 3": 12036,
+        "Header 4": 11778
+    },
+    "Operating Expenses": {},
+    "Fuel used in electric generation and purchased power": {
+        "Header 1": 1641,
+        "Header 2": 1574,
+        "Header 3": 3250,
+        "Header 4": 3250
+    },
+    "Cost of natural gas": {
+        "Header 1": 76,
+        "Header 2": 89,
+        "Header 3": 403,
+        "Header 4": 402
+    },
+    "Operation maintenance and other": {
+        "Header 1": 1434,
+        "Header 2": 1544,
+        "Header 3": 2853,
+        "Header 4": 3008
+    },
+    "Depreciation and amortization": {
+        "Header 1": 1089,
+        "Header 2": 973,
+        "Header 3": 2178,
+        "Header 4": 1940
+    },
+    "Property and other taxes": {
+        "Header 1": 334,
+        "Header 2": 315,
+        "Header 3": 677,
+        "Header 4": 631
+    },
+    "Impairment charges": {
+        "Header 1": 4,
+        "Header 2": 172,
+        "Header 3": 4,
+        "Header 4": 215
+    },
+    "Total operating expenses": {
+        "Header 1": 4578,
+        "Header 2": 4667,
+        "Header 3": 9365,
+        "Header 4": 9446
+    },
+    "Gains -Losses on Sales of Other Assets and Other net": {
+        "Header 1": 3,
+        "Header 2": 3,
+        "Header 3": "—",
+        "Header 4": -97
+    },
+    "Operating Income": {
+        "Header 1": 1298,
+        "Header 2": 979,
+        "Header 3": 2671,
+        "Header 4": 2235
+    },
+    "Other Income and Expenses": {},
+    "Equity in earnings of unconsolidated affiliates": {
+        "Header 1": 44,
+        "Header 2": 36,
+        "Header 3": 87,
+        "Header 4": 12
+    },
+    "Other income and expenses net": {
+        "Header 1": 89,
+        "Header 2": 110,
+        "Header 3": 204,
+        "Header 4": 196
+    },
+    "Total other income and expenses": {
+        "Header 1": 133,
+        "Header 2": 146,
+        "Header 3": 291,
+        "Header 4": 208
+    },
+    "Interest Expense": {
+        "Header 1": 542,
+        "Header 2": 518,
+        "Header 3": 1085,
+        "Header 4": 1033
+    },
+    "Income From Continuing Operations Before Income Taxes": {
+        "Header 1": 889,
+        "Header 2": 607,
+        "Header 3": 1877,
+        "Header 4": 1410
+    },
+    "Income Tax Expense From Continuing Operations": {
+        "Header 1": 141,
+        "Header 2": 100,
+        "Header 3": 236,
+        "Header 4": 281
+    },
+    "Income From Continuing Operations": {
+        "Header 1": 748,
+        "Header 2": 507,
+        "Header 3": 1641,
+        "Header 4": 1129
+    },
+    "Loss From Discontinued Operations net of tax": {
+        "Header 1": "—",
+        "Header 2": -5,
+        "Header 3": "—",
+        "Header 4": -5
+    },
+    "Net Income": {
+        "Header 1": 748,
+        "Header 2": 502,
+        "Header 3": 1641,
+        "Header 4": 1124
+    },
+    "Less: Net -Loss Income Attributable to Noncontrolling Interests": {
+        "Header 1": -84,
+        "Header 2": 2,
+        "Header 3": -91,
+        "Header 4": 4
+    },
+    "Less: Preferred Dividends": {
+        "Header 1": 12,
+        "Header 2": "—",
+        "Header 3": 12,
+        "Header 4": "—"
+    },
+    "Net Income Attributable to Duke Energy Corporation": {
+        "Header 1": 820,
+        "Header 2": 500,
+        "Header 3": 1720,
+        "Header 4": 1120
+    },
+    "Earnings Per Share – Basic and Diluted": {},
+    "Income from continuing operations attributable to Duke Energy Corporation common stockholders": {},
+    "Basic and Diluted": {
+        "Header 1": 1,
+        "Header 2": 2,
+        "Header 3": 1
+    },
+    "Loss from discontinued operations attributable to Duke Energy Corporation common stockholders": {},
+    "Net income attributable to Duke Energy Corporation common stockholders": {},
+    "Weighted average shares outstanding": {},
+    "Basic": {
+        "Header 1": 728,
+        "Header 2": 703,
+        "Header 3": 728,
+        "Header 4": 702
+    },
+    "Diluted": {
+        "Header 1": 728,
+        "Header 2": 704,
+        "Header 3": 728,
+        "Header 4": 702
+    }
+}

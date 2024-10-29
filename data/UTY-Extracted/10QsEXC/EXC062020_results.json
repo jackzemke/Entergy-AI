@@ -1,0 +1,234 @@
+{
+    "-In millions except per share data": {
+        "Header 1": 2020,
+        "Header 2": 2019,
+        "Header 3": 2020,
+        "Header 4": 2019
+    },
+    "Operating revenues": {},
+    "Competitive businesses revenues": {
+        "Header 1": 3611,
+        "Header 2": 3959,
+        "Header 3": 8014,
+        "Header 4": 8938
+    },
+    "Rate-regulated utility revenues": {
+        "Header 1": 3832,
+        "Header 2": 3743,
+        "Header 3": 8108,
+        "Header 4": 8247
+    },
+    "Revenues from alternative revenue programs": {
+        "Header 1": -122,
+        "Header 2": -13,
+        "Header 3": -55,
+        "Header 4": -19
+    },
+    "Operating revenue from affiliates": {
+        "Header 1": 1,
+        "Header 2": "—",
+        "Header 3": 2,
+        "Header 4": "—"
+    },
+    "Total operating revenues": {
+        "Header 1": 7322,
+        "Header 2": 7689,
+        "Header 3": 16069,
+        "Header 4": 17166
+    },
+    "Operating expenses": {},
+    "Competitive businesses purchased power and fuel": {
+        "Header 1": 1945,
+        "Header 2": 2289,
+        "Header 3": 4655,
+        "Header 4": 5493
+    },
+    "Rate-regulated utility purchased power and fuel": {
+        "Header 1": 979,
+        "Header 2": 936,
+        "Header 3": 2136,
+        "Header 4": 2285
+    },
+    "Operating and maintenance": {
+        "Header 1": 2433,
+        "Header 2": 2159,
+        "Header 3": 4637,
+        "Header 4": 4347
+    },
+    "Depreciation and amortization": {
+        "Header 1": 1001,
+        "Header 2": 1079,
+        "Header 3": 2023,
+        "Header 4": 2154
+    },
+    "Taxes other than income taxes": {
+        "Header 1": 411,
+        "Header 2": 418,
+        "Header 3": 847,
+        "Header 4": 863
+    },
+    "Total operating expenses": {
+        "Header 1": 6769,
+        "Header 2": 6881,
+        "Header 3": 14298,
+        "Header 4": 15142
+    },
+    "Gain on sales of assets and businesses": {
+        "Header 1": 12,
+        "Header 2": 33,
+        "Header 3": 13,
+        "Header 4": 36
+    },
+    "Operating income": {
+        "Header 1": 565,
+        "Header 2": 841,
+        "Header 3": 1784,
+        "Header 4": 2060
+    },
+    "Other income and -deductions": {},
+    "Interest expense net": {
+        "Header 1": -421,
+        "Header 2": -403,
+        "Header 3": -824,
+        "Header 4": -800
+    },
+    "Interest expense to affiliates": {
+        "Header 1": -6,
+        "Header 2": -6,
+        "Header 3": -13,
+        "Header 4": -13
+    },
+    "Other net": {
+        "Header 1": 656,
+        "Header 2": 212,
+        "Header 3": -68,
+        "Header 4": 679
+    },
+    "Total other income and -deductions": {
+        "Header 1": 229,
+        "Header 2": -197,
+        "Header 3": -905,
+        "Header 4": -134
+    },
+    "Income before income taxes": {
+        "Header 1": 794,
+        "Header 2": 644,
+        "Header 3": 879,
+        "Header 4": 1926
+    },
+    "Income taxes": {
+        "Header 1": 219,
+        "Header 2": 144,
+        "Header 3": -75,
+        "Header 4": 454
+    },
+    "Equity in losses of unconsolidated affiliates": {
+        "Header 1": -1,
+        "Header 2": -6,
+        "Header 3": -4,
+        "Header 4": -12
+    },
+    "Net income": {
+        "Header 1": 574,
+        "Header 2": 494,
+        "Header 3": 950,
+        "Header 4": 1460
+    },
+    "Net income -loss attributable to noncontrolling interests": {
+        "Header 1": 53,
+        "Header 2": 10,
+        "Header 3": -153,
+        "Header 4": 69
+    },
+    "Net income attributable to common shareholders": {
+        "Header 1": 521,
+        "Header 2": 484,
+        "Header 3": 1103,
+        "Header 4": 1391
+    },
+    "Comprehensive income net of income taxes": {},
+    "Other comprehensive income -loss net of income taxes": {},
+    "Pension and non-pension postretirement benefit plans:": {},
+    "Prior service benefit reclassified to periodic benefit cost": {
+        "Header 1": -10,
+        "Header 2": -16,
+        "Header 3": -20,
+        "Header 4": -32
+    },
+    "Actuarial loss reclassified to periodic benefit cost": {
+        "Header 1": 47,
+        "Header 2": 36,
+        "Header 3": 94,
+        "Header 4": 74
+    },
+    "Pension and non-pension postretirement benefit plan valuation adjustment": {
+        "Header 1": 2,
+        "Header 2": "—",
+        "Header 3": -5,
+        "Header 4": -39
+    },
+    "Unrealized loss on cash flow hedges": {
+        "Header 1": "—",
+        "Header 2": "—",
+        "Header 3": -1,
+        "Header 4": "—"
+    },
+    "Unrealized loss on investments in unconsolidated affiliates": {
+        "Header 1": "—",
+        "Header 2": -2,
+        "Header 3": "—",
+        "Header 4": -4
+    },
+    "Unrealized gain -loss on foreign currency translation": {
+        "Header 1": 2,
+        "Header 2": 3,
+        "Header 3": -6,
+        "Header 4": 4
+    },
+    "Other comprehensive income": {
+        "Header 1": 41,
+        "Header 2": 21,
+        "Header 3": 62,
+        "Header 4": 3
+    },
+    "Comprehensive income": {
+        "Header 1": 615,
+        "Header 2": 515,
+        "Header 3": 1012,
+        "Header 4": 1463
+    },
+    "Comprehensive income -loss attributable to noncontrolling interests": {
+        "Header 1": 53,
+        "Header 2": 9,
+        "Header 3": -153,
+        "Header 4": 67
+    },
+    "Comprehensive income attributable to common shareholders": {
+        "Header 1": 562,
+        "Header 2": 506,
+        "Header 3": 1165,
+        "Header 4": 1396
+    },
+    "Average shares of common stock outstanding:": {},
+    "Basic": {
+        "Header 1": 1,
+        "Header 2": 1
+    },
+    "Assumed exercise and/or distributions of stock-based awards": {
+        "Header 1": "—",
+        "Header 2": 2,
+        "Header 3": 1,
+        "Header 4": 1
+    },
+    "Diluted-a": {
+        "Header 1": 976,
+        "Header 2": 974,
+        "Header 3": 976,
+        "Header 4": 973
+    },
+    "Earnings per average common share:": {},
+    "Diluted": {
+        "Header 1": 1,
+        "Header 2": 1
+    }
+}

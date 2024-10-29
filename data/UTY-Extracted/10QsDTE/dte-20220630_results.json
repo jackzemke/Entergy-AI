@@ -1,0 +1,165 @@
+{
+    "": {
+        "Three Months Ended June 30, 2022": 168,
+        "Three Months Ended June 30, 2021": 127,
+        "Six Months Ended June 30, 2022": 316,
+        "Six Months Ended June 30, 2021": 249
+    },
+    "Operating Revenues": {},
+    "Utility operations": {
+        "Three Months Ended June 30, 2022": 1909,
+        "Three Months Ended June 30, 2021": 1655,
+        "Six Months Ended June 30, 2022": 4143,
+        "Six Months Ended June 30, 2021": 3608
+    },
+    "Non-utility operations": {
+        "Three Months Ended June 30, 2022": 3015,
+        "Three Months Ended June 30, 2021": 1366,
+        "Six Months Ended June 30, 2022": 5358,
+        "Six Months Ended June 30, 2021": 2994
+    },
+    "Operating Expenses": {},
+    "Fuel purchased power and gas  utility": {
+        "Three Months Ended June 30, 2022": 607,
+        "Three Months Ended June 30, 2021": 390,
+        "Six Months Ended June 30, 2022": 1307,
+        "Six Months Ended June 30, 2021": 934
+    },
+    "Fuel purchased power gas and other  non-utility": {
+        "Three Months Ended June 30, 2022": 3059,
+        "Three Months Ended June 30, 2021": 1347,
+        "Six Months Ended June 30, 2022": 5301,
+        "Six Months Ended June 30, 2021": 2942
+    },
+    "Operation and maintenance": {
+        "Three Months Ended June 30, 2022": 599,
+        "Three Months Ended June 30, 2021": 568,
+        "Six Months Ended June 30, 2022": 1195,
+        "Six Months Ended June 30, 2021": 1135
+    },
+    "Depreciation and amortization": {
+        "Three Months Ended June 30, 2022": 366,
+        "Three Months Ended June 30, 2021": 339,
+        "Six Months Ended June 30, 2022": 724,
+        "Six Months Ended June 30, 2021": 666
+    },
+    "Taxes other than income": {
+        "Three Months Ended June 30, 2022": 115,
+        "Three Months Ended June 30, 2021": 108,
+        "Six Months Ended June 30, 2022": 238,
+        "Six Months Ended June 30, 2021": 223
+    },
+    "Asset -gains losses and impairments net": {
+        "Three Months Ended June 30, 2022": -5,
+        "Three Months Ended June 30, 2021": 27,
+        "Six Months Ended June 30, 2022": -5,
+        "Six Months Ended June 30, 2021": 27
+    },
+    "Operating Income": {
+        "Three Months Ended June 30, 2022": 183,
+        "Three Months Ended June 30, 2021": 242,
+        "Six Months Ended June 30, 2022": 741,
+        "Six Months Ended June 30, 2021": 675
+    },
+    "Other -Income and Deductions": {},
+    "Interest expense": {
+        "Three Months Ended June 30, 2022": 161,
+        "Three Months Ended June 30, 2021": 166,
+        "Six Months Ended June 30, 2022": 315,
+        "Six Months Ended June 30, 2021": 321
+    },
+    "Interest income": {
+        "Three Months Ended June 30, 2022": -8,
+        "Three Months Ended June 30, 2021": -6,
+        "Six Months Ended June 30, 2022": -16,
+        "Six Months Ended June 30, 2021": -10
+    },
+    "Non-operating retirement benefits net": {
+        "Three Months Ended June 30, 2022": -5,
+        "Three Months Ended June 30, 2021": 3,
+        "Six Months Ended June 30, 2022": -8,
+        "Six Months Ended June 30, 2021": 7
+    },
+    "Loss on extinguishment of debt": {
+        "Three Months Ended June 30, 2022": "",
+        "Three Months Ended June 30, 2021": 8,
+        "Six Months Ended June 30, 2022": "",
+        "Six Months Ended June 30, 2021": 8
+    },
+    "Other income": {
+        "Three Months Ended June 30, 2022": -11,
+        "Three Months Ended June 30, 2021": -54,
+        "Six Months Ended June 30, 2022": -19,
+        "Six Months Ended June 30, 2021": -97
+    },
+    "Other expenses": {
+        "Three Months Ended June 30, 2022": 31,
+        "Three Months Ended June 30, 2021": 10,
+        "Six Months Ended June 30, 2022": 44,
+        "Six Months Ended June 30, 2021": 20
+    },
+    "Income Before Income Taxes": {
+        "Three Months Ended June 30, 2022": 15,
+        "Three Months Ended June 30, 2021": 115,
+        "Six Months Ended June 30, 2022": 425,
+        "Six Months Ended June 30, 2021": 426
+    },
+    "Income Tax Expense -Benefit -Note 2": {
+        "Three Months Ended June 30, 2022": -22,
+        "Three Months Ended June 30, 2021": 1,
+        "Six Months Ended June 30, 2022": -6,
+        "Six Months Ended June 30, 2021": -5
+    },
+    "Net Income from Continuing Operations": {
+        "Three Months Ended June 30, 2022": 37,
+        "Three Months Ended June 30, 2021": 114,
+        "Six Months Ended June 30, 2022": 431,
+        "Six Months Ended June 30, 2021": 431
+    },
+    "Net Income from Discontinued Operations Net of Taxes -Note 4": {
+        "Three Months Ended June 30, 2022": "",
+        "Three Months Ended June 30, 2021": 65,
+        "Six Months Ended June 30, 2022": "",
+        "Six Months Ended June 30, 2021": 145
+    },
+    "Net Income": {
+        "Three Months Ended June 30, 2022": 37,
+        "Three Months Ended June 30, 2021": 179,
+        "Six Months Ended June 30, 2022": 431,
+        "Six Months Ended June 30, 2021": 576
+    },
+    "Less: Net Income -Loss Attributable to Noncontrolling Interests": {},
+    "Continuing operations": {
+        "Three Months Ended June 30, 2022": 2,
+        "Three Months Ended June 30, 2021": 2
+    },
+    "Discontinued operations": {
+        "Three Months Ended June 30, 2022": "",
+        "Three Months Ended June 30, 2021": ""
+    },
+    "Net Income Attributable to DTE Energy Company": {
+        "Three Months Ended June 30, 2022": 37,
+        "Three Months Ended June 30, 2021": 179,
+        "Six Months Ended June 30, 2022": 431,
+        "Six Months Ended June 30, 2021": 576
+    },
+    "Basic Earnings per Common Share": {},
+    "Total": {
+        "Three Months Ended June 30, 2022": 2,
+        "Three Months Ended June 30, 2021": 2
+    },
+    "Diluted Earnings per Common Share": {},
+    "Weighted Average Common Shares Outstanding": {},
+    "Basic": {
+        "Three Months Ended June 30, 2022": 193,
+        "Three Months Ended June 30, 2021": 193,
+        "Six Months Ended June 30, 2022": 193,
+        "Six Months Ended June 30, 2021": 193
+    },
+    "Diluted": {
+        "Three Months Ended June 30, 2022": 194,
+        "Three Months Ended June 30, 2021": 194,
+        "Six Months Ended June 30, 2022": 194,
+        "Six Months Ended June 30, 2021": 194
+    }
+}
