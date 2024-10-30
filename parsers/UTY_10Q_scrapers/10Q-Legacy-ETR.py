@@ -11,7 +11,6 @@ init(autoreset=True)  # Prevents style from being forwarded in print stataments
 
 
 def hardstringtoint(text):
-    # print(f"Original text: {text}")
 
     # Handle dashes or empty text
     if text == '-' or text == '—':
@@ -96,8 +95,6 @@ def extract_results_of_operations(soup):
     return None
 
 # Extract row data as key-value pairs for the dict of dicts
-
-
 def parse_filing(file_path):
     print(f"Parsing file: {file_path}")
     try:
@@ -138,7 +135,6 @@ def parse_filing(file_path):
             row_key = row_data[0] if row_data else ""
             if row_key:
                 row_data = cleanrow(row_data)
-                # print(f"****\nrow_data:{row_data}\n****")
 
                 # Ensure the row_data length matches the headers
                 if len(row_data) < len(headers):
@@ -156,7 +152,7 @@ def parse_filing(file_path):
 
                 data[row_key] = row_dict
             else:
-                # print(f"Skipped empty row: {row_data}")
+                # print(f"Skipped empty row")
                 pass
 
         return data

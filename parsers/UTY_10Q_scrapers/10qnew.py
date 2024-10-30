@@ -213,7 +213,6 @@ def extract_results_of_operations(soup):
                     for key, values in data_rows:
                         print('*'*10)
                         print(f'key: {key}')
-                        # print(f'headers: {headers}')
                         print(f'values: {values}')
                         values = [x for x in values if x != ')']
                         if not headers:
@@ -230,7 +229,6 @@ def extract_results_of_operations(soup):
                         else:
                             continue
 
-                        # row_dict = {}
                         print(f"Mapping row: {key} -> {row_dict}")
                         result[key] = row_dict
 
