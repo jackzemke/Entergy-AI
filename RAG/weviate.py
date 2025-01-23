@@ -1,10 +1,18 @@
 import weaviate
 from weaviate.classes.init import Auth
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+weaviate_url = os.getenv('WEAVIATE_URL')
+weaviate_key = os.getenv('WEAVIATE_KEY')
+
 
 # Best practice: store your credentials in environment variables
-wcd_url = 'https://cdrzeqd0rdgdcl3bmzq3dg.c0.us-east1.gcp.weaviate.cloud'
-wcd_api_key = 'G3Ts24PBGHHkZYOXKV2IQzCphFC8CGpsw0FG'
+wcd_url = weaviate_url
+wcd_api_key = weaviate_key
 
 client = weaviate.connect_to_weaviate_cloud(
     cluster_url=wcd_url,                                   

@@ -1,10 +1,19 @@
 import weaviate
 import json
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+weaviate_url = os.getenv('WEAVIATE_URL')
+weaviate_key = os.getenv('WEAVIATE_KEY')
+openai_key = os.getenv('OPENAI_KEY')
+anthropic_key = os.getenv('ANTHROPIC_KEY')
 
 client = weaviate.Client(
-    url='https://cdrzeqd0rdgdcl3bmzq3dg.c0.us-east1.gcp.weaviate.cloud',
-    auth_client_secret=weaviate.AuthApiKey(api_key='G3Ts24PBGHHkZYOXKV2IQzCphFC8CGpsw0FG')
+    url=weaviate_url,
+    auth_client_secret=weaviate.AuthApiKey(api_key=weaviate_key)
 )
 
 # schema = {
