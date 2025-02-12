@@ -1,26 +1,19 @@
-import warnings
-import weaviate
-from weaviate.auth import AuthApiKey
-from anthropic import Anthropic
-from dotenv import load_dotenv
 import os
 import logging
-from rich.console import Console
-from rich.panel import Panel
+import weaviate
+from weaviate.classes.init import Auth
+from anthropic import Anthropic
+from dotenv import load_dotenv
 from rich.logging import RichHandler
 
-warnings.filterwarnings("ignore", category=DeprecationWarning)
-
-
-# Load environment variables from .env file
+# Load environment variables
 load_dotenv()
 
+# Retrieve keys and URLs from environment variables
 weaviate_url = os.getenv('WEAVIATE_URL')
 weaviate_key = os.getenv('WEAVIATE_KEY')
 openai_key = os.getenv('OPENAI_KEY')
 anthropic_key = os.getenv('ANTHROPIC_KEY')
-
-from weaviate.classes.init import Auth
 
 # Set up logging
 logging.basicConfig(
@@ -30,38 +23,22 @@ logging.basicConfig(
 )
 logger = logging.getLogger("psc_rag")
 
-
-# Setup clients
-# weaviate_client = weaviate.connect_to_weaviate(
-#     cluster_url=weaviate_url,
-#     auth_credentials=Auth.api_key(weaviate_key),
-#     headers={
-#         "X-OpenAI-Api-Key": openai_key
-#     }
-# )
-# claude_client = anthropic.Client(api_key=anthropic_key)
-
-
 class PSC_RAG:
     def __init__(self, weaviate_url, weaviate_key, anthropic_key):
         try:
-            # Initialize Weaviate with v3 syntax
-            self.weaviate_client = weaviate.Client(
-                url=weaviate_url,
-                auth_client_secret=AuthApiKey(api_key=weaviate_key),
-                additional_headers={
-                    "X-OpenAI-Api-Key": openai_key
-                }
-            )
-            
+            # Initialize the Weaviate client
+            self.weaviate_client = weaviate.connect_to_weaviate_cloud(
+                cluster_url=weaviate_url, 
+                auth_credentials=Auth.api_key(weaviate_key),
+                headers={"X-OpenAI-Api-Key": openai_key}
+                )
             # Initialize Anthropic
             self.claude = Anthropic(api_key=anthropic_key)
             logger.info("✅ Successfully initialized PSC_RAG")
-
         except Exception as e:
             logger.error(f"Failed to initialize PSC_RAG: {str(e)}")
             raise
-        
+
     def get_context(self, query, limit=5):
         result = self.weaviate_client.query.get(
             "LATranscript",
@@ -95,7 +72,7 @@ class PSC_RAG:
                 }]
             )
             
-            # Make sure we return a string
+            # Return the response text
             if hasattr(response.content, 'text'):
                 return response.content.text
             return str(response.content)
@@ -103,47 +80,3 @@ class PSC_RAG:
         except Exception as e:
             logger.error(f"Error processing question: {str(e)}")
             return "Sorry, I encountered an error processing your question."
-
-# Usage
-def main():
-    console = Console()
-    rag = PSC_RAG(
-        weaviate_url=weaviate_url,
-        weaviate_key=weaviate_key,
-        anthropic_key=anthropic_key
-    )
-    
-    while True:
-        question = console.input("\n[bold cyan]Ask a question about PSC meetings (or 'quit' to exit):[/] ")
-
-        # question = input("\nAsk a question about PSC meetings (or 'quit' to exit): ")
-        if question.lower() == 'quit':
-            break
-            
-        answer = rag.ask(question)
-        # Extract just the text from the TextBlock
-        if hasattr(answer, 'text'):
-            answer_text = answer.text
-        else:
-            answer_text = str(answer)
-            
-        # Remove any TextBlock wrapper if present
-        if answer_text.startswith('[TextBlock'):
-            answer_text = answer_text.split('text=\'')[1].split('\', type=')[0]
-
-        answer_text = answer_text.replace('\\n', '\n')
-
-            
-        console.print(Panel(
-            answer_text,
-            title="[bold blue]Answer[/]",
-            border_style="blue",
-            padding=(1, 2),
-            expand=True
-        ))
-        
-        console.print("=" * 80)
-
-
-if __name__ == "__main__":
-    main()
