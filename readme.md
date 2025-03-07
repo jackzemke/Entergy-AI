@@ -1,4 +1,4 @@
-# **Weaviate RAG Pipeline with FastAPI & Streamlit**
+# **Public Service Commission RAG Chatbot**
 
 ## **📌 Project Overview**
 
@@ -60,7 +60,7 @@ OPENAI_KEY="your_openai_api_key"
 Before uploading transcripts, ensure the schema exists in Weaviate:
 
 ```python
-python rag_demo.py --init-schema
+python rag_demo.py --init-schema ## WORK IN PROGRESS
 ```
 
 ---
