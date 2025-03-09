@@ -10,15 +10,38 @@ st.set_page_config(page_title="Entergy PSC Finder", layout="wide")
 # Custom CSS
 st.markdown("""
 <style>
-    .stApp {max-width: 1200px; margin: 0 auto;}
-    .main {background-color: #f5f7f9;}
-    .header {color: #2d5986; padding-bottom: 20px; border-bottom: 2px solid #e6e6e6;}
-    .filter-badge {background-color: #f0f2f6; border-radius: 4px; padding: 3px 8px; font-size: 0.8rem;}
+    [data-testid="stAppViewContainer"] {
+        background-color: #0f0f0f !important;
+        color: #f1f1f1 !important;
+    }
+    [data-testid="stSidebar"] {
+        background-color: #181818 !important;
+        color: #f1f1f1 !important;
+    }
+    [data-testid="stHeader"] {
+        background-color: #0f0f0f !important;
+    }
+    [data-testid="block-container"] {
+        max-width: 100% !important;
+        padding-left: 4rem !important;
+        padding-right: 4rem !important;
+    }
+    .title-text {
+        color: #ffffff !important;
+        font-size: 2rem !important;
+        font-weight: bold;
+    }
+    .examples {
+        background-color: #1e1e1e !important;
+        border-left: 4px solid #4CAF50 !important;
+        padding: 1rem !important;
+        border-radius: 5px;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown("<h1 class='header'>Entergy PSC Finder</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='header'>Entergy PSC RAG Chat</h1>", unsafe_allow_html=True)
 
 st.sidebar.image("entergy_logo.png", width=150)
 

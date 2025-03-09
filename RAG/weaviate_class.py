@@ -53,9 +53,10 @@ class PSC_RAG:
             result = self.weaviate_client.query.get(
                 "Transcripts",
                 ["text", "start", "video_id", "state"]
-            ).with_near_text({  # Keep near_text until hybrid is confirmed working
-                "concepts": [query]
-            }).with_limit(limit).do()
+            ).with_hybrid(
+                query=query,
+                alpha=0.5
+            ).with_limit(limit).do()
             
             if not result.get('data', {}).get('Get', {}).get('Transcripts'):
                 return "No relevant context found."
@@ -92,20 +93,15 @@ class PSC_RAG:
             response = self.claude.messages.create(
                 model="claude-3-opus-20240229",
                 max_tokens=1000,
-                system="""You are an expert PSC transcript analyst who synthesizes information while maintaining factual accuracy.
-
-                        KEY REQUIREMENTS:
-                        1. Base ALL analysis on specific transcript evidence
-                        2. Cite sources precisely as [State, Video ID, Timestamp] for each key point
-                        3. Synthesize and connect information across transcript segments
-                        4. Organize information clearly with headers and bullet points
-                        5. Focus on factual content from transcripts, but present it in a cohesive, analytical narrative
-                        6. If information is limited or ambiguous, clearly state this rather than speculating
-                        7. Prioritize accuracy and specificity over generalized statements""",
+                system="""You are an assistant for question-answering tasks. Use
+                            the following pieces of retrieved context to answer
+                            the question. If you don't know the answer, just say
+                            that you don't know. Use three to four sentences maximum
+                            and keep the answer concise.""",
             messages=[{
                 "role": "user",
                 "content": f"""
-                    Based ONLY on these PSC meeting transcript excerpts, answer this question:
+                    Based on these PSC meeting transcript excerpts, answer this question:
 
                     TRANSCRIPT EXCERPTS:
                     {context}
