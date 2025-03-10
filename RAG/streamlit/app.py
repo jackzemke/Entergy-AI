@@ -96,7 +96,7 @@ if prompt := st.chat_input("Ask a question about PSC meetings..."):
     # Display thinking indicator
     with st.spinner("Searching transcripts..."):
         try:
-            response = requests.post(API_URL, json={"question": prompt, "state": filters_applied[0]})
+            response = requests.post(API_URL, json={"question": prompt, "states": filters_applied})            
             response.raise_for_status()
             data = response.json()
             answer = data.get("response", "No answer found.")

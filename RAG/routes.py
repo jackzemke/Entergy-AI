@@ -42,11 +42,13 @@ logger = logging.getLogger("psc_rag")
 # Define a Pydantic model for incoming requests
 class Query(BaseModel):
     question: str
+    # TODO: incorporate state filtering
     state: str = "Louisiana"  # Optional state parameter
 
 # Define the /ask endpoint
 @router.post("/ask")
 async def ask_question(query: Query):
+    # TODO: incorporate state filtering
     answer = rag.ask(query.question, query.state)
     return {"response": answer}
 
