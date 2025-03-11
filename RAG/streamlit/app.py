@@ -7,6 +7,31 @@ API_URL = "http://127.0.0.1:8000/ask"
 # Set page config
 st.set_page_config(page_title="Entergy PSC Finder", layout="wide")
 
+
+#Check pop-up
+if "popup_shown" not in st.session_state:
+    st.session_state.popup_shown = False
+
+# Define the dialog function for the popup
+@st.dialog("Welcome to Entergy PSC RAG Chat", width="large")
+def info_popup():
+    st.write("### Hi, my name is REGGIE! (REGulatory Governance Inquiry Engine)")
+    st.write("""
+    Use the chatbox below to search through PSC meeting transcripts across multiple states dating back to 2021.
+    
+    **How to use:**
+    1. Select the states you want to search in the sidebar
+    2. Type your question in the chat input
+    3. View the response based on relevant transcript sections
+    
+    You can reopen this information anytime by clicking the '?' button.
+    """)
+    if st.button("Got it!"):
+        st.session_state.popup_shown = True
+        st.rerun()
+
+
+
 # Custom CSS
 st.markdown("""
 <style>
@@ -45,8 +70,13 @@ st.markdown("<h1 class='header'>Entergy PSC RAG Chat</h1>", unsafe_allow_html=Tr
 
 st.sidebar.image("entergy_logo.png", width=150)
 
+
+
 # Sidebar filters
 with st.sidebar:
+    if st.button("?", help="Show information", key="help_button_sidebar"):
+        info_popup()
+
     st.header("Search Filters")
     select_all = st.checkbox("Select All", value=True)
     
@@ -59,13 +89,22 @@ with st.sidebar:
     
     st.caption("Filters determine which state transcripts to search")
 
+
+
 # Example questions
 with st.expander("Example Questions"):
     st.info("""
     - How were interest rates discussed in last year's PSC meetings?
     - Give examples of hurricane relief preparation plans.
-    - Did a change in oil prices affect growth expectations in 2021?
+    - Summarize the discussions on gas prices as a result of the Russian invasion of Ukraine.
     """)
+
+
+# Show the popup on first visit
+if not st.session_state.popup_shown:
+    info_popup()
+
+
 
 # Chat interface
 if "messages" not in st.session_state:

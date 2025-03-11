@@ -2,21 +2,26 @@
 
 ## **📌 Project Overview**
 
-This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using **Weaviate** as a vector database, **Hugging Face embeddings**, and **FastAPI** for backend processing. The frontend interface is built with **Streamlit**, allowing users to search **YouTube transcripts** from **Public Service Commission (LPSC) meetings** and retrieve relevant insights.
+This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using **Weaviate** as a vector database, **Cohere embeddings**, and **FastAPI** for backend processing. The frontend interface is built with **Streamlit**, allowing users to search **YouTube transcripts** from **Public Service Commission (PSC) meetings** and retrieve relevant insights.
 
 ## **📂 Project Structure**
 
 ```
 Entergy-AI/
-│── RAG/
-│   │── streamlit/
-│   │   ├── app.py           # Streamlit frontend for querying transcripts
-│   │── fastapi_app.py       # FastAPI backend for serving search queries
-│   │── rag_demo.py          # Weaviate client & RAG logic
-│   │── data/                # Folder containing JSON transcripts
-│── .env                     # Environment variables (API keys, credentials)
-│── requirements.txt          # Dependencies for the project
-│── README.md                 # Project documentation
+├── RAG/                      # Retrieval Augmented Generation system
+│   ├── streamlit/            # Streamlit frontend
+│   │   ├── __init__.py
+│   │   └── app.py            # Streamlit frontend for querying transcripts
+│   ├── __init__.py
+│   ├── batch_upload.ipynb    # Notebook for batch uploading transcripts to Weaviate
+│   ├── load_transcripts.py   # Script for loading transcript data
+│   ├── routes.py             # FastAPI routes for the backend
+│   ├── upload_transcripts.ipynb  # Notebook for transcript upload workflows
+│   ├── weaviate_class.py     # Weaviate client wrapper class
+│   ├── weviate.py            # Weaviate utilities            
+├── .gitignore                # Git ignore file
+├── readme.md                 # Project documentation
+└── requirements.txt          # Dependencies for the project
 ```
 
 ---
@@ -53,6 +58,7 @@ WEAVIATE_URL="https://your-weaviate-instance.weaviate.cloud"
 WEAVIATE_KEY="your_weaviate_api_key"
 HUGGINGFACE_API_KEY="your_huggingface_api_key"
 OPENAI_KEY="your_openai_api_key"
+COHERE_KEY="your_cohere_api_key"
 ```
 
 ### **5️⃣ Run Weaviate Schema Initialization**
