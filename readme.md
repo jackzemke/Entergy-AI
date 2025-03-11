@@ -1,4 +1,4 @@
-# **Public Service Commission RAG Chatbot**
+# **REGGIE: Public Service Commission RAG Chatbot**
 
 ## **📌 Project Overview**
 
