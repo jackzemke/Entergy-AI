@@ -55,8 +55,6 @@ Create a `.env` file in the root directory and add your API keys:
 ```
 WEAVIATE_URL="https://your-weaviate-instance.weaviate.cloud"
 WEAVIATE_KEY="your_weaviate_api_key"
-HUGGINGFACE_API_KEY="your_huggingface_api_key"
-OPENAI_KEY="your_openai_api_key"
 COHERE_KEY="your_cohere_api_key"
 ANTHROPIC_KEY='your_claude_api_key'
 
