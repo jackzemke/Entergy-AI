@@ -1,11 +1,8 @@
-
-
-# routes.py
 import os
 import logging
 from fastapi import FastAPI, APIRouter
 from pydantic import BaseModel
-from RAG.weaviate_class import PSC_RAG  # ✅ Import directly from RAG
+from weaviate_class import PSC_RAG  # ✅ Import directly from RAG
 from dotenv import load_dotenv
 from rich.logging import RichHandler
 

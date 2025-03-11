@@ -7,6 +7,8 @@ from weaviate.auth import AuthApiKey
 from anthropic import Anthropic
 from dotenv import load_dotenv
 from rich.logging import RichHandler
+import json
+
 
 # Load environment variables
 load_dotenv()
@@ -50,6 +52,7 @@ class PSC_RAG:
     def get_context(self, query, states=None, limit=7):
         """
         Get relevant context from Weaviate based on the query and states filter.
+        Now includes YouTube hyperlinks for videos based on the mapping file.
         
         Args:
             query (str): The user's question
@@ -60,7 +63,22 @@ class PSC_RAG:
             str: Formatted context string with transcript excerpts
         """
         try:
-            # TODO: incorporate state filtering
+            # Handle different state parameter formats
+            if isinstance(states, str):
+                states = [states]
+            elif states is None:
+                states = ["Louisiana"]
+                
+            # Load the video mapping file
+            try:
+                mapping_file = "/Users/petersapountzis/Desktop/tulane/spring2025/cmps4010/Entergy-AI/video_mapping.json"
+                with open(mapping_file, "r") as f:
+                    video_mapping = json.load(f)
+                logger.info(f"Loaded video mapping with {len(video_mapping)} entries")
+            except (FileNotFoundError, json.JSONDecodeError) as e:
+                logger.error(f"Error loading video mapping: {e}")
+                video_mapping = {}
+            
             # Map full state names to codes used in the Weaviate database
             state_mapping = {
                 "Louisiana": "LA",
@@ -119,7 +137,7 @@ class PSC_RAG:
             # Check if results were found
             collection_name = "TranscriptsV2"
             if not result.get('data', {}).get('Get', {}).get(collection_name):
-                return f"No relevant context found for your query in the selected states: {', '.join(states or ['All'])}"
+                return f"No relevant context found for your query in the selected states: {', '.join(states)}"
             
             # Process the results
             contexts = []
@@ -127,14 +145,16 @@ class PSC_RAG:
                 text = r.get('text', '').strip()
                 if len(text) > 10:  # Filter out short snippets
                     # Format timestamp
-                    minutes = int(r.get('start', 0) // 60)
-                    seconds = int(r.get('start', 0) % 60)
+                    start = r.get('start', 0)
+                    minutes = int(start // 60)
+                    seconds = int(start % 60)
                     timestamp = f"{minutes}:{seconds:02d}"
+                    time_seconds = int(start)  # For YouTube timestamp parameter
                     
                     # Get state
                     state = r.get('state', '')
                     
-                    # Get video_id (now should be the full filename)
+                    # Get video_id
                     video_id_value = r.get('video_id')
                     if video_id_value is None:
                         video_id = "PSC Meeting"
@@ -143,8 +163,37 @@ class PSC_RAG:
                     else:
                         video_id = str(video_id_value)
                     
-                    # Format the context entry with state, video_id, and timestamp
-                    contexts.append(f"[{state}, {video_id}, {timestamp}] \"{text}\"")
+                    # Try to match with video mapping using various methods
+                    youtube_url = None
+                    youtube_id = None
+                    
+                    # Try exact match first
+                    if video_id in video_mapping:
+                        youtube_id = video_mapping[video_id]["youtube_id"]
+                    else:
+                        # Try matching with state prefix
+                        state_prefix_key = f"{state}_{video_id}"
+                        if state_prefix_key in video_mapping:
+                            youtube_id = video_mapping[state_prefix_key]["youtube_id"]
+                        else:
+                            # Try fuzzy matching by looking for substrings
+                            for mapping_key, mapping_data in video_mapping.items():
+                                # Check if mapping key contains our video_id or vice versa
+                                # Also check if they are from the same state
+                                if ((video_id in mapping_key or mapping_key in video_id) and
+                                    mapping_data.get("state", "") == state):
+                                    youtube_id = mapping_data["youtube_id"]
+                                    break
+                    
+                    # Create YouTube URL if we found a match
+                    if youtube_id:
+                        youtube_url = f"https://www.youtube.com/watch?v={youtube_id}&t={time_seconds}"
+                        context_entry = f"[{state}, [{video_id}]({youtube_url}), {timestamp}] \"{text}\""
+                    else:
+                        # No match found, use regular format
+                        context_entry = f"[{state}, {video_id}, {timestamp}] \"{text}\""
+                    
+                    contexts.append(context_entry)
             
             # Return formatted context
             if contexts:
@@ -156,28 +205,54 @@ class PSC_RAG:
             logger.error(f"Error in get_context: {e}")
             return f"Error retrieving context: {str(e)}"
 
-    def ask(self, question, state="Louisiana"):
+    def ask(self, question, states=None):
+        """
+        Answer a question based on PSC meeting transcript context.
+        
+        Args:
+            question (str): The question to answer
+            states (list or str): State(s) to filter by. Can be a string or list. Defaults to "Louisiana".
+            
+        Returns:
+            str: The answer to the question
+        """
         try:
-            context = self.get_context(question)
+            # Convert single state string to list for compatibility
+            if isinstance(states, str):
+                states = [states]
+            elif states is None:
+                states = ["Louisiana"]
+                
+            # Get context with the provided states filter
+            context = self.get_context(question, states=states)
+            
             response = self.claude.messages.create(
                 model="claude-3-opus-20240229",
                 max_tokens=1000,
                 system="""You are a specialized assistant for answering questions about Public Service Commission (PSC) meetings and energy regulation. 
 
-                    Your primary role is to provide accurate, factual information based EXCLUSIVELY on the transcript excerpts provided.
+    Your primary role is to provide accurate, factual information based EXCLUSIVELY on the transcript excerpts provided.
 
-                    Guidelines:
-                    1. Base your answers ONLY on the provided transcript excerpts - never include outside knowledge about PSC meetings or energy regulations
-                    2. For each key point in your answer, include a citation with [VIDEO_ID at TIMESTAMP] format when available
-                    3. If timestamps aren't available, cite the speaker or meeting date if present in the context
-                    4. If the question cannot be answered based on the provided excerpts, state: "The provided transcript excerpts don't contain information about [topic]"
-                    6. Maintain a formal, objective tone appropriate for regulatory information
-                    7. If transcript excerpts contain conflicting information, acknowledge the conflict and present both perspectives with proper citations
+    Guidelines:
+    1. Base your answers ONLY on the provided transcript excerpts - never include outside knowledge about PSC meetings or energy regulations
+    2. For each key point in your answer, include the citation with the provided format, maintaining all hyperlinks
+    3. Always preserve the exact URL format in citations - these contain YouTube links with timestamps
+    4. If the context contains multiple transcript segments, clearly indicate which segment supports each part of your answer
+    5. If the question cannot be answered based on the provided excerpts, state: "The provided transcript excerpts don't contain information about [topic]"
+    6. Maintain a formal, objective tone appropriate for regulatory information
+    7. Do not speculate beyond what is explicitly stated in the transcripts
+    8. If transcript excerpts contain conflicting information, acknowledge the conflict and present both perspectives with proper citations
+    9. Keep answers concise (4-5 sentences maximum) unless detailed technical information is requested
 
-                    Format your response with clear citations, for example:
-                    "The Louisiana PSC approved the rate increase in March 2023 [ABC123XYZ at 01:24:35]. Commissioner Smith expressed concerns about the impact on low-income residents [ABC123XYZ at 01:26:10]."
+    IMPORTANT: The citations in the transcript excerpts use markdown link format which you must preserve exactly in your answer. The format is:
+    [STATE, [VIDEO_ID](YOUTUBE_URL), TIMESTAMP]
 
-                    Your goal is to be a reliable source of information about PSC proceedings while providing clear citations to the original source material.""",
+    For example, when you see a citation like:
+    [LA, [2023-03-15_PSC_Meeting](https://www.youtube.com/watch?v=abc123&t=5075), 01:24:35]
+
+    Include it exactly as-is in your answer to maintain the clickable YouTube link.
+
+    Your goal is to be a reliable source of information about PSC proceedings while providing clear citations with clickable links to the original source material.""",
             messages=[{
                 "role": "user",
                 "content": f"""
@@ -196,7 +271,7 @@ class PSC_RAG:
                 return response.content[0].text
             else:
                 return str(response.content)
-                
+                    
         except Exception as e:
             logger.error(f"Error processing question: {str(e)}")
             return "Sorry, I encountered an error processing your question."
