@@ -157,7 +157,6 @@ class PSC_RAG:
             return f"Error retrieving context: {str(e)}"
 
     def ask(self, question, state="Louisiana"):
-        # TODO: incorporate state filtering
         try:
             context = self.get_context(question)
             response = self.claude.messages.create(
