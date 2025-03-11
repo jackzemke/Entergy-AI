@@ -31,7 +31,7 @@ Entergy-AI/
 
 ```bash
 git clone https://github.com/[yourusername]/Entergy-AI.git
-cd Entergy-AI/RAG
+cd Entergy-AI
 ```
 
 ### **2️⃣ Create & Activate Virtual Environment**
