@@ -8,20 +8,19 @@ This project implements a **Retrieval-Augmented Generation (RAG) pipeline** usin
 
 ```
 Entergy-AI/
+├── parsers/                  # Various transcript data, parsing scripts, etc.
 ├── RAG/                      # Retrieval Augmented Generation system
-│   ├── streamlit/            # Streamlit frontend
-│   │   ├── __init__.py
-│   │   └── app.py            # Streamlit frontend for querying transcripts
+│   ├── streamlit/            # 🚨 Streamlit frontend directory
 │   ├── __init__.py
 │   ├── batch_upload.ipynb    # Notebook for batch uploading transcripts to Weaviate
 │   ├── load_transcripts.py   # Script for loading transcript data
-│   ├── routes.py             # FastAPI routes for the backend
+│   ├── routes.py             # 🚨 FastAPI routes for the backend
 │   ├── upload_transcripts.ipynb  # Notebook for transcript upload workflows
-│   ├── weaviate_class.py     # Weaviate client wrapper class
+│   ├── weaviate_class.py     # 🚨 Weaviate client wrapper class
 │   ├── weviate.py            # Weaviate utilities            
 ├── .gitignore                # Git ignore file
 ├── readme.md                 # Project documentation
-└── requirements.txt          # Dependencies for the project
+└── requirements.txt          # 🚨 Dependencies for the project
 ```
 
 ---
