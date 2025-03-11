@@ -2,7 +2,7 @@
 
 ## **📌 Project Overview**
 
-This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using **Weaviate** as a vector database, **Cohere embeddings**, and **FastAPI** for backend processing. The frontend interface is built with **Streamlit**, allowing users to search **YouTube transcripts** from **Public Service Commission (PSC) meetings** and retrieve relevant insights.
+Meet REGGIE (REGulatory Governance Inquiry Engine)!! This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using **Weaviate** as a vector database, **Cohere embeddings**, and **FastAPI** for backend processing. The frontend interface is built with **Streamlit**, allowing users to search **YouTube transcripts** from **Public Service Commission (PSC) meetings** and retrieve relevant insights.
 
 ## **📂 Project Structure**
 
