@@ -59,6 +59,8 @@ WEAVIATE_KEY="your_weaviate_api_key"
 HUGGINGFACE_API_KEY="your_huggingface_api_key"
 OPENAI_KEY="your_openai_api_key"
 COHERE_KEY="your_cohere_api_key"
+ANTHROPIC_KEY='your_claude_api_key'
+
 ```
 
 ### **5️⃣ Run Weaviate Schema Initialization**
@@ -66,7 +68,7 @@ COHERE_KEY="your_cohere_api_key"
 Before uploading transcripts, ensure the schema exists in Weaviate:
 
 ```python
-python rag_demo.py --init-schema ## WORK IN PROGRESS
+python weviate_class.py --init-schema ## WORK IN PROGRESS
 ```
 
 ---
@@ -76,7 +78,8 @@ python rag_demo.py --init-schema ## WORK IN PROGRESS
 ### **1️⃣ Start FastAPI Backend**
 
 ```bash
-uvicorn fastapi_app:app --reload
+cd RAG
+uvicorn routes:app --reload
 ```
 
 ✅ FastAPI will be running at: **`http://127.0.0.1:8000`**
@@ -91,7 +94,8 @@ uvicorn fastapi_app:app --reload
 ### **2️⃣ Start Streamlit Frontend**
 
 ```bash
-streamlit run streamlit/app.py
+cd rag/streamlit
+streamlit run app.py
 ```
 
 ✅ Open **`http://localhost:8501`** in your browser.
@@ -103,7 +107,7 @@ streamlit run streamlit/app.py
 To upload **Louisiana PSC transcripts**, run:
 
 ```python
-python rag_demo.py --upload "data/Louisiana_Transcript_2024.json" ## WORK IN PROGRESS
+python weviate_class.py --upload "data/example_transcripts.json" ## WORK IN PROGRESS
 ```
 
 ---
@@ -128,18 +132,12 @@ Simply enter your query in the UI and view relevant transcript excerpts
 ## **📌 Features & Capabilities**
 
 ✅ **Weaviate Integration** - Stores & retrieves transcripts efficiently  
-✅ **Hugging Face Vectorizer** - Generates embeddings for transcript search  
+✅ **Cohere Vectorizer** - Generates embeddings for transcript search  
 ✅ **FastAPI Backend** - Handles RAG pipeline & queries  
 ✅ **Streamlit Frontend** - User-friendly search interface  
 ✅ **Batch Processing** - Uploads & indexes transcripts in chunks  
-✅ **State-Based Search** - Filter results by transcript source (Louisiana, etc.)
+✅ **State-Based Search** - Filter results by transcript source (Louisiana, Mississippi, etc.)
 
 ---
 
-## **🛠️ Future Enhancements**
-
-- [ ] Add support for **multiple states** & filtering
-- [ ] Implement **Hybrid Search** (BM25 + Vector Search)
-- [ ] Improve **document chunking strategy** for better retrieval
-
----
+A Tulane Computer Science Capstone project built by Peter Sapountzis, Jack Zemke, Bryan Flanagan, Rhon Farber, Griffin Olimpio
