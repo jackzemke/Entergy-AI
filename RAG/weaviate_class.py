@@ -49,7 +49,7 @@ class PSC_RAG:
             logger.error(f"Failed to initialize PSC_RAG: {str(e)}")
             raise
 
-    def get_context(self, query, states=None, limit=7):
+    def get_context(self, query, states, limit=10):
         """
         Get relevant context from Weaviate based on the query and states filter.
         Now includes YouTube hyperlinks for videos based on the mapping file.
@@ -63,12 +63,16 @@ class PSC_RAG:
             str: Formatted context string with transcript excerpts
         """
         try:
-            # Handle different state parameter formats
+            logger.info(f"get_context called with query: {query}, states: {states}, limit: {limit}")
+
+            # # Handle different state parameter formats
             if isinstance(states, str):
                 states = [states]
             elif states is None:
-                states = ["Louisiana"]
-                
+                states = ["Louisiana", "Arkansas", "Mississippi", "Texas"]
+
+            # logger.info(f"States after format handling: {states}")
+
             # Load the video mapping file
             try:
                 mapping_file = "/Users/petersapountzis/Desktop/tulane/spring2025/cmps4010/Entergy-AI/video_mapping.json"
@@ -84,8 +88,8 @@ class PSC_RAG:
                 "Louisiana": "LA",
                 "Arkansas": "ARK",
                 "Mississippi": "MISS",
-                "Texas": "TX",
-                "New Orleans": "NO"
+                "Texas": "TX"
+                # "New Orleans": "NO"
             }
             
             # Initialize the Weaviate query
@@ -127,15 +131,20 @@ class PSC_RAG:
                         "operator": "Or",
                         "operands": state_filters
                     })
+            else:
+                logger.info("No state filter applied")
+                return "No state filter applied. Return this error."
             
             # Complete the hybrid search query with limit
+            logger.info(f"Executing hybrid search with query: {query}")
             result = weaviate_query.with_hybrid(
                 query=query,
-                alpha=0.5
+                alpha=0.2
             ).with_limit(limit).do()
             
             # Check if results were found
             collection_name = "TranscriptsV2"
+            logger.info(f"Result: {result}")
             if not result.get('data', {}).get('Get', {}).get(collection_name):
                 return f"No relevant context found for your query in the selected states: {', '.join(states)}"
             
@@ -195,17 +204,21 @@ class PSC_RAG:
                     
                     contexts.append(context_entry)
             
+            
+            
             # Return formatted context
             if contexts:
+                logger.info(contexts)
                 return "\n\n".join(contexts)
             else:
+                logger.info("No relevant context found")
                 return "No relevant context with sufficient content found."
             
         except Exception as e:
             logger.error(f"Error in get_context: {e}")
             return f"Error retrieving context: {str(e)}"
 
-    def ask(self, question, states=None):
+    def ask(self, question, states):
         """
         Answer a question based on PSC meeting transcript context.
         
@@ -217,42 +230,45 @@ class PSC_RAG:
             str: The answer to the question
         """
         try:
-            # Convert single state string to list for compatibility
+            # deal with state filters
             if isinstance(states, str):
                 states = [states]
-            elif states is None:
-                states = ["Louisiana"]
+            elif states is None or []:
+                return "Please provide a state filter to search for context."
                 
             # Get context with the provided states filter
+            logger.info(f"sending to context query")
             context = self.get_context(question, states=states)
+            logger.info(f"context: {context}")
             
             response = self.claude.messages.create(
-                model="claude-3-opus-20240229",
+                model="claude-3-5-haiku-latest",
                 max_tokens=1000,
-                system="""You are a specialized assistant for answering questions about Public Service Commission (PSC) meetings and energy regulation. 
+                system=
+                    """You are a specialized assistant for answering questions about Public Service Commission (PSC) meetings and energy regulation. 
 
-    Your primary role is to provide accurate, factual information based EXCLUSIVELY on the transcript excerpts provided.
+                    Your primary role is to provide accurate, factual information based on the transcript excerpts provided, and form concise, yet comprehensive answers summarizing your findings.
 
-    Guidelines:
-    1. Base your answers ONLY on the provided transcript excerpts - never include outside knowledge about PSC meetings or energy regulations
-    2. For each key point in your answer, include the citation with the provided format, maintaining all hyperlinks
-    3. Always preserve the exact URL format in citations - these contain YouTube links with timestamps
-    4. If the context contains multiple transcript segments, clearly indicate which segment supports each part of your answer
-    5. If the question cannot be answered based on the provided excerpts, state: "The provided transcript excerpts don't contain information about [topic]"
-    6. Maintain a formal, objective tone appropriate for regulatory information
-    7. Do not speculate beyond what is explicitly stated in the transcripts
-    8. If transcript excerpts contain conflicting information, acknowledge the conflict and present both perspectives with proper citations
-    9. Keep answers concise (4-5 sentences maximum) unless detailed technical information is requested
+                    Guidelines:
+                    1. Base your answers on the provided transcript excerpts
+                    2. For each key point in your answer, include the citation with the provided format, maintaining all hyperlinks
+                    3. Always preserve the exact URL format in citations - these contain YouTube links with timestamps
+                    4. If the context contains multiple transcript segments, clearly indicate which segment supports each part of your answer
+                    5. If the question cannot be answered based on the provided excerpts, state: "The provided transcript excerpts don't contain information about [topic]"
+                    6. Maintain a formal, objective tone appropriate for regulatory information
+                    7. Do not speculate beyond what is explicitly stated in the transcripts - but you can use them to infer likely outcomes
+                    8. If transcript excerpts contain conflicting information, acknowledge the conflict and present both perspectives with proper citations
+                    9. If you are provided with quote excerpts that you deem are not relevant, or hard to draw conclusions from, omit them from your analysis, and focus on the most informative parts
 
-    IMPORTANT: The citations in the transcript excerpts use markdown link format which you must preserve exactly in your answer. The format is:
-    [STATE, [VIDEO_ID](YOUTUBE_URL), TIMESTAMP]
+                    IMPORTANT: The citations in the transcript excerpts use markdown link format which you must preserve exactly in your answer. The format is:
+                    [STATE, [VIDEO_ID](YOUTUBE_URL), TIMESTAMP]
 
-    For example, when you see a citation like:
-    [LA, [2023-03-15_PSC_Meeting](https://www.youtube.com/watch?v=abc123&t=5075), 01:24:35]
+                    For example, when you see a citation like:
+                    [LA, [2023-03-15_PSC_Meeting](https://www.youtube.com/watch?v=abc123&t=5075), 01:24:35]
 
-    Include it exactly as-is in your answer to maintain the clickable YouTube link.
+                    Include it exactly as-is in your answer to maintain the clickable YouTube link.
 
-    Your goal is to be a reliable source of information about PSC proceedings while providing clear citations with clickable links to the original source material.""",
+                    Your goal is to be a reliable source of information about PSC proceedings while providing clear citations with clickable links to the original source material.""",
             messages=[{
                 "role": "user",
                 "content": f"""

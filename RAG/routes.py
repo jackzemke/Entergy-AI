@@ -27,7 +27,6 @@ rag = PSC_RAG(
     weaviate_key=weaviate_key,
     anthropic_key=anthropic_key
 )
-
 # Set up logging
 logging.basicConfig(
     level=logging.INFO,
@@ -39,14 +38,14 @@ logger = logging.getLogger("psc_rag")
 # Define a Pydantic model for incoming requests
 class Query(BaseModel):
     question: str
-    # TODO: incorporate state filtering
-    state: str = "Louisiana"  # Optional state parameter
+    states: list[str]
 
 # Define the /ask endpoint
 @router.post("/ask")
 async def ask_question(query: Query):
-    # TODO: incorporate state filtering
-    answer = rag.ask(query.question, query.state)
+    logger.info(f"Received question: {query.question}")
+    logger.info(f"States filter: {query.states}")
+    answer = rag.ask(query.question, query.states)
     return {"response": answer}
 
 # Include the router in the FastAPI app

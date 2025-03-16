@@ -1,5 +1,7 @@
 import streamlit as st
 import requests
+import re
+
 
 # URL of your FastAPI endpoint
 API_URL = "http://127.0.0.1:8000/ask"
@@ -32,7 +34,7 @@ def info_popup():
 
 
 
-# Custom CSS
+# CSS formatting
 st.markdown("""
 <style>
     [data-testid="stAppViewContainer"] {
@@ -64,6 +66,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 # Header
 st.markdown("<h1 class='header'>Entergy PSC RAG Chat</h1>", unsafe_allow_html=True)
@@ -128,14 +131,15 @@ if prompt := st.chat_input("Ask a question about PSC meetings..."):
     if filter_ms: filters_applied.append("Mississippi")
     if filter_ar: filters_applied.append("Arkansas")
     if filter_no: filters_applied.append("New Orleans")
+
     
     if not filters_applied:
-        filters_applied = ["Louisiana", "Texas", "Mississippi", "Arkansas", "New Orleans"]
+        filters_applied = ["Louisiana", "Texas", "Mississippi", "Arkansas"] # add nola eventually
     
     # Display thinking indicator
     with st.spinner("Searching transcripts..."):
         try:
-            response = requests.post(API_URL, json={"question": prompt, "states": filters_applied})            
+            response = requests.post(API_URL, json={"question": prompt, "states": filters_applied})
             response.raise_for_status()
             data = response.json()
             answer = data.get("response", "No answer found.")
