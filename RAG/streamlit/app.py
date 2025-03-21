@@ -146,6 +146,7 @@ if prompt := st.chat_input("Ask a question about PSC meetings..."):
         except Exception as e:
             answer = f"Error: {e}"
     
+    
     # Display response
     with st.chat_message("assistant"):
         st.markdown(f"*Searching in: {', '.join(filters_applied)}*")
