@@ -92,6 +92,15 @@ with st.sidebar:
     
     st.caption("Filters determine which state transcripts to search")
 
+    # Add a radio button in the sidebar for selecting question type
+    st.write("---")  # Add a visual separator
+    st.header("Question Type")
+    question_type = st.radio(
+        "Select the type of question:",
+        ["New Search", "Follow-up Question"],
+        help="'New Search' will search the database for new context. 'Follow-up Question' will use the existing conversation context."
+    )
+
 
 
 # Example questions
@@ -112,6 +121,7 @@ if not st.session_state.popup_shown:
 # Chat interface
 if "messages" not in st.session_state:
     st.session_state.messages = []
+    st.session_state.chat_history = []  # Store Claude's chat history
 
 # Display chat messages
 for message in st.session_state.messages:
@@ -120,6 +130,7 @@ for message in st.session_state.messages:
 
 # Input and processing
 if prompt := st.chat_input("Ask a question about PSC meetings..."):
+    # Add user message to display history
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -132,24 +143,54 @@ if prompt := st.chat_input("Ask a question about PSC meetings..."):
     if filter_ar: filters_applied.append("Arkansas")
     if filter_no: filters_applied.append("New Orleans")
 
-    
     if not filters_applied:
-        filters_applied = ["Louisiana", "Texas", "Mississippi", "Arkansas"] # add nola eventually
+        filters_applied = ["Louisiana", "Texas", "Mississippi", "Arkansas"]
     
     # Display thinking indicator
-    with st.spinner("Searching transcripts..."):
+    with st.spinner("Processing..."):
         try:
-            response = requests.post(API_URL, json={"question": prompt, "states": filters_applied})
+            # Determine if this is a new search based on the radio button
+            is_new_search = question_type == "New Search"
+            
+            if is_new_search:
+                response = requests.post(API_URL, 
+                    json={
+                        "question": prompt, 
+                        "states": filters_applied,
+                        "chat_history": [],  # Empty for new searches
+                        "is_new_search": True
+                    })
+                # Clear chat history for new searches
+                st.session_state.chat_history = []
+            else:
+                # For follow-ups, send the chat history
+                response = requests.post(API_URL, 
+                    json={
+                        "question": prompt, 
+                        "states": filters_applied,
+                        "chat_history": st.session_state.chat_history,
+                        "is_new_search": False
+                    })
+            
             response.raise_for_status()
             data = response.json()
             answer = data.get("response", "No answer found.")
+            
+            # Update chat history with the new exchange
+            st.session_state.chat_history.extend([
+                {"role": "user", "content": prompt},
+                {"role": "assistant", "content": answer}
+            ])
+            
         except Exception as e:
             answer = f"Error: {e}"
     
-    
     # Display response
     with st.chat_message("assistant"):
-        st.markdown(f"*Searching in: {', '.join(filters_applied)}*")
+        if is_new_search:
+            st.markdown(f"*New search in: {', '.join(filters_applied)}*")
+        else:
+            st.markdown(f"*Follow-up response for: {', '.join(filters_applied)}*")
         st.markdown(answer)
     
     st.session_state.messages.append({"role": "assistant", "content": f"*Searching in: {', '.join(filters_applied)}*\n\n{answer}"})

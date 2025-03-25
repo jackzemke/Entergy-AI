@@ -218,13 +218,15 @@ class PSC_RAG:
             logger.error(f"Error in get_context: {e}")
             return f"Error retrieving context: {str(e)}"
 
-    def ask(self, question, states):
+    def ask(self, question, states, chat_history=None, is_new_search=True):
         """
         Answer a question based on PSC meeting transcript context.
         
         Args:
             question (str): The question to answer
             states (list or str): State(s) to filter by. Can be a string or list. Defaults to "Louisiana".
+            chat_history (list): List of previous chat messages for context
+            is_new_search (bool): Whether to perform a new RAG search or use existing context
             
         Returns:
             str: The answer to the question
@@ -235,11 +237,46 @@ class PSC_RAG:
                 states = [states]
             elif states is None or []:
                 return "Please provide a state filter to search for context."
+            
+            # Initialize chat history if None
+            if chat_history is None:
+                chat_history = []
                 
-            # Get context with the provided states filter
-            logger.info(f"sending to context query")
-            context = self.get_context(question, states=states)
-            logger.info(f"context: {context}")
+            # Get context only for new searches
+            context = ""
+            if is_new_search:
+                logger.info(f"Performing new RAG search")
+                context = self.get_context(question, states=states)
+                logger.info(f"context: {context}")
+            
+            # Prepare the messages for Claude
+            messages = []
+            
+            # Add chat history
+            for msg in chat_history:
+                messages.append({
+                    "role": msg["role"],
+                    "content": msg["content"]
+                })
+            
+            # Add the current question with context for new searches
+            if is_new_search:
+                messages.append({
+                    "role": "user",
+                    "content": f"""
+                        Based on these PSC meeting transcript excerpts, answer this question:
+
+                        TRANSCRIPT EXCERPTS:
+                        {context}
+
+                        QUESTION: {question}"""
+                })
+            else:
+                # For follow-ups, just add the question
+                messages.append({
+                    "role": "user",
+                    "content": question
+                })
             
             response = self.claude.messages.create(
                 model="claude-3-5-haiku-latest",
@@ -259,6 +296,8 @@ class PSC_RAG:
                     7. Do not speculate beyond what is explicitly stated in the transcripts - but you can use them to infer likely outcomes
                     8. If transcript excerpts contain conflicting information, acknowledge the conflict and present both perspectives with proper citations
                     9. If you are provided with quote excerpts that you deem are not relevant, or hard to draw conclusions from, omit them from your analysis, and focus on the most informative parts
+                    10. For follow-up questions, use your conversation history to provide more relevant and contextual answers
+                    11. If the question is a follow-up question, you are allowed to use your own judgement and knowledge to answer the question, even if it is not explicitly stated in the transcript excerpts
 
                     IMPORTANT: The citations in the transcript excerpts use markdown link format which you must preserve exactly in your answer. The format is:
                     [STATE, [VIDEO_ID](YOUTUBE_URL), TIMESTAMP]
@@ -269,16 +308,8 @@ class PSC_RAG:
                     Include it exactly as-is in your answer to maintain the clickable YouTube link.
 
                     Your goal is to be a reliable source of information about PSC proceedings while providing clear citations with clickable links to the original source material.""",
-            messages=[{
-                "role": "user",
-                "content": f"""
-                    Based on these PSC meeting transcript excerpts, answer this question:
-
-                    TRANSCRIPT EXCERPTS:
-                    {context}
-
-                    QUESTION: {question}"""
-            }])
+                messages=messages
+            )
             
             # Handle different response structures
             if hasattr(response.content, 'text'):

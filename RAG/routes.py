@@ -39,13 +39,21 @@ logger = logging.getLogger("psc_rag")
 class Query(BaseModel):
     question: str
     states: list[str]
+    chat_history: list[dict] = []  # List of previous messages
+    is_new_search: bool = True  # Whether to perform a new search
 
 # Define the /ask endpoint
 @router.post("/ask")
 async def ask_question(query: Query):
     logger.info(f"Received question: {query.question}")
     logger.info(f"States filter: {query.states}")
-    answer = rag.ask(query.question, query.states)
+    logger.info(f"Is new search: {query.is_new_search}")
+    answer = rag.ask(
+        question=query.question, 
+        states=query.states,
+        chat_history=query.chat_history,
+        is_new_search=query.is_new_search
+    )
     return {"response": answer}
 
 # Include the router in the FastAPI app
