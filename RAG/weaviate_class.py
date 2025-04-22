@@ -89,7 +89,7 @@ class PSC_RAG:
                 "Arkansas": "ARK",
                 "Mississippi": "MISS",
                 "Texas": "TX"
-                # "New Orleans": "NO"
+                # "New Orleans": "NOLA"
             }
             
             # Initialize the Weaviate query
@@ -281,7 +281,7 @@ class PSC_RAG:
             response = self.claude.messages.create(
                 model="claude-3-5-haiku-latest",
                 max_tokens=1000,
-                system=
+                system= #TODO: split system message for chat stream vs new prompt with transcript citations
                     """You are a specialized assistant for answering questions about Public Service Commission (PSC) meetings and energy regulation. 
 
                     Your primary role is to provide accurate, factual information based on the transcript excerpts provided, and form concise, yet comprehensive answers summarizing your findings.
